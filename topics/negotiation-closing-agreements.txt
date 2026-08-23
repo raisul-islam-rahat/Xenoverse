@@ -1,0 +1,72 @@
+Question: What is negotiation in a design project?
+Answer: Negotiation is a discussion used to reach workable agreement on matters such as scope, price, schedule, revisions, rights, responsibilities, and deliverables. Good negotiation is not about defeating the other person. It aims to create clear terms that both sides understand and can realistically follow.
+
+---
+
+Question: Why should a designer understand the project before discussing price?
+Answer: Price depends on what must actually be delivered, how complex it is, how quickly it is needed, what resources are required, and what responsibilities the designer accepts. Quoting before understanding the scope can lead to underpricing, unexpected work, or later conflict.
+
+---
+
+Question: What is scope in a negotiation?
+Answer: Scope defines what work is included. It can describe deliverables, sizes or formats, number of concepts, revision arrangements, production tasks, and other responsibilities. Clear scope allows time and price to be discussed against something concrete.
+
+---
+
+Question: What is a trade-off?
+Answer: A trade-off means improving or changing one condition may affect another. A shorter deadline may require reduced scope or additional cost, while a smaller budget may require fewer deliverables. Explaining trade-offs helps negotiation move away from unrealistic demands.
+
+---
+
+Question: How should a designer discuss price professionally?
+Answer: State the price and what it covers clearly. Connect cost to scope and requirements rather than apologizing for charging. If the client needs a lower price, discuss whether the scope, schedule, or deliverables can change instead of automatically reducing the value of the same work.
+
+---
+
+Question: Why are revision terms important?
+Answer: Unlimited undefined revisions can make schedule and cost impossible to control. Revision terms help both sides understand how feedback will be handled and when a change becomes additional work or a new direction.
+
+---
+
+Question: How should deadlines be negotiated?
+Answer: Consider the actual work, review time, client feedback, dependencies, and production requirements. Do not agree to an impossible date simply to win the project. If the deadline is fixed, identify what must change in scope or resources to make it realistic.
+
+---
+
+Question: What should happen when the client requests additional work?
+Answer: First determine whether it is part of the agreed scope. If it is additional, explain the effect on price or schedule and obtain agreement before doing substantial extra work. This is more professional than silently accepting the work and becoming frustrated later.
+
+---
+
+Question: Why should agreements be documented?
+Answer: Written terms reduce reliance on memory and make responsibilities easier to verify. Documentation can cover scope, cost, payment, schedule, revisions, deliverables, rights, and approvals as appropriate. The exact legal form depends on the project and jurisdiction.
+
+---
+
+Question: What does it mean to close a negotiation?
+Answer: Closing means turning the discussion into a clear final agreement or decision. The important terms should no longer be vague. Both sides should understand what has been agreed and what action begins the next stage.
+
+---
+
+Question: What is a good way to close a negotiation?
+Answer: Summarize the agreed scope, price, schedule, deliverables, responsibilities, and any important conditions, then confirm acceptance and the next step. This is stronger than ending with a vague statement such as 'we will see' because it converts discussion into shared understanding.
+
+---
+
+Question: How should a designer handle a request they cannot accept?
+Answer: Explain the constraint clearly and offer a realistic alternative when possible. For example, if the deadline cannot support the full scope, propose a reduced first delivery or a later completion date. A respectful no is better than a promise that cannot be kept.
+
+---
+
+Question: Why is winning every point not the goal of negotiation?
+Answer: A project still has to succeed after the negotiation ends. Terms that are unfair or unrealistic for either side can damage quality, trust, and the working relationship. Sustainable agreements balance the client's needs with the designer's ability to deliver responsibly.
+
+---
+
+Question: What should be confirmed before work begins?
+Answer: Confirm the scope, deliverables, schedule, price and payment arrangement, required client inputs, revision process, approval responsibilities, and any important usage or production terms. The exact requirements vary, but major assumptions should not remain hidden.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained negotiation as the process of creating clear, workable project terms. You learned about scope, pricing, trade-offs, revisions, deadlines, additional work, documentation, professional refusal, and closing. A strong close summarizes the agreement, confirms acceptance, and makes the next action clear so both client and designer begin the project with the same expectations.

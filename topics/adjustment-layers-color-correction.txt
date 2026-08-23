@@ -1,0 +1,82 @@
+Question: What is image adjustment?
+Answer: Image adjustment means changing visual properties such as brightness, contrast, color, saturation, or tonal range. Adjustments can correct problems or create a deliberate style. Good correction starts by identifying what is actually wrong instead of changing controls randomly.
+
+---
+
+Question: What is an adjustment layer?
+Answer: An adjustment layer applies a tonal or color change without permanently rewriting the original image pixels. Its settings can be changed later, hidden, reordered, blended, or limited with a mask. This makes adjustment layers a central part of non-destructive Photoshop editing.
+
+---
+
+Question: Why are adjustment layers better than many direct adjustments?
+Answer: Direct adjustments can permanently change pixel values, which reduces flexibility if you later change your mind. Adjustment layers preserve the original layer and store the correction separately. They also make it easier to compare versions and apply the correction only to selected areas.
+
+---
+
+Question: What is brightness?
+Answer: Brightness describes how light or dark an image or area appears. Increasing brightness can reveal dark content, while decreasing it can reduce an overly bright appearance. A brightness change should not be judged alone because it can also affect perceived contrast and detail.
+
+---
+
+Question: What is contrast?
+Answer: Contrast is the difference between lighter and darker tones. Increasing contrast can make an image appear stronger, but too much can destroy shadow and highlight detail. Low contrast can look flat, although some scenes or styles intentionally use a softer tonal range.
+
+---
+
+Question: What are Levels?
+Answer: Levels is a tonal adjustment that lets you control black, white, and middle tonal values using a histogram-based interface. It can correct images that do not use the available tonal range effectively. Care is needed because pushing endpoints too far can clip useful shadow or highlight detail.
+
+---
+
+Question: What are Curves?
+Answer: Curves provides precise control over how input tones are changed into output tones. By placing points on a curve, you can brighten or darken selected tonal ranges rather than changing everything equally. Curves can also be used for color-channel adjustments, making it one of Photoshop's most powerful correction tools.
+
+---
+
+Question: What is a histogram?
+Answer: A histogram is a graph showing how image tones are distributed from dark values to bright values. It helps you understand whether an image contains mostly shadows, midtones, highlights, or possible clipping. It is evidence about the tonal distribution, not a rule that every image must have the same graph shape.
+
+---
+
+Question: What is clipping?
+Answer: Clipping occurs when tonal information is pushed to an extreme so that different details become the same pure black or pure white value. Once important detail is clipped in an output result, texture may disappear. Some images naturally contain true black or white areas, so clipping should be judged according to the subject.
+
+---
+
+Question: What are hue, saturation, and lightness?
+Answer: Hue describes the basic color family, saturation describes the strength or purity of the color, and lightness describes how light or dark it appears in that adjustment model. Hue/Saturation controls can target broad or selected color ranges. Excessive saturation often creates unnatural skin, skies, and product colors.
+
+---
+
+Question: What is color balance?
+Answer: Color balance concerns the relationship among colors in an image and can be used to correct an unwanted color cast or create a deliberate mood. For example, an image may appear too warm, too cool, too green, or too magenta. Corrections should consider neutral objects, known colors, and the intended lighting.
+
+---
+
+Question: What is white balance in practical photo correction?
+Answer: White balance is the correction of color caused by the color of the light source so that neutral objects appear appropriately neutral and other colors look believable. A technically neutral result is not always the creative goal, but correcting an accidental color cast is a common starting point.
+
+---
+
+Question: What is Vibrance and how is it different from Saturation?
+Answer: Both affect color intensity, but Vibrance is designed to adjust color intensity more selectively than a simple global Saturation change. This can sometimes produce a more controlled result, especially when some colors are already strong. The image should still be judged visually rather than assuming one control is always safer.
+
+---
+
+Question: How can an adjustment affect only part of an image?
+Answer: Every adjustment layer can use a layer mask. White areas of the mask reveal the adjustment, black areas hide it, and gray values create partial influence. This allows local corrections such as brightening a face without brightening the entire background.
+
+---
+
+Question: What is a clipping mask in an adjustment workflow?
+Answer: A clipping relationship can limit an adjustment layer so it affects a particular layer or layer structure rather than every visible layer below it. This is useful in compositions where different objects need independent color corrections.
+
+---
+
+Question: How can you avoid over-correcting an image?
+Answer: Make changes for a clear reason, compare the result with the original, and check important details at normal viewing size as well as close up. Watch for clipped tones, unnatural skin, excessive saturation, strange color casts, and loss of texture. A technically dramatic change is not automatically a better correction.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter introduced non-destructive tonal and color correction with adjustment layers. You learned brightness, contrast, Levels, Curves, histograms, clipping, Hue/Saturation, color balance, white balance, Vibrance, masks, and clipping relationships. The main lesson is to diagnose the visual problem first, preserve editability, make controlled changes, and judge the final image for natural detail and appropriate color.

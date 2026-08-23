@@ -1,0 +1,72 @@
+Question: What is a raster image?
+Answer: A raster image is built from a grid of tiny picture elements called pixels. Photographs are normally raster images because each pixel can store detailed color and tone information. The number of pixels is finite, so enlarging a raster image too far can reveal softness or visible pixel structure.
+
+---
+
+Question: What is a pixel?
+Answer: A pixel is one small unit in a raster image. Many pixels arranged in rows and columns create the complete picture. Each pixel stores color or tonal information, and the total pixel dimensions strongly affect how much detail the image can contain.
+
+---
+
+Question: What is a vector graphic?
+Answer: A vector graphic is built from mathematically defined points, lines, curves, and shapes. Because the shapes are recalculated for the required size, they can usually be enlarged or reduced without becoming pixelated. Vector graphics are especially useful for logos, icons, symbols, and illustrations with clean shapes.
+
+---
+
+Question: What is the main difference between raster and vector graphics?
+Answer: Raster graphics store an image as pixels at specific dimensions, while vector graphics describe shapes mathematically. Raster is naturally suited to photographs and complex painted detail. Vector is naturally suited to artwork that needs clean edges and flexible scaling.
+
+---
+
+Question: Why can raster images lose quality when enlarged?
+Answer: A raster file contains a limited number of original pixels. When it is enlarged beyond those dimensions, software must spread or estimate information over a larger area. It cannot recreate all real detail that was never captured, so the result may become soft, jagged, or pixelated.
+
+---
+
+Question: Why can vector graphics scale more cleanly?
+Answer: The computer stores instructions describing the geometry rather than only a fixed grid of final pixels. When the artwork is displayed or printed at another size, those shapes can be recalculated. This allows edges to remain smooth within the limits of the output device.
+
+---
+
+Question: What is resolution in raster graphics?
+Answer: Resolution is commonly used to describe the amount or density of raster image information. Pixel dimensions tell you the actual width and height in pixels, while print workflows may also describe pixel density such as pixels per inch. These concepts should not be confused with simply making a file physically larger.
+
+---
+
+Question: What is rasterization?
+Answer: Rasterization converts vector or other mathematically described content into pixels. This may be necessary for certain filters, painting operations, or output requirements. Once content is rasterized, some of its original vector editability and unlimited scaling behavior may be lost, so keeping an editable copy can be important.
+
+---
+
+Question: What is vectorization?
+Answer: Vectorization is the process of creating vector shapes from raster artwork, either manually or with automatic tracing tools. Automatic tracing can be useful, but complex photographs do not magically become simple, perfect vector artwork. Clean logos often require careful path construction or correction.
+
+---
+
+Question: Are Photoshop documents only raster-based?
+Answer: Photoshop is primarily a raster image editor, but it can also contain vector-like elements such as shape layers, paths, and live text. These elements can remain mathematically defined while they are editable. However, the final behavior depends on how they are transformed, rasterized, exported, or placed into other workflows.
+
+---
+
+Question: What types of work are best suited to raster graphics?
+Answer: Photographs, detailed photo composites, digital painting, textured artwork, and pixel-level retouching are strong raster use cases. These images depend on complex variations in color and tone that are naturally represented by pixels. Photoshop is especially strong in this area.
+
+---
+
+Question: What types of work are best suited to vector graphics?
+Answer: Logos, icons, simple illustrations, diagrams, lettering, and artwork that must appear at many sizes are common vector use cases. Clean mathematical shapes make these graphics easier to scale and often easier to edit structurally.
+
+---
+
+Question: Can raster and vector elements be used together?
+Answer: Yes. Professional designs often combine photographs with vector logos, shapes, and text. The important point is to preserve each element in the most useful form for as long as possible. A Photoshop composition, for example, can contain raster photographs together with editable text, shape layers, and placed vector artwork.
+
+---
+
+Question: How can you decide whether an image should be raster or vector?
+Answer: Ask what the image contains and how it will be used. If it depends on photographic detail, natural texture, or pixel painting, raster is usually appropriate. If it depends on clean shapes and must scale repeatedly, vector is usually better. Mixed designs can use both.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained the two major ways digital graphics are represented. Raster images use pixels and are ideal for photographs and detailed editing, while vector graphics use mathematical shapes and are ideal for scalable logos and clean artwork. You also learned about pixels, resolution, scaling, rasterization, vectorization, Photoshop's mixed capabilities, and how to choose the correct approach for a project.

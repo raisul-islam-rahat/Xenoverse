@@ -1,0 +1,82 @@
+Question: What is photo retouching?
+Answer: Photo retouching is detailed correction and enhancement of image features. It can remove temporary distractions, repair small defects, improve tone and color, and polish an image while preserving the subject's believable appearance. Retouching is more detailed than simply resizing or applying one general color adjustment.
+
+---
+
+Question: What is the difference between correction and manipulation?
+Answer: Correction generally aims to fix unwanted technical or temporary issues while keeping the scene believable, such as dust, a temporary blemish, or an unwanted color cast. Manipulation changes the content or meaning more substantially. The boundary depends on context, and honest use is especially important in documentary, news, medical, and evidence-related images.
+
+---
+
+Question: What should be checked before retouching begins?
+Answer: First identify the purpose of the image, final output size, and what actually needs correction. Examine exposure, color, skin, dust, distracting objects, sharpness, and background issues. Planning prevents unnecessary edits and helps preserve natural detail.
+
+---
+
+Question: What is the Spot Healing Brush used for?
+Answer: The Spot Healing Brush is useful for small unwanted marks such as dust spots and minor blemishes. Photoshop samples surrounding information and attempts to blend the repaired area automatically. It works best when the surrounding texture is suitable and should be checked carefully for repeated or smeared patterns.
+
+---
+
+Question: What is the Healing Brush?
+Answer: The Healing Brush allows more control over the source used for repair while blending texture with the destination's tone and color. It is useful when automatic healing chooses a poor source. The editor should sample from an area with similar texture and structure.
+
+---
+
+Question: What is the Clone Stamp tool?
+Answer: The Clone Stamp copies pixels from a chosen source area to another area. Unlike healing, it can reproduce the source more directly, making it useful for edges, patterns, and repairs that require exact control. Poor cloning can create obvious repeated textures, so source points should be chosen carefully.
+
+---
+
+Question: What is skin tone correction?
+Answer: Skin tone correction means adjusting color and tone so skin appears believable under the intended lighting and creative style. It is not about forcing every person's skin toward one standard color. Different people, lighting conditions, cameras, and environments naturally produce different appearances.
+
+---
+
+Question: Why should natural skin texture be preserved?
+Answer: Real skin contains pores, fine lines, small tonal variations, and texture. Removing all of this can make a face look plastic or artificial. Professional retouching normally reduces unwanted distractions while preserving enough real texture for the person to remain believable.
+
+---
+
+Question: Why can excessive skin smoothing look unrealistic?
+Answer: Heavy blur or smoothing destroys small texture and can create flat patches that do not respond naturally to light. It may also make the face look disconnected from sharper areas such as hair and clothing. Retouching should improve the image without making the processing itself the first thing viewers notice.
+
+---
+
+Question: What is dodge and burn in retouching?
+Answer: Dodging means selectively lightening areas and burning means selectively darkening areas. In retouching, controlled dodge and burn can reduce uneven tonal transitions while preserving texture because it changes lightness rather than simply blurring the skin. It requires patience and careful judgment.
+
+---
+
+Question: What is frequency separation?
+Answer: Frequency separation is an advanced technique that separates broader color or tonal information from finer texture information into different working layers. It can provide useful control, but careless use can create unnatural texture and color. It is a technique, not an automatic guarantee of professional skin.
+
+---
+
+Question: How should eyes and teeth be retouched?
+Answer: Eyes and teeth can be cleaned or brightened when appropriate, but they should remain consistent with the lighting and the person's natural appearance. Pure white teeth or extremely bright eye whites often look artificial. Small controlled corrections usually appear more believable.
+
+---
+
+Question: How should stray hairs be handled?
+Answer: Remove only hairs that genuinely distract or conflict with the intended finish, while preserving the natural shape and texture of the hairstyle. Fine hairs around edges may be important for realism. Over-cleaning can create a cutout or helmet-like appearance.
+
+---
+
+Question: Why should retouching be checked at different zoom levels?
+Answer: High zoom is useful for repairing individual pixels and small texture problems, but viewers usually see the image at a much smaller size. Working only while highly zoomed can lead to excessive editing. Regularly zooming out helps judge the face, lighting, proportions, and overall realism.
+
+---
+
+Question: What ethical issues should a retoucher consider?
+Answer: Retouching can influence how people and events are represented. The acceptable level of alteration depends on whether the image is advertising, portraiture, art, journalism, documentation, or another context. A retoucher should avoid deceptive changes where accuracy is required and follow the agreed purpose of the work.
+
+---
+
+Question: How can you judge whether retouching is finished?
+Answer: Compare before and after versions and ask whether distractions were reduced without destroying identity, texture, or believable lighting. Check for repeated clone patterns, blurred skin, strange edges, color patches, and inconsistent sharpness. The final result should support the photograph rather than advertise the editing.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained retouching as careful correction rather than uncontrolled beautification. You learned the roles of healing, cloning, skin-tone correction, texture preservation, dodge and burn, frequency separation, eye and teeth corrections, hair cleanup, zoom-level checks, and ethical limits. Strong retouching removes distractions while preserving believable texture, identity, lighting, and context.

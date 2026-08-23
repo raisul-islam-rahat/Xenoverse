@@ -1,0 +1,72 @@
+Question: Why is client communication important in design?
+Answer: Design solves a communication problem for someone, so the designer must understand the client's goal before making visual decisions. Clear communication reduces wrong assumptions, unnecessary revisions, and conflict. It also helps both sides understand responsibilities, limitations, and decisions.
+
+---
+
+Question: What is a design brief?
+Answer: A design brief is a clear description of the project problem, objectives, audience, required content, deliverables, constraints, schedule, and other important expectations. It gives the project a shared reference point. A brief can evolve, but important changes should be recognized rather than silently assumed.
+
+---
+
+Question: What is a user or client interview?
+Answer: An interview is a structured conversation used to learn about goals, needs, problems, users, context, and expectations. The designer asks questions and listens carefully instead of beginning with a predetermined visual solution.
+
+---
+
+Question: What is an open-ended question?
+Answer: An open-ended question invites explanation rather than a simple yes or no answer. For example, asking what users find difficult about the current design can reveal more information than asking whether they like it. Open-ended questions are especially useful during discovery.
+
+---
+
+Question: Why is active listening important?
+Answer: Active listening means paying close attention to what the person says, asking useful follow-up questions, and checking your understanding. It prevents the designer from hearing only the parts that support an existing idea. Good listening often reveals the real problem behind the first request.
+
+---
+
+Question: Should a designer lead the interview with personal opinions?
+Answer: The designer may contribute expertise, but an interview intended to discover needs should not be dominated by the designer's personal preferences. Leading the participant toward a desired answer can distort the information. First understand the person's perspective, then use design expertise to interpret it.
+
+---
+
+Question: Why should useful notes be taken?
+Answer: Notes preserve important requirements, terminology, decisions, concerns, and unanswered questions. Human memory is unreliable, especially across several meetings. Notes also help the designer compare what was said with the final brief and later feedback.
+
+---
+
+Question: What is the difference between a client's request and the underlying need?
+Answer: A request is the solution the client initially asks for, while the need is the problem they are trying to solve. A client may request a larger logo because they feel the brand is not noticeable, but the underlying issue may actually be weak hierarchy. Understanding the need allows better solutions.
+
+---
+
+Question: What should a designer learn about the target audience?
+Answer: Learn who the design is for, what they need to understand or do, where they will see it, what language and accessibility needs matter, and what context affects their decisions. Audience knowledge prevents the designer from designing only for personal taste.
+
+---
+
+Question: How should unclear requirements be handled?
+Answer: Ask specific questions, restate your understanding in simple language, and obtain agreement on important points. Do not quietly guess when the uncertainty could affect scope, cost, schedule, or the final result. Clarification early is cheaper than correction late.
+
+---
+
+Question: Why should constraints be discussed?
+Answer: Budget, time, brand rules, technical specifications, available content, legal requirements, and production limits can shape the solution. Constraints are not merely obstacles; they define the real problem the design must solve.
+
+---
+
+Question: How can a designer communicate technical ideas to a non-designer?
+Answer: Use plain language, visual examples, and explanations tied to the client's goal. Avoid unnecessary jargon. If a technical term matters, explain what it means and why it affects the result rather than expecting the client to already know it.
+
+---
+
+Question: What should happen after an important interview or meeting?
+Answer: Important decisions, requirements, and unresolved points should be summarized so both sides share the same understanding. This creates a useful record and allows misunderstandings to be corrected before more work is completed.
+
+---
+
+Question: What is professional communication?
+Answer: Professional communication is clear, respectful, timely, and focused on the project. It separates criticism of work from criticism of people, avoids vague promises, and makes responsibilities understandable. Professionalism builds trust even when difficult issues must be discussed.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained communication as a core design skill. You learned about design briefs, user and client interviews, open-ended questions, active listening, note-taking, underlying needs, target audiences, constraints, clarification, plain-language explanations, and meeting records. Strong communication helps the designer solve the correct problem and creates a shared understanding before visual work becomes expensive to change.

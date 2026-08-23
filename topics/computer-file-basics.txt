@@ -1,0 +1,72 @@
+Question: What is a computer, and why is it useful for design work?
+Answer: A computer is an electronic machine that receives information, processes it, stores it, and produces results. In design work, it lets you create, edit, save, copy, and share images and documents. Photoshop depends on the computer's processor, memory, storage, display, and operating system working together. Understanding these basics makes later software learning much easier.
+
+---
+
+Question: What are hardware and software?
+Answer: Hardware means the physical parts you can touch, such as the monitor, keyboard, mouse, processor, memory, storage drive, and graphics card. Software means the programs and instructions that run on that hardware, such as Windows, macOS, Photoshop, and a web browser. Hardware provides the resources, while software tells the computer how to use those resources.
+
+---
+
+Question: What are the main computer parts a beginner should know?
+Answer: The processor or CPU performs calculations, RAM holds information that programs are actively using, and the storage drive keeps files even after the computer is turned off. The monitor shows the visual result, while the keyboard and mouse provide input. A graphics processor can also help Photoshop display and process visual effects more smoothly.
+
+---
+
+Question: What is the difference between RAM and storage?
+Answer: RAM is temporary working memory used while programs and files are open. More available RAM can help Photoshop handle large images and several documents more smoothly. Storage, such as an SSD, keeps Photoshop, photos, documents, and other files for long-term use. Turning off the computer clears RAM, but it does not normally erase files stored on the drive.
+
+---
+
+Question: What is an operating system?
+Answer: An operating system is the main software that manages the computer and allows other programs to run. Windows and macOS are common examples used with Photoshop. It manages files, folders, memory, devices, applications, and user accounts. A designer should understand basic operating-system tasks because Photoshop files are ultimately managed through it.
+
+---
+
+Question: What are files and folders?
+Answer: A file is a stored item such as a photo, Photoshop document, PDF, or text document. A folder is a container used to organize files and other folders. Good folder organization makes project files easier to find and reduces the chance of using the wrong version. A design project may have separate folders for source images, working files, exports, fonts, and client references.
+
+---
+
+Question: What is a file name and what is a file extension?
+Answer: The file name identifies the item, while the extension usually indicates its file type. In photo.psd, photo is the name and .psd is the extension. Extensions such as .jpg, .png, .psd, and .pdf help the computer decide which programs can open the file. Changing only the letters of an extension does not truly convert the file to another format.
+
+---
+
+Question: What is a file path?
+Answer: A file path describes where a file is stored. It can include the drive, folders, subfolders, and the file name. Knowing the path is useful when Photoshop reports a missing linked file or when you need to locate project resources. Clear folder structures make paths easier to understand and maintain.
+
+---
+
+Question: What do copy, cut, paste, move, rename, and delete mean?
+Answer: Copy creates another version while leaving the original in place. Cut and paste can move an item to another location, while rename changes its name without changing its contents. Delete removes the item from its current location, often placing it in a recycle or trash area first. These simple operations are essential for managing design projects safely.
+
+---
+
+Question: What is the difference between Save and Save As?
+Answer: Save updates the current file using its existing name, location, and format. Save As creates a new file or lets you choose another name, location, or suitable format. Save As is useful when you want to preserve an earlier version before making major changes. Designers often keep an editable master file and create separate output files from it.
+
+---
+
+Question: Why should important design files be backed up?
+Answer: A computer drive can fail, a file can be deleted accidentally, or a project can become damaged. A backup is an additional copy stored separately from the main working copy. Important work should not depend on only one device or one file. Reliable backups protect the time and effort invested in a project.
+
+---
+
+Question: What is the difference between local storage and cloud storage?
+Answer: Local storage keeps files on a device or drive you control directly, such as an internal SSD or external drive. Cloud storage keeps synchronized or uploaded copies on remote systems accessed through the internet. Both can be useful, but synchronization is not always the same as a complete backup. Designers should know where the authoritative project files are stored.
+
+---
+
+Question: Why is free storage space important when using Photoshop?
+Answer: Photoshop needs storage for documents, temporary data, exports, and sometimes scratch-disk space when memory is limited. A nearly full drive can slow work and may prevent files from saving correctly. Large images and layered documents can consume significant space. Keeping reasonable free space helps the computer and Photoshop operate reliably.
+
+---
+
+Question: What basic habits protect files from accidental loss?
+Answer: Use clear folders and file names, save regularly, and keep backup copies of important work. Avoid editing the only copy of an irreplaceable original image. Confirm the destination and file type before saving or exporting, and do not disconnect external storage while files are being written. These habits prevent many common beginner mistakes.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter introduced the computer knowledge needed before serious design work. You learned the roles of hardware, software, CPU, RAM, storage, the operating system, files, folders, paths, file names, and extensions. You also learned basic file operations, the difference between Save and Save As, local and cloud storage, free-space needs, and backups. These ideas create the foundation for organizing and protecting Photoshop projects.

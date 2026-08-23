@@ -1,0 +1,77 @@
+Question: What are design principles?
+Answer: Design principles are basic ideas that help visual information feel clear, organized, attractive, and purposeful. They guide decisions about size, position, spacing, color, contrast, alignment, and relationships between elements. They are not rigid decoration rules; they help the designer communicate a message effectively.
+
+---
+
+Question: What is visual hierarchy?
+Answer: Visual hierarchy is the order in which a viewer notices and understands elements in a design. Important information should attract attention first, supporting information should come next, and minor details should remain less dominant. Size, contrast, position, spacing, color, and typography can all create hierarchy.
+
+---
+
+Question: Why is hierarchy important?
+Answer: Without hierarchy, every element may compete for equal attention and the viewer may not know where to look. Good hierarchy reduces effort by guiding the eye through the message. It is especially important in posters, advertisements, interfaces, presentations, and social-media graphics where people may look only briefly.
+
+---
+
+Question: How do size and scale create visual hierarchy?
+Answer: Larger elements usually attract attention before smaller ones, especially when other properties are similar. A large headline can establish the main message while smaller text provides details. Scale should reflect importance rather than being used randomly.
+
+---
+
+Question: How does contrast affect a design?
+Answer: Contrast means a noticeable difference between elements, such as light versus dark, large versus small, bold versus thin, or saturated versus muted. It can separate information and direct attention. Weak contrast can make content difficult to notice or read, while uncontrolled contrast can make a design feel noisy.
+
+---
+
+Question: How do light and dark values influence attention and mood?
+Answer: Light and dark values create separation, depth, emphasis, and atmosphere. A bright subject against a dark background can become a strong focal point, while a low-contrast range may feel softer or quieter. Designers should use value deliberately so important information remains visible and the intended mood supports the message.
+
+---
+
+Question: What is alignment?
+Answer: Alignment means placing elements so they share meaningful visual edges, centers, or structural relationships. Consistent alignment makes a layout feel connected and intentional. Random alignment can make even good content look disorganized.
+
+---
+
+Question: What is proximity?
+Answer: Proximity means placing related items near one another and separating unrelated groups with space. Viewers naturally interpret nearby elements as belonging together. Good proximity can communicate structure without adding unnecessary boxes or lines.
+
+---
+
+Question: What is repetition or consistency?
+Answer: Repetition means reusing visual choices such as colors, type styles, spacing patterns, shapes, or alignment. It creates consistency and helps separate elements feel like parts of the same design system. Repetition should support recognition without making every element identical.
+
+---
+
+Question: What is balance in design?
+Answer: Balance is the distribution of visual weight across a composition. Symmetrical balance can feel stable and formal, while asymmetrical balance can feel dynamic while still controlled. Balance does not require equal objects on both sides; it requires the overall composition to feel visually resolved.
+
+---
+
+Question: What is white space or negative space?
+Answer: White space is the empty area around and between design elements, even when the background is not literally white. It gives content room to breathe, separates groups, improves readability, and can create a clean visual focus. Filling every empty area usually weakens rather than strengthens a design.
+
+---
+
+Question: What is a focal point?
+Answer: A focal point is the area intended to attract attention first. It may be a headline, face, product, button, or important graphic. A focal point becomes stronger when surrounding elements support it rather than competing with it.
+
+---
+
+Question: How do color and typography contribute to hierarchy?
+Answer: Color can highlight important elements, separate groups, or create mood, while typography can distinguish headlines, subheadings, body text, and labels through size, weight, style, and spacing. Both should be used consistently. Too many competing colors or type styles can destroy hierarchy.
+
+---
+
+Question: What is unity in a design?
+Answer: Unity means the elements feel as though they belong to one coherent visual system. Consistent alignment, spacing, color, typography, imagery, and repeated forms can create unity. A unified design can still contain variety, but the variety should support the same overall message.
+
+---
+
+Question: How can a designer judge whether hierarchy is working?
+Answer: Look at the design quickly and ask what attracts attention first, second, and third. The order should match the communication goal. You can also reduce the view size, blur your attention slightly, or view the design from a distance to judge major visual masses and contrast before focusing on details.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter covered the core principles that make visual communication clear. You learned about hierarchy, size, contrast, light and dark values, alignment, proximity, repetition, balance, white space, focal points, color, typography, and unity. Together these principles help a designer control attention, organize information, establish mood, and create layouts that are easier to understand.

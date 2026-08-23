@@ -1,0 +1,72 @@
+Question: What is a design concept?
+Answer: A design concept is the central visual idea used to solve a communication problem. It connects the message, audience, content, and visual approach. A concept is stronger than decoration because it gives the designer a reason for major choices.
+
+---
+
+Question: What is a thumbnail sketch?
+Answer: A thumbnail is a small, quick sketch used to explore layout or composition ideas before detailed design begins. It focuses on major shapes, placement, hierarchy, and flow rather than polished details. Creating several thumbnails makes it cheap and fast to compare different ideas.
+
+---
+
+Question: Why should designers create several thumbnails?
+Answer: The first idea is not always the strongest. Multiple thumbnails encourage exploration before the designer becomes attached to one solution. Because they are quick, weak ideas can be discarded and promising structures can be developed without wasting production time.
+
+---
+
+Question: What should a thumbnail focus on?
+Answer: A thumbnail should focus on the arrangement of major elements: headline, image, focal point, blocks of information, white space, and overall balance. Tiny details, perfect fonts, and final effects are usually unnecessary at this stage.
+
+---
+
+Question: What is a mockup?
+Answer: A mockup is a visual presentation showing how a design may look in its intended context or as a more developed representation of the final product. Examples include a poster on a wall, a logo on packaging, or an interface displayed on a device. It helps people imagine the design beyond a flat working file.
+
+---
+
+Question: What is the difference between a thumbnail, concept, and mockup?
+Answer: A thumbnail is a quick exploration of composition, a concept is the underlying idea and visual direction, and a mockup is a more realistic or contextual presentation of a developed design. They represent different levels of thinking and presentation rather than interchangeable terms.
+
+---
+
+Question: Why are mockups useful for clients?
+Answer: Clients may find it difficult to imagine how flat artwork will appear in real use. A mockup can make scale, placement, and context easier to understand. It is useful for previews and concept presentations, but it should not misrepresent what the final production will actually achieve.
+
+---
+
+Question: What is a mockup not suitable for?
+Answer: A mockup is generally a presentation or preview tool, not automatically the final production artwork. A photograph of a business card mockup, for example, is not a replacement for the correctly sized print file. Final production requires proper dimensions, resolution, color, bleed, and other specifications.
+
+---
+
+Question: What makes a mockup believable?
+Answer: Perspective, scale, lighting, shadows, reflections, texture, and image quality should match the environment. If the inserted design ignores the surface angle or lighting, it looks pasted on. Subtle realism is usually more convincing than excessive effects.
+
+---
+
+Question: What are Smart Objects useful for in mockups?
+Answer: Smart Objects can preserve placed content in a reusable container and allow transformations or replacements with greater flexibility. Many Photoshop mockups use them so artwork can be replaced while the surrounding perspective and effects remain organized. The exact behavior depends on how the mockup file was constructed.
+
+---
+
+Question: What is a concept pitch?
+Answer: A concept pitch explains the design idea and why it solves the problem. It should connect the visual choices to the brief, audience, message, and intended outcome. A pitch is stronger when it explains reasoning rather than only saying that the design looks attractive.
+
+---
+
+Question: How many concepts should be presented?
+Answer: There is no universal number. The correct number depends on the project agreement and how distinct and well-developed the options are. Presenting several weak variations can create confusion, while a smaller number of clearly reasoned directions can make evaluation easier.
+
+---
+
+Question: How can a designer avoid spending too much time on weak concepts?
+Answer: Explore broadly at the thumbnail stage, evaluate ideas against the brief, and develop only the strongest directions. This moves effort from expensive polishing to inexpensive thinking. A clear concept should earn detailed production work by solving the communication problem.
+
+---
+
+Question: What should be checked before presenting a mockup?
+Answer: Check that the artwork is the correct version, the mockup does not distort important content, perspective and lighting are believable, and the presentation does not imply features that will not exist in production. The design itself should remain the focus.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained the progression from early ideas to convincing presentations. You learned that thumbnails quickly explore composition, concepts provide the central design idea, and mockups show developed work in context. You also learned about realistic mockups, Smart Objects, concept pitches, selecting strong directions, and why a mockup should never be confused with correctly prepared final production artwork.

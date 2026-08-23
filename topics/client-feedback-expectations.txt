@@ -1,0 +1,72 @@
+Question: What are client expectations?
+Answer: Client expectations are the client's beliefs about what will be delivered, how it will look or perform, when it will be ready, how revisions will work, and what the project includes. Problems often occur when these expectations are different from the designer's understanding.
+
+---
+
+Question: Why should expectations be clarified early?
+Answer: Unclear expectations can turn into conflict after significant work has already been completed. Agreeing on goals, deliverables, schedule, responsibilities, and revision arrangements early creates a shared reference point and makes later decisions easier.
+
+---
+
+Question: What is design feedback?
+Answer: Design feedback is information about how well a design meets requirements or where it may need change. Useful feedback is connected to goals, audience, content, usability, brand, or other agreed criteria rather than only personal preference.
+
+---
+
+Question: How should a designer ask for useful feedback?
+Answer: Guide reviewers toward the project goals. Ask whether the hierarchy communicates the main message, whether required information is clear, or whether the direction fits the intended audience. Focused questions produce more actionable feedback than simply asking whether someone likes the design.
+
+---
+
+Question: How should a designer respond to negative feedback?
+Answer: Listen fully, clarify the concern, and separate the emotional reaction from the design problem. Do not defend every choice automatically. Determine whether the feedback identifies a real issue, a misunderstanding, a new requirement, or a personal preference, then respond using the project goals.
+
+---
+
+Question: Should every client suggestion be followed exactly?
+Answer: Not necessarily. The client provides important business and contextual knowledge, while the designer contributes design expertise. When a suggestion may weaken the goal, explain the trade-off clearly and offer an alternative. Final authority depends on the project relationship, but disagreement should be handled professionally.
+
+---
+
+Question: What is a revision?
+Answer: A revision is a change made to a design after review. Revisions are a normal part of design, but the project should have a clear understanding of what kinds of changes are included and what counts as a new direction or additional scope.
+
+---
+
+Question: What is scope creep?
+Answer: Scope creep occurs when project requirements expand beyond the original agreement without corresponding changes to time, cost, or resources. Small untracked requests can accumulate into substantial extra work. Clear documentation helps distinguish normal refinement from additional scope.
+
+---
+
+Question: How does regular communication prevent conflict?
+Answer: Regular updates allow questions, delays, missing content, and changing requirements to be discovered early. Clients are less likely to be surprised by a result when they have seen appropriate checkpoints and understood the direction. Communication should be purposeful rather than constant noise.
+
+---
+
+Question: Why are design approvals important?
+Answer: An approval records that a client or responsible reviewer accepted a stage or deliverable. It reduces ambiguity about which version was accepted and provides a point from which later changes can be assessed. Important approvals should be clear and traceable.
+
+---
+
+Question: How should conflicting feedback from several stakeholders be handled?
+Answer: Identify who has decision authority and ask for consolidated priorities when possible. Do not blindly implement mutually contradictory requests. Explain the conflict and ask the responsible stakeholder to resolve which objective has priority.
+
+---
+
+Question: How can a designer explain why a requested change may cause a problem?
+Answer: Connect the explanation to consequences the client cares about. For example, instead of saying a choice is bad design, explain that smaller text may become difficult to read at the required viewing distance. Clear reasoning is more useful than personal taste.
+
+---
+
+Question: What happens when expectations change during a project?
+Answer: Confirm what changed and assess its effect on deliverables, schedule, cost, and completed work. Significant changes should be documented and agreed rather than treated as if they were always part of the original brief. This protects both the client and designer from confusion.
+
+---
+
+Question: How can final acceptance be made clear?
+Answer: Present the final deliverables against the agreed requirements, identify the final version, and obtain clear confirmation where the workflow requires it. This establishes that the expected work has been delivered and separates completion from future additional requests.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained how to manage feedback and expectations without turning design into guesswork. You learned to clarify requirements early, request goal-based feedback, handle criticism professionally, manage revisions and scope creep, record approvals, resolve conflicting stakeholder comments, explain trade-offs, and document changing requirements. Regular, clear communication keeps the client and designer aligned throughout the project.

@@ -1,0 +1,72 @@
+Question: What is AI image generation?
+Answer: AI image generation uses a trained computational model to create or transform visual content from instructions and other inputs. A user may describe a subject, environment, style qualities, composition, lighting, or other requirements. The result is generated rather than photographed or manually drawn in the traditional way.
+
+---
+
+Question: What is a prompt?
+Answer: A prompt is the instruction given to an AI system. For image generation, it describes what should appear and how it should be presented. A useful prompt communicates the goal clearly instead of relying on a random collection of impressive words.
+
+---
+
+Question: What information makes an image prompt useful?
+Answer: Useful prompts often describe the main subject, action or pose, environment, composition, viewpoint, lighting, mood, important colors or materials, and intended visual treatment. Not every prompt needs every item. Include details that actually matter to the result.
+
+---
+
+Question: Why should the main subject be stated clearly?
+Answer: If the central subject is vague, the model has more freedom to interpret the request in unwanted ways. A clear subject establishes what the image is mainly about. Supporting details should then clarify rather than compete with that subject.
+
+---
+
+Question: How do composition and camera viewpoint affect a prompt?
+Answer: Terms describing close-up, wide view, eye level, overhead view, centered composition, negative space, or subject placement influence how the scene is organized. These instructions can be more useful than adding unrelated descriptive adjectives because they directly affect visual structure.
+
+---
+
+Question: How should lighting be described?
+Answer: Describe useful qualities such as soft or hard light, direction, time of day, studio lighting, backlighting, or a high- or low-contrast mood when these matter. Avoid contradictory lighting instructions unless the desired scene genuinely contains multiple sources.
+
+---
+
+Question: How can prompts support minimalist design?
+Answer: State the need for simplicity directly: a clear focal subject, generous negative space, limited elements, controlled palette, and an intended emotional tone. A focused description is often more useful than a long list of unrelated keywords because it gives the system a coherent direction.
+
+---
+
+Question: Does a longer prompt always produce a better image?
+Answer: No. Length is useful only when the added information clarifies the goal. Long prompts can contain contradictions, repeated ideas, or details that compete for attention. A strong prompt is specific enough to guide the result while remaining internally consistent.
+
+---
+
+Question: What is prompt iteration?
+Answer: Prompt iteration means generating a result, evaluating what worked and what did not, and then changing the instruction deliberately. Instead of rewriting everything randomly, adjust the part connected to the problem, such as composition, lighting, subject detail, or background.
+
+---
+
+Question: Why should generated images be inspected carefully?
+Answer: AI-generated images can contain incorrect anatomy, text, reflections, perspective, repeated objects, inconsistent shadows, strange edges, or factual mistakes. A visually attractive result can still contain important defects. Human review remains necessary before professional use.
+
+---
+
+Question: Why can generated text inside images be unreliable?
+Answer: Image generators primarily create visual patterns, and text rendering may still produce misspellings, malformed characters, or inconsistent typography depending on the system. Important names, prices, instructions, and brand text should be checked carefully and often added or corrected with proper design tools.
+
+---
+
+Question: What file formats might AI image tools provide?
+Answer: Outputs depend on the specific system and workflow. Raster formats such as PNG or JPEG are common, while some tools or workflows may also provide other formats or vector-oriented output. A designer should verify whether the result is truly vector data rather than assuming that an extension alone guarantees vector editability.
+
+---
+
+Question: What legal and ethical issues should designers consider?
+Answer: Designers should consider the tool's terms, licensing, client requirements, privacy, trademarks, misleading content, and whether generated material is appropriate for the intended use. Rules and rights can vary by tool and jurisdiction. Professional use requires more than simply being able to generate an image.
+
+---
+
+Question: How should AI-generated content fit into a professional workflow?
+Answer: Treat generation as one part of the design process. Start from a clear brief, generate or explore suitable material, inspect the result, correct problems, integrate it with typography and layout, and prepare the final output properly. Human judgment is still responsible for whether the finished design communicates correctly.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter introduced AI image generation and prompt writing as design tools. You learned how subject, composition, viewpoint, lighting, mood, minimalism, and deliberate iteration make prompts clearer. You also learned that longer is not automatically better, generated images require quality checks, output formats vary, and legal, ethical, and professional review remain important parts of the workflow.

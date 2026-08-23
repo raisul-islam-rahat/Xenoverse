@@ -1,0 +1,23 @@
+# FORMAT: number|card title|text filename without .txt|category
+# Keep each slug lowercase with hyphens only.
+
+01|Computer & File Basics|computer-file-basics|Fundamentals
+02|Image File Formats|image-file-formats|Fundamentals
+03|Raster vs Vector Graphics|raster-vs-vector-graphics|Fundamentals
+04|Basic Design Principles & Visual Hierarchy|design-principles-visual-hierarchy|Fundamentals
+05|Photoshop Layers & Duplicate Layers|photoshop-layers|Photoshop Skills
+06|Selection, Paths & Background Removal|selection-paths-background-removal|Photoshop Skills
+07|Adjustment Layers & Color Correction|adjustment-layers-color-correction|Photoshop Skills
+08|Photo Retouching & Skin Tone Correction|photo-retouching-skin-tone|Photoshop Skills
+09|Lighting, Contrast & Image Enhancement|lighting-contrast-image-enhancement|Photoshop Skills
+10|Moodboards & Visual Inspiration|moodboards-visual-inspiration|Design & AI
+11|Thumbnails, Mockups & Concept Design|thumbnails-mockups-concept-design|Design & AI
+12|Storytelling & Minimalist Design|storytelling-minimalist-design|Design & AI
+13|AI Image Generation & Prompt Writing|ai-image-generation-prompts|Design & AI
+14|AI Background Removal & Quality Checking|ai-background-removal-quality|Design & AI
+15|Client Communication & User Interviews|client-communication-user-interviews|Professional Skills
+16|Client Feedback & Expectation Management|client-feedback-expectations|Professional Skills
+17|Presentation, Portfolio & Concept Pitching|presentation-portfolio-concept-pitching|Professional Skills
+18|Negotiation & Closing Agreements|negotiation-closing-agreements|Professional Skills
+19|File Naming, Metadata & Collaboration|file-naming-metadata-collaboration|Professional Skills
+20|Workspace Safety & OSH|workspace-safety-osh|Professional Skills

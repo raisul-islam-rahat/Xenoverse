@@ -1,0 +1,72 @@
+Question: What does OSH mean?
+Answer: OSH means Occupational Safety and Health. It concerns preventing injury and health problems while people perform their work. For designers, risks can come from long computer use, poor posture, electrical equipment, cables, lighting, repetitive movement, and the physical workspace.
+
+---
+
+Question: Why should a computer-based designer care about workplace safety?
+Answer: Computer work may look low-risk, but repeated strain and poor workstation setup can cause discomfort or injury over time. Designers may spend many hours using a mouse, keyboard, pen tablet, monitor, and other devices. Safe habits support both health and consistent work quality.
+
+---
+
+Question: What is ergonomics?
+Answer: Ergonomics is the practice of arranging work, tools, and the environment to fit the person and reduce unnecessary strain. In a computer workspace, this includes chair support, monitor position, keyboard and mouse placement, desk height, and working habits.
+
+---
+
+Question: How should a monitor be positioned?
+Answer: The monitor should generally be placed so the user can view it comfortably without repeatedly bending or twisting the neck. Distance and height should allow text and images to be seen without leaning forward. Exact positioning varies with the person, display size, vision needs, and workstation.
+
+---
+
+Question: Why are keyboard and mouse positions important?
+Answer: Poor placement can force the shoulders, wrists, or arms into uncomfortable positions for long periods. Input devices should allow relaxed, controlled use. A designer using a mouse or pen for many hours should pay attention to discomfort rather than treating pain as a normal part of the job.
+
+---
+
+Question: What risks come from using multiple devices?
+Answer: Multiple monitors, computers, tablets, chargers, and peripherals can create cable clutter, overloaded power arrangements, repeated twisting, poor viewing angles, and crowded work surfaces. These can become trip, electrical, ergonomic, or equipment hazards if the workspace is not planned carefully.
+
+---
+
+Question: How can cable-related hazards be reduced?
+Answer: Keep cables organized, protected, and away from walking areas where possible. Avoid damaged cables and unsafe temporary arrangements. Power equipment should be used according to its rated requirements and workplace electrical rules.
+
+---
+
+Question: Why is good lighting important?
+Answer: Appropriate lighting helps people see the workspace comfortably and reduces glare and extreme contrast between the screen and surroundings. Poor lighting can contribute to visual discomfort and awkward posture if a person leans toward the screen to see details.
+
+---
+
+Question: What is screen glare?
+Answer: Glare is unwanted bright reflection or excessive light on the display that makes content harder to see. It may come from windows, overhead lights, or other bright sources. Repositioning the screen, controlling light sources, and adjusting the environment can improve visibility.
+
+---
+
+Question: Why are breaks and movement important?
+Answer: Remaining in one posture and repeating the same small movements for long periods can cause fatigue and discomfort. Regular changes of posture, brief movement, and visual breaks reduce continuous strain. Work should be organized so concentration does not require ignoring physical warning signs.
+
+---
+
+Question: What is repetitive strain?
+Answer: Repetitive strain refers to discomfort or injury associated with repeated movements, force, awkward posture, or insufficient recovery. Computer users may notice symptoms in hands, wrists, arms, shoulders, neck, or back. Persistent symptoms should not be ignored and may require professional assessment.
+
+---
+
+Question: How should drinks and electrical equipment be managed?
+Answer: Liquids can damage equipment and may create electrical risks if spilled in the wrong place. Keep drinks in a stable location away from vulnerable equipment and power connections. Follow workplace rules for electrical safety and damaged equipment.
+
+---
+
+Question: Why should ventilation and heat be considered?
+Answer: Computers, displays, and other equipment generate heat. A crowded or poorly ventilated workspace can become uncomfortable and may also affect equipment operation. Ventilation should support a safe and comfortable working environment.
+
+---
+
+Question: What should a designer do when a workplace hazard is noticed?
+Answer: Do not simply work around a serious hazard indefinitely. Make the area safe if this can be done within your responsibility, and report problems through the appropriate workplace process. Electrical faults, damaged equipment, blocked routes, and other significant hazards may require qualified personnel.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter introduced Occupational Safety and Health for computer-based design work. You learned about ergonomics, monitor and input-device placement, multi-device hazards, cable safety, lighting, glare, movement, repetitive strain, liquids, heat, and hazard reporting. A safe workspace reduces avoidable injury and equipment risk, allowing designers to work comfortably and consistently over the long term.

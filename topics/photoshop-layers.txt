@@ -1,0 +1,77 @@
+Question: What is a layer in Photoshop?
+Answer: A layer is like an independent sheet containing part of a Photoshop composition. One layer may contain a photo, another text, another a shape, and another an adjustment. Layers allow these parts to be edited, moved, hidden, reordered, or changed without permanently combining everything.
+
+---
+
+Question: Why are layers important?
+Answer: Layers support non-destructive and organized editing. Instead of changing every part of an image at once, you can work on specific elements independently. This makes corrections easier, allows different versions to be tested, and helps complex documents remain manageable.
+
+---
+
+Question: What does the Layers panel show?
+Answer: The Layers panel shows the layers in the current document and their stacking order. It also provides controls for visibility, opacity, blending, grouping, locking, masks, effects, and other layer-related features. Learning to read this panel is essential because much of Photoshop's editing structure is managed there.
+
+---
+
+Question: How does layer order affect the image?
+Answer: Layers higher in the stack normally appear in front of visible content on lower layers. Transparent areas allow lower content to show through. Changing the order can therefore change which objects cover others and how the final composition appears.
+
+---
+
+Question: What does layer visibility mean?
+Answer: The eye control beside a layer determines whether that layer is currently visible. Hiding a layer does not normally delete its contents. Visibility is useful for comparing versions, isolating elements, and checking how individual layers contribute to the composition.
+
+---
+
+Question: What is a duplicate layer?
+Answer: A duplicate layer is a copy of an existing layer. It can be useful when you want to preserve the original before experimenting, create repeated elements, or build an effect from multiple copies. However, unnecessary duplicates increase document size and can make the Layers panel confusing.
+
+---
+
+Question: When is duplicating a layer better than editing the original?
+Answer: Duplicate a layer when an operation may permanently alter pixels and you want an easy fallback copy. It is also useful when the same content must appear more than once. For many adjustments, however, masks, adjustment layers, Smart Objects, or other non-destructive methods may be cleaner than repeatedly duplicating entire layers.
+
+---
+
+Question: What are layer names and why do they matter?
+Answer: Layer names describe what each layer contains or does. Names such as Product, Main Heading, Shadow, or Skin Retouch are more useful than Layer 23 copy 4. Clear naming becomes increasingly important in large documents and when files are shared with another designer.
+
+---
+
+Question: What are layer groups?
+Answer: A group is a folder-like structure inside the Layers panel that can contain related layers. For example, all text layers or all elements belonging to a product card can be grouped together. Groups reduce clutter and allow related content to be moved, hidden, or managed more easily.
+
+---
+
+Question: What does locking a layer do?
+Answer: Layer locks restrict certain changes, helping prevent accidental edits. Depending on the lock option, Photoshop can restrict movement, pixel changes, transparency changes, or all editing. Locks are useful when an element is finished or must stay in a fixed position.
+
+---
+
+Question: What are opacity and fill?
+Answer: Opacity controls how strongly the entire layer is visible, including much of its appearance and effects. Fill also changes the visibility of the layer's own content, but it can behave differently with certain layer styles. Beginners can first think of opacity as the main transparency control and learn Fill's special behavior as their work becomes more advanced.
+
+---
+
+Question: What is a background layer?
+Answer: In some documents, Photoshop may treat the original background as a special locked layer. Modern workflows can convert or unlock it when normal layer behavior is needed. The important idea is not to assume the bottom layer must always remain permanently fixed.
+
+---
+
+Question: What does merging layers mean?
+Answer: Merging combines multiple layers into fewer layers, often into a single pixel result. It can simplify a document but removes independent editability of the merged elements. Because this can be difficult to reverse later, designers should merge only when there is a clear reason and preserve an editable master when necessary.
+
+---
+
+Question: What does flattening an image mean?
+Answer: Flattening combines the visible composition into a single background-style result, discarding the separate layer structure. It can be useful for some final-output workflows, but it removes much of the editability that makes PSD files valuable. A layered master should normally be kept if future changes may be required.
+
+---
+
+Question: What are good layer-management habits?
+Answer: Use meaningful names, group related elements, remove truly unnecessary layers, keep important structures editable, and avoid destructive merging too early. Organize from the beginning rather than waiting until the file becomes confusing. A clean layer structure saves time during revisions and collaboration.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained Photoshop's layer system, which is the foundation of flexible editing. You learned how layers stack, how visibility works, why duplicate layers are useful, and how names, groups, locks, opacity, Fill, and background layers help control a document. You also learned the consequences of merging and flattening and why organized, editable layers are important for professional work.

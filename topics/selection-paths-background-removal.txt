@@ -1,0 +1,82 @@
+Question: What is a selection in Photoshop?
+Answer: A selection defines which part of an image is currently targeted for an operation. When an area is selected, many edits affect that area while leaving unselected areas protected. Selections are therefore a basic way to isolate subjects, objects, colors, or regions.
+
+---
+
+Question: Why are accurate selections important?
+Answer: Many Photoshop tasks depend on separating one area from another. A poor selection can create jagged edges, missing hair, unwanted background pieces, or visible halos. A good selection matches the real boundary closely enough for the final size and purpose of the image.
+
+---
+
+Question: What are the main types of selection tools?
+Answer: Photoshop provides tools for geometric selections, freehand or polygonal selections, color- or tone-based selections, and automatic subject or object detection. Different images require different approaches. A simple rectangular object and a person with detailed hair should not necessarily be selected with the same tool.
+
+---
+
+Question: What are Marquee tools used for?
+Answer: Marquee tools create simple geometric selections such as rectangles and ellipses. They are useful for regular shapes, cropping-like local operations, and controlled graphic areas. They are fast but not designed to follow complicated object edges.
+
+---
+
+Question: What are Lasso tools used for?
+Answer: Lasso tools allow selections to follow irregular shapes. Freehand lasso follows the pointer movement, while polygonal approaches are useful for straight-edged objects. They provide more manual control but depend on the user's accuracy.
+
+---
+
+Question: What are automatic selection tools useful for?
+Answer: Automatic tools can analyze visual differences and attempt to identify subjects, objects, colors, or regions. They can save substantial time on suitable images. However, automatic detection should be treated as a starting point that may require inspection and refinement.
+
+---
+
+Question: What does adding to or subtracting from a selection mean?
+Answer: A complex selection may not be correct in one attempt. Adding includes missing areas, while subtracting removes areas that were selected accidentally. These operations allow a selection to be built and corrected gradually.
+
+---
+
+Question: What is feathering?
+Answer: Feathering softens the transition at the edge of a selection. It can help some edits blend naturally instead of ending with a hard line. Too much feathering can make edges look blurry, so the amount should match the image and intended effect.
+
+---
+
+Question: What is Select and Mask used for?
+Answer: Select and Mask provides a workspace for refining difficult selection edges and previewing the result against different backgrounds. It is especially useful for subjects with hair, fur, soft edges, or complex boundaries. The goal is to improve the edge while avoiding halos, missing detail, and unnatural cutouts.
+
+---
+
+Question: What is a path in Photoshop?
+Answer: A path is a mathematically defined line made from points and curves rather than a painted pixel edge. Paths are useful for precise outlines, especially around products and objects with clean boundaries. They can be edited and converted into selections or used with shape-related workflows.
+
+---
+
+Question: What are anchor points and direction handles?
+Answer: Anchor points define important positions along a path. Direction handles control the direction and curvature of segments connected to those points. Using fewer well-placed points often creates smoother curves than placing many unnecessary points.
+
+---
+
+Question: When is the Pen tool useful for selections?
+Answer: The Pen tool is excellent for objects with clean, controlled edges such as packaging, furniture, vehicles, or products. It gives precise path control but takes practice. It is less naturally suited to thousands of fine strands of hair, where edge-refinement tools may be more appropriate.
+
+---
+
+Question: What does background removal actually involve?
+Answer: Background removal means isolating the desired foreground subject and making the unwanted background transparent, masked, or replaced. The difficult part is not simply deleting pixels; it is preserving believable edges, fine detail, and natural transitions.
+
+---
+
+Question: Why are layer masks usually better than permanently deleting the background?
+Answer: A layer mask can hide background areas without permanently erasing the original pixels. If the edge is wrong, the mask can be edited later to reveal or hide more. This non-destructive approach is safer and more flexible than deleting important image information immediately.
+
+---
+
+Question: What common problems appear after background removal?
+Answer: Common problems include white or dark halos, jagged edges, missing hair, transparent parts that should be solid, leftover background fragments, and unnatural edge color. These problems may be difficult to see against the original background, so the cutout should be checked against different contrasting backgrounds.
+
+---
+
+Question: How should a finished cutout be checked?
+Answer: Zoom in to inspect difficult edges, then zoom out to judge the overall realism at the final viewing size. Check hair, fingers, fabric edges, transparent or reflective objects, and contact shadows. View the subject against light, dark, and contrasting backgrounds when possible, because different defects become visible under different conditions.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained how Photoshop isolates image areas using selections and paths. You learned about Marquee, Lasso, automatic selection, adding and subtracting, feathering, Select and Mask, paths, anchor points, and the Pen tool. You also learned that professional background removal depends on non-destructive masks, careful edge refinement, and quality checks for halos, missing details, and unnatural cutout edges.

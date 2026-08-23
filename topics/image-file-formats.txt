@@ -1,0 +1,82 @@
+Question: What is an image file format?
+Answer: An image file format is a defined way of storing visual information in a computer file. Different formats are designed for different purposes, such as editing, photography, transparency, web graphics, printing, or scalable artwork. The correct format depends on what information must be preserved and where the image will be used.
+
+---
+
+Question: Why are there many image file formats instead of one universal format?
+Answer: No single format is best for every task. A photograph may need efficient compression, a logo may need transparency or unlimited scaling, and a working Photoshop document may need editable layers. Formats make different trade-offs between quality, file size, editability, compatibility, and special features.
+
+---
+
+Question: What is JPEG or JPG?
+Answer: JPEG is a widely supported raster format commonly used for photographs and web images. It can make files much smaller by using lossy compression, which removes some image information. JPEG does not support normal transparent backgrounds. It is excellent for final photographic output when a manageable file size is important, but it is not ideal as the only editable master file.
+
+---
+
+Question: What does lossy compression mean?
+Answer: Lossy compression reduces file size by permanently removing some image information. At sensible settings, the loss may be difficult to notice, but heavy compression can create visible blocks, halos, or loss of fine detail. Repeatedly opening, editing, and resaving a JPEG can cause further quality loss, so an editable master should normally be preserved separately.
+
+---
+
+Question: What is PNG?
+Answer: PNG is a raster format widely used for web graphics, interface elements, screenshots, and images that need transparency. It uses lossless compression, so saving does not intentionally discard image detail in the same way as JPEG. PNG files can be larger than JPEG files for photographs, but they are very useful for graphics with clean edges and transparent areas.
+
+---
+
+Question: What does transparency mean in an image?
+Answer: Transparency means some pixels can be fully or partly see-through instead of having an opaque background. It allows a logo, product, or graphic to be placed over another background without a visible rectangular box. Formats and workflows differ in how they support transparency, so the output format must be chosen carefully.
+
+---
+
+Question: What is SVG?
+Answer: SVG stands for Scalable Vector Graphics. It describes shapes, lines, text, and other graphic elements mathematically rather than storing the image only as a fixed grid of pixels. This makes SVG especially useful for logos, icons, diagrams, and web graphics that need to remain sharp at different sizes.
+
+---
+
+Question: What is BMP?
+Answer: BMP is a bitmap image format historically common in Windows environments. It can store raster image data with relatively little or no compression depending on the form used, which may produce large files. It is supported by many programs but is usually less practical than modern formats for web delivery and everyday design output.
+
+---
+
+Question: What is PSD?
+Answer: PSD is Adobe Photoshop's main working document format. It can preserve important editing information such as layers, masks, text, adjustment layers, paths, and other Photoshop features. A PSD is normally used as an editable master rather than as the final format for every viewer or website.
+
+---
+
+Question: What is TIFF?
+Answer: TIFF is a flexible raster format often used in high-quality imaging, scanning, publishing, and print workflows. It can preserve high image quality and can support several forms of compression and image information. TIFF files may be large, so whether it is appropriate depends on the production workflow and requirements.
+
+---
+
+Question: What is GIF and when is it useful?
+Answer: GIF is a raster format with a limited color palette and support for simple frame-based animation. It can work well for basic graphics and small animations but is not suitable for full-quality photographs because of its color limitation. Modern web workflows may use other formats when better color or compression is required.
+
+---
+
+Question: What is WebP?
+Answer: WebP is a modern image format designed for efficient web delivery. Depending on how it is saved, it can support lossy or lossless compression and transparency. It can often provide smaller web files while maintaining useful visual quality. Compatibility and the target publishing system should still be checked.
+
+---
+
+Question: What are color depth and bit depth?
+Answer: Bit depth describes how much numerical information is available to represent tones or colors. Higher bit depth can provide smoother tonal changes and more editing flexibility, especially during strong adjustments. However, it can also increase file size and not every output format or destination needs the same bit depth.
+
+---
+
+Question: How should a designer choose between JPG, PNG, SVG, PSD, and other formats?
+Answer: Start with the purpose. Use an editable working format such as PSD when Photoshop features must remain editable, JPEG for many final photographic uses, PNG when raster transparency or clean web graphics are needed, and SVG when true vector artwork needs to scale. Printing, websites, clients, and production systems may have specific requirements that should override general rules.
+
+---
+
+Question: Why is simply renaming a file extension not a real format conversion?
+Answer: The extension is only part of the file name; the data inside the file follows a particular format structure. Renaming image.jpg to image.png does not rewrite JPEG data as PNG data. Proper conversion requires software to read the original information and save or export it according to the new format.
+
+---
+
+Question: What should be checked before delivering an image file?
+Answer: Check the required format, dimensions, quality, color needs, transparency, file size, and whether the receiver needs an editable or final file. Open the exported file to confirm it looks correct. Keeping the editable master separate from delivery copies makes future corrections much easier.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained why image formats exist and how their purposes differ. You learned the main uses and limitations of JPEG, PNG, SVG, BMP, PSD, TIFF, GIF, and WebP, along with compression, transparency, bit depth, and real format conversion. The central idea is that format choice should follow the purpose: preserve editability during production and choose an appropriate delivery format for the final destination.

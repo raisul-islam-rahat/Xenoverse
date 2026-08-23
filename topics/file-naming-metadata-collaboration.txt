@@ -1,0 +1,72 @@
+Question: Why does file organization matter in design work?
+Answer: Design projects often contain source images, fonts, editable documents, exports, references, and several revisions. Without a clear system, people can use the wrong file, lose assets, or waste time searching. Organization becomes even more important when several people share the project.
+
+---
+
+Question: What is a file naming convention?
+Answer: A file naming convention is a consistent rule for naming files. It may include the project name, content type, version, date, language, or status when those details are useful. The goal is to make files understandable and sortable without opening every one.
+
+---
+
+Question: What makes a good file name?
+Answer: A good name is clear, consistent, reasonably short, and meaningful to the people using the project. Names such as final-final-new2 are ambiguous. A structured name that identifies the project, item, and version is easier to track.
+
+---
+
+Question: Why should naming conventions be consistent?
+Answer: Consistency allows people and software to predict where information appears in a file name. It improves searching, sorting, handover, and collaboration. A convention only works when the team understands and follows it.
+
+---
+
+Question: What is version control in a simple design workflow?
+Answer: Version control means keeping track of meaningful changes so the team knows which file is current and can return to earlier states when necessary. In a simple workflow this may use numbered versions and clear approvals. More advanced teams may use dedicated asset or version-management systems.
+
+---
+
+Question: Why can the word final become confusing?
+Answer: A file called final may later receive another revision, leading to names such as final2 or final-final. This makes status unclear. A controlled version or approval system is more reliable than repeatedly adding the word final.
+
+---
+
+Question: What is metadata?
+Answer: Metadata is information stored about a file or its content rather than the visible image itself. Depending on the format and workflow, it can include author information, copyright information, description, keywords, creation details, camera information, or other descriptive data.
+
+---
+
+Question: How can metadata help shared design files?
+Answer: Metadata can help people understand authorship, copyright, description, origin, or other useful information without relying only on the visible artwork. It can improve organization and asset management. However, whether metadata is preserved depends on the file format and export process.
+
+---
+
+Question: Can metadata contain sensitive information?
+Answer: Yes. Some files can contain information such as creator details, device information, dates, or location-related data. Before publishing or sharing files, designers should understand what metadata is present and whether it is appropriate to retain.
+
+---
+
+Question: What is copyright information in metadata?
+Answer: Copyright metadata can record information about the creator or rights associated with an image. It can support identification and asset management, but metadata alone does not automatically create, transfer, or fully enforce legal rights. Copyright rules depend on the work and jurisdiction.
+
+---
+
+Question: What is a sensible project folder structure?
+Answer: A project can separate working files, source assets, references, exports, and delivered files so each type has a clear home. The exact structure should match the team's needs. The important point is that another authorized collaborator can understand it without depending on one person's memory.
+
+---
+
+Question: Why should linked or placed assets be managed carefully?
+Answer: If a document depends on external files and those files are moved, renamed, or missing, links may break or content may not update correctly. Shared projects should preserve the required assets and their relationships so another computer or team member can open the work reliably.
+
+---
+
+Question: What should be checked before handing a project to another designer?
+Answer: Check that the correct working file is included, required assets are available, fonts or licensing issues are understood, layers are organized, links are not unexpectedly missing, and the current version is obvious. Include necessary instructions when the structure is not self-explanatory.
+
+---
+
+Question: How do naming and organization improve collaboration?
+Answer: They reduce questions that should not need to be asked, such as which file is current or where the logo is stored. This saves time, lowers the chance of mistakes, and makes handover easier when team members change.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained how disciplined file management supports professional design. You learned about naming conventions, versions, the limitations of calling everything final, metadata, author and copyright information, privacy concerns, folder structures, linked assets, and project handover. Clear organization makes files easier to find, safer to share, and much easier for teams to collaborate on.

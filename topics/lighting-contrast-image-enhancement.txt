@@ -1,0 +1,72 @@
+Question: What does lighting mean in an image?
+Answer: Lighting describes how light falls on a subject and scene, including its direction, brightness, softness, color, and contrast. Light reveals shape, texture, depth, and mood. Photoshop can adjust recorded lighting relationships, but it cannot perfectly recreate information that was never captured.
+
+---
+
+Question: What are highlights, midtones, and shadows?
+Answer: Highlights are the brighter tonal areas, shadows are the darker areas, and midtones fall between them. Understanding these broad regions helps you decide where an image needs correction. A balanced image does not mean all three must be equal; the correct distribution depends on the scene and mood.
+
+---
+
+Question: What is exposure?
+Answer: Exposure describes the overall amount of light recorded in a photograph. An underexposed image may be too dark and lose shadow detail, while an overexposed image may be too bright and lose highlight detail. Editing can recover some information when it exists in the file, but severely clipped detail may not be recoverable.
+
+---
+
+Question: How does contrast influence depth and mood?
+Answer: Contrast can make shapes and textures more distinct and can strongly influence mood. High contrast often feels bold or dramatic, while lower contrast can feel soft, calm, hazy, or subdued. The correct contrast depends on the message rather than on a rule that more contrast is always better.
+
+---
+
+Question: What is dynamic range?
+Answer: Dynamic range describes the span between dark and bright information that can be captured or represented with useful detail. A scene with very bright highlights and deep shadows may exceed what the camera recorded. Editing can redistribute existing tones but cannot fully restore detail that was clipped during capture.
+
+---
+
+Question: What is local contrast?
+Answer: Local contrast refers to differences between nearby tones rather than only the overall black-to-white range of the whole image. Increasing local contrast can make texture and shape appear clearer. Too much can create harsh halos or an unnatural processed look.
+
+---
+
+Question: What is image enhancement?
+Answer: Image enhancement means improving clarity, tone, color, composition, or visual emphasis for the intended purpose. It should solve identifiable problems or strengthen communication. Enhancement is not the same as moving every slider to make the image more intense.
+
+---
+
+Question: What is sharpening?
+Answer: Sharpening increases the apparent definition of edges by increasing contrast around them. It does not truly restore all missing detail from an out-of-focus or heavily blurred image. Appropriate sharpening depends on image size, subject, source quality, and final output.
+
+---
+
+Question: What is noise?
+Answer: Noise appears as unwanted random variations in brightness or color, often more visible in dark areas or high-sensitivity photographs. Noise reduction can make an image cleaner, but excessive reduction can remove real texture and fine detail. The goal is usually a reasonable balance rather than perfectly smooth pixels.
+
+---
+
+Question: What are halos and why are they a problem?
+Answer: Halos are bright or dark outlines that can appear around edges after excessive sharpening, contrast adjustment, masking, or compositing. They reveal the editing and make objects look unnatural. Viewing the image at useful zoom levels and reducing excessive processing helps prevent them.
+
+---
+
+Question: How can light guide the viewer's attention?
+Answer: Viewers are often attracted to areas with strong brightness, contrast, color, or recognizable subjects. A designer can subtly brighten the focal subject, control competing highlights, or darken less important areas. These changes should still respect believable light direction and scene structure.
+
+---
+
+Question: What is a vignette?
+Answer: A vignette is a gradual darkening or sometimes lightening toward the edges of an image. A subtle vignette can help contain attention, but a strong or poorly placed vignette may look artificial. It should support the composition rather than become an obvious effect.
+
+---
+
+Question: Why must enhancement respect the original light direction?
+Answer: If one side of a face is naturally lit and the opposite side is in shadow, random brightening and darkening can flatten or contradict the form. Consistent light direction helps objects look three-dimensional and believable. Local edits should therefore consider the physical lighting already present.
+
+---
+
+Question: How should an enhanced image be evaluated?
+Answer: Check the histogram and technical details when useful, but also judge the image visually. Look for preserved highlight and shadow detail, believable color, controlled noise, natural texture, appropriate sharpness, and a clear focal point. Compare with the original to make sure the processing actually improved the intended result.
+
+---
+
+Question: What is the summary of this chapter?
+Answer: This chapter explained how lighting, tonal range, and enhancement shape an image. You learned about highlights, midtones, shadows, exposure, contrast, dynamic range, local contrast, sharpening, noise, halos, visual attention, vignettes, and consistent light direction. Effective enhancement strengthens clarity and mood while preserving believable detail and avoiding obvious over-processing.
