@@ -1,6 +1,7 @@
 {
   "name": "RISE OS",
   "short_name": "RISE OS",
+  "id": "/Xenoverse/",
   "start_url": "/Xenoverse/",
   "scope": "/Xenoverse/",
   "display": "standalone",
