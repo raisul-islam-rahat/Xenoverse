@@ -1,0 +1,597 @@
+Question: What is Windows desktop?
+Answer: English: Windows desktop is the main work area that appears after you sign in.
+Bangla: Windows desktop sign in করার পর দেখা প্রধান কাজের জায়গা।
+
+---
+
+Question: Why is Windows desktop important in this topic?
+Answer: English: Windows desktop is the main work area that appears after you sign in. This knowledge helps you make better decisions in this topic.
+Bangla: Windows desktop sign in করার পর দেখা প্রধান কাজের জায়গা। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Windows desktop?
+Answer: English: Use a small, safe example and observe this result: Windows desktop is the main work area that appears after you sign in. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Windows desktop sign in করার পর দেখা প্রধান কাজের জায়গা। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What should a student check when working with Windows desktop?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Windows desktop is the main work area that appears after you sign in. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Windows desktop sign in করার পর দেখা প্রধান কাজের জায়গা। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: In simple words, what does Start menu mean?
+Answer: English: Start menu opens applications, settings, search, and power options.
+Bangla: Start menu application, settings, search ও power option খোলে।
+
+---
+
+Question: Why should a beginner learn Start menu?
+Answer: English: Start menu opens applications, settings, search, and power options. This knowledge helps you make better decisions in this topic.
+Bangla: Start menu application, settings, search ও power option খোলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Start menu?
+Answer: English: Use a small, safe example and observe this result: Start menu opens applications, settings, search, and power options. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Start menu application, settings, search ও power option খোলে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What beginner mistake should be avoided with Start menu?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Start menu opens applications, settings, search, and power options. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Start menu application, settings, search ও power option খোলে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What does Taskbar do?
+Answer: English: Taskbar shows pinned apps, open windows, notifications, and system controls.
+Bangla: Taskbar pinned app, খোলা window, notification ও system control দেখায়।
+
+---
+
+Question: When is Taskbar useful?
+Answer: English: Taskbar shows pinned apps, open windows, notifications, and system controls. This knowledge helps you make better decisions in this topic.
+Bangla: Taskbar pinned app, খোলা window, notification ও system control দেখায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Taskbar?
+Answer: English: Use a small, safe example and observe this result: Taskbar shows pinned apps, open windows, notifications, and system controls. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Taskbar pinned app, খোলা window, notification ও system control দেখায়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What good habit should be followed when using Taskbar?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Taskbar shows pinned apps, open windows, notifications, and system controls. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Taskbar pinned app, খোলা window, notification ও system control দেখায়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: How would you explain Application window to a beginner?
+Answer: English: Application window is the on-screen area where one program is displayed and controlled.
+Bangla: Application window screen-এর যে জায়গায় একটি program দেখা ও নিয়ন্ত্রণ করা হয়।
+
+---
+
+Question: What problem does Application window help with?
+Answer: English: Application window is the on-screen area where one program is displayed and controlled. This knowledge helps you make better decisions in this topic.
+Bangla: Application window screen-এর যে জায়গায় একটি program দেখা ও নিয়ন্ত্রণ করা হয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Application window?
+Answer: English: Use a small, safe example and observe this result: Application window is the on-screen area where one program is displayed and controlled. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Application window screen-এর যে জায়গায় একটি program দেখা ও নিয়ন্ত্রণ করা হয়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: How can a student confirm that Application window is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Application window is the on-screen area where one program is displayed and controlled. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Application window screen-এর যে জায়গায় একটি program দেখা ও নিয়ন্ত্রণ করা হয়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What is Icon?
+Answer: English: Icon is a small picture that represents an app, file, folder, or command.
+Bangla: Icon app, file, folder বা command বোঝানো ছোট ছবি।
+
+---
+
+Question: Why is Icon important in this topic?
+Answer: English: Icon is a small picture that represents an app, file, folder, or command. This knowledge helps you make better decisions in this topic.
+Bangla: Icon app, file, folder বা command বোঝানো ছোট ছবি। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Icon?
+Answer: English: Use a small, safe example and observe this result: Icon is a small picture that represents an app, file, folder, or command. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Icon app, file, folder বা command বোঝানো ছোট ছবি। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What should a student check when working with Icon?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Icon is a small picture that represents an app, file, folder, or command. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Icon app, file, folder বা command বোঝানো ছোট ছবি। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: In simple words, what does Single-click mean?
+Answer: English: Single-click selects an item or activates a button.
+Bangla: Single-click কোনো item select করে বা button চালু করে।
+
+---
+
+Question: Why should a beginner learn Single-click?
+Answer: English: Single-click selects an item or activates a button. This knowledge helps you make better decisions in this topic.
+Bangla: Single-click কোনো item select করে বা button চালু করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Single-click?
+Answer: English: Use a small, safe example and observe this result: Single-click selects an item or activates a button. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Single-click কোনো item select করে বা button চালু করে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What beginner mistake should be avoided with Single-click?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Single-click selects an item or activates a button. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Single-click কোনো item select করে বা button চালু করে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What does Double-click do?
+Answer: English: Double-click usually opens a file, folder, or desktop application.
+Bangla: Double-click সাধারণত file, folder বা desktop application খোলে।
+
+---
+
+Question: When is Double-click useful?
+Answer: English: Double-click usually opens a file, folder, or desktop application. This knowledge helps you make better decisions in this topic.
+Bangla: Double-click সাধারণত file, folder বা desktop application খোলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Double-click?
+Answer: English: Use a small, safe example and observe this result: Double-click usually opens a file, folder, or desktop application. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Double-click সাধারণত file, folder বা desktop application খোলে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What good habit should be followed when using Double-click?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Double-click usually opens a file, folder, or desktop application. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Double-click সাধারণত file, folder বা desktop application খোলে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: How would you explain Right-click to a beginner?
+Answer: English: Right-click opens a menu of actions related to the selected place or item.
+Bangla: Right-click নির্বাচিত জায়গা বা item-সংক্রান্ত কাজের menu খোলে।
+
+---
+
+Question: What problem does Right-click help with?
+Answer: English: Right-click opens a menu of actions related to the selected place or item. This knowledge helps you make better decisions in this topic.
+Bangla: Right-click নির্বাচিত জায়গা বা item-সংক্রান্ত কাজের menu খোলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Right-click?
+Answer: English: Use a small, safe example and observe this result: Right-click opens a menu of actions related to the selected place or item. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Right-click নির্বাচিত জায়গা বা item-সংক্রান্ত কাজের menu খোলে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: How can a student confirm that Right-click is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Right-click opens a menu of actions related to the selected place or item. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Right-click নির্বাচিত জায়গা বা item-সংক্রান্ত কাজের menu খোলে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What is Drag and drop?
+Answer: English: Drag and drop moves or places an item by holding the mouse button while moving the pointer.
+Bangla: Drag and drop mouse button ধরে pointer সরিয়ে কোনো item move বা place করে।
+
+---
+
+Question: Why is Drag and drop important in this topic?
+Answer: English: Drag and drop moves or places an item by holding the mouse button while moving the pointer. This knowledge helps you make better decisions in this topic.
+Bangla: Drag and drop mouse button ধরে pointer সরিয়ে কোনো item move বা place করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Drag and drop?
+Answer: English: Use a small, safe example and observe this result: Drag and drop moves or places an item by holding the mouse button while moving the pointer. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Drag and drop mouse button ধরে pointer সরিয়ে কোনো item move বা place করে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What should a student check when working with Drag and drop?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Drag and drop moves or places an item by holding the mouse button while moving the pointer. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Drag and drop mouse button ধরে pointer সরিয়ে কোনো item move বা place করে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: In simple words, what does Scroll mean?
+Answer: English: Scroll moves the visible page or list up, down, or sideways.
+Bangla: Scroll দেখা page বা list-কে ওপর, নিচ বা পাশে সরায়।
+
+---
+
+Question: Why should a beginner learn Scroll?
+Answer: English: Scroll moves the visible page or list up, down, or sideways. This knowledge helps you make better decisions in this topic.
+Bangla: Scroll দেখা page বা list-কে ওপর, নিচ বা পাশে সরায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Scroll?
+Answer: English: Use a small, safe example and observe this result: Scroll moves the visible page or list up, down, or sideways. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Scroll দেখা page বা list-কে ওপর, নিচ বা পাশে সরায়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What beginner mistake should be avoided with Scroll?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Scroll moves the visible page or list up, down, or sideways. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Scroll দেখা page বা list-কে ওপর, নিচ বা পাশে সরায়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What does Keyboard shortcut do?
+Answer: English: Keyboard shortcut runs a command by pressing a planned key combination.
+Bangla: Keyboard shortcut নির্দিষ্ট key combination চেপে command চালায়।
+
+---
+
+Question: When is Keyboard shortcut useful?
+Answer: English: Keyboard shortcut runs a command by pressing a planned key combination. This knowledge helps you make better decisions in this topic.
+Bangla: Keyboard shortcut নির্দিষ্ট key combination চেপে command চালায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Keyboard shortcut?
+Answer: English: Use a small, safe example and observe this result: Keyboard shortcut runs a command by pressing a planned key combination. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Keyboard shortcut নির্দিষ্ট key combination চেপে command চালায়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What good habit should be followed when using Keyboard shortcut?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Keyboard shortcut runs a command by pressing a planned key combination. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Keyboard shortcut নির্দিষ্ট key combination চেপে command চালায়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: How would you explain Ctrl+C and Ctrl+V to a beginner?
+Answer: English: Ctrl+C and Ctrl+V copy the selected item and paste a copy into another place.
+Bangla: Ctrl+C and Ctrl+V selected item copy করে অন্য জায়গায় তার copy paste করে।
+
+---
+
+Question: What problem does Ctrl+C and Ctrl+V help with?
+Answer: English: Ctrl+C and Ctrl+V copy the selected item and paste a copy into another place. This knowledge helps you make better decisions in this topic.
+Bangla: Ctrl+C and Ctrl+V selected item copy করে অন্য জায়গায় তার copy paste করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Ctrl+C and Ctrl+V?
+Answer: English: Use a small, safe example and observe this result: Ctrl+C and Ctrl+V copy the selected item and paste a copy into another place. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Ctrl+C and Ctrl+V selected item copy করে অন্য জায়গায় তার copy paste করে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: How can a student confirm that Ctrl+C and Ctrl+V is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Ctrl+C and Ctrl+V copy the selected item and paste a copy into another place. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Ctrl+C and Ctrl+V selected item copy করে অন্য জায়গায় তার copy paste করে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What is Ctrl+X?
+Answer: English: Ctrl+X cuts the selected item so it can be moved with Paste.
+Bangla: Ctrl+X selected item cut করে, যাতে Paste দিয়ে অন্য জায়গায় move করা যায়।
+
+---
+
+Question: Why is Ctrl+X important in this topic?
+Answer: English: Ctrl+X cuts the selected item so it can be moved with Paste. This knowledge helps you make better decisions in this topic.
+Bangla: Ctrl+X selected item cut করে, যাতে Paste দিয়ে অন্য জায়গায় move করা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Ctrl+X?
+Answer: English: Use a small, safe example and observe this result: Ctrl+X cuts the selected item so it can be moved with Paste. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Ctrl+X selected item cut করে, যাতে Paste দিয়ে অন্য জায়গায় move করা যায়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What should a student check when working with Ctrl+X?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Ctrl+X cuts the selected item so it can be moved with Paste. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Ctrl+X selected item cut করে, যাতে Paste দিয়ে অন্য জায়গায় move করা যায়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: In simple words, what does Ctrl+Z mean?
+Answer: English: Ctrl+Z undoes the most recent supported action.
+Bangla: Ctrl+Z সর্বশেষ সমর্থিত কাজটি undo করে।
+
+---
+
+Question: Why should a beginner learn Ctrl+Z?
+Answer: English: Ctrl+Z undoes the most recent supported action. This knowledge helps you make better decisions in this topic.
+Bangla: Ctrl+Z সর্বশেষ সমর্থিত কাজটি undo করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Ctrl+Z?
+Answer: English: Use a small, safe example and observe this result: Ctrl+Z undoes the most recent supported action. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Ctrl+Z সর্বশেষ সমর্থিত কাজটি undo করে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What beginner mistake should be avoided with Ctrl+Z?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Ctrl+Z undoes the most recent supported action. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Ctrl+Z সর্বশেষ সমর্থিত কাজটি undo করে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What does File Explorer do?
+Answer: English: File Explorer browses drives, folders, and files in Windows.
+Bangla: File Explorer Windows-এর drive, folder ও file দেখতে ও পরিচালনা করতে দেয়।
+
+---
+
+Question: When is File Explorer useful?
+Answer: English: File Explorer browses drives, folders, and files in Windows. This knowledge helps you make better decisions in this topic.
+Bangla: File Explorer Windows-এর drive, folder ও file দেখতে ও পরিচালনা করতে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test File Explorer?
+Answer: English: Use a small, safe example and observe this result: File Explorer browses drives, folders, and files in Windows. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: File Explorer Windows-এর drive, folder ও file দেখতে ও পরিচালনা করতে দেয়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What good habit should be followed when using File Explorer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: File Explorer browses drives, folders, and files in Windows. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: File Explorer Windows-এর drive, folder ও file দেখতে ও পরিচালনা করতে দেয়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: How would you explain Drive to a beginner?
+Answer: English: Drive is a storage location shown with a name and usually a letter such as C.
+Bangla: Drive name এবং সাধারণত C-এর মতো letter দিয়ে দেখানো storage location।
+
+---
+
+Question: What problem does Drive help with?
+Answer: English: Drive is a storage location shown with a name and usually a letter such as C. This knowledge helps you make better decisions in this topic.
+Bangla: Drive name এবং সাধারণত C-এর মতো letter দিয়ে দেখানো storage location। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Drive?
+Answer: English: Use a small, safe example and observe this result: Drive is a storage location shown with a name and usually a letter such as C. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Drive name এবং সাধারণত C-এর মতো letter দিয়ে দেখানো storage location। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: How can a student confirm that Drive is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Drive is a storage location shown with a name and usually a letter such as C. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Drive name এবং সাধারণত C-এর মতো letter দিয়ে দেখানো storage location। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What is File path?
+Answer: English: File path shows the exact drive and folders where an item is stored.
+Bangla: File path কোন drive ও folder-এর ভেতরে item রাখা আছে তার সঠিক ঠিকানা দেখায়।
+
+---
+
+Question: Why is File path important in this topic?
+Answer: English: File path shows the exact drive and folders where an item is stored. This knowledge helps you make better decisions in this topic.
+Bangla: File path কোন drive ও folder-এর ভেতরে item রাখা আছে তার সঠিক ঠিকানা দেখায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise File path?
+Answer: English: Use a small, safe example and observe this result: File path shows the exact drive and folders where an item is stored. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: File path কোন drive ও folder-এর ভেতরে item রাখা আছে তার সঠিক ঠিকানা দেখায়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What should a student check when working with File path?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: File path shows the exact drive and folders where an item is stored. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: File path কোন drive ও folder-এর ভেতরে item রাখা আছে তার সঠিক ঠিকানা দেখায়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: In simple words, what does Rename mean?
+Answer: English: Rename changes an item's name without changing its contents.
+Bangla: Rename item-এর ভেতরের content না বদলে তার name পরিবর্তন করে।
+
+---
+
+Question: Why should a beginner learn Rename?
+Answer: English: Rename changes an item's name without changing its contents. This knowledge helps you make better decisions in this topic.
+Bangla: Rename item-এর ভেতরের content না বদলে তার name পরিবর্তন করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Rename?
+Answer: English: Use a small, safe example and observe this result: Rename changes an item's name without changing its contents. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Rename item-এর ভেতরের content না বদলে তার name পরিবর্তন করে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What beginner mistake should be avoided with Rename?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Rename changes an item's name without changing its contents. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Rename item-এর ভেতরের content না বদলে তার name পরিবর্তন করে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What does Copy do?
+Answer: English: Copy creates another version of the selected file or folder.
+Bangla: Copy selected file বা folder-এর আরেকটি copy তৈরি করে।
+
+---
+
+Question: When is Copy useful?
+Answer: English: Copy creates another version of the selected file or folder. This knowledge helps you make better decisions in this topic.
+Bangla: Copy selected file বা folder-এর আরেকটি copy তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Copy?
+Answer: English: Use a small, safe example and observe this result: Copy creates another version of the selected file or folder. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Copy selected file বা folder-এর আরেকটি copy তৈরি করে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What good habit should be followed when using Copy?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Copy creates another version of the selected file or folder. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Copy selected file বা folder-এর আরেকটি copy তৈরি করে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: How would you explain Move to a beginner?
+Answer: English: Move changes the storage location of a file or folder.
+Bangla: Move file বা folder-এর storage location পরিবর্তন করে।
+
+---
+
+Question: What problem does Move help with?
+Answer: English: Move changes the storage location of a file or folder. This knowledge helps you make better decisions in this topic.
+Bangla: Move file বা folder-এর storage location পরিবর্তন করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Move?
+Answer: English: Use a small, safe example and observe this result: Move changes the storage location of a file or folder. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Move file বা folder-এর storage location পরিবর্তন করে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: How can a student confirm that Move is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Move changes the storage location of a file or folder. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Move file বা folder-এর storage location পরিবর্তন করে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What is Recycle Bin?
+Answer: English: Recycle Bin temporarily holds many deleted local items so they may be restored.
+Bangla: Recycle Bin অনেক deleted local item সাময়িকভাবে রাখে, যাতে প্রয়োজন হলে restore করা যায়।
+
+---
+
+Question: Why is Recycle Bin important in this topic?
+Answer: English: Recycle Bin temporarily holds many deleted local items so they may be restored. This knowledge helps you make better decisions in this topic.
+Bangla: Recycle Bin অনেক deleted local item সাময়িকভাবে রাখে, যাতে প্রয়োজন হলে restore করা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Recycle Bin?
+Answer: English: Use a small, safe example and observe this result: Recycle Bin temporarily holds many deleted local items so they may be restored. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Recycle Bin অনেক deleted local item সাময়িকভাবে রাখে, যাতে প্রয়োজন হলে restore করা যায়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What should a student check when working with Recycle Bin?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Recycle Bin temporarily holds many deleted local items so they may be restored. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Recycle Bin অনেক deleted local item সাময়িকভাবে রাখে, যাতে প্রয়োজন হলে restore করা যায়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: In simple words, what does File extension mean?
+Answer: English: File extension is the ending such as PSD, JPG, PNG, or TXT that helps identify a file type.
+Bangla: File extension PSD, JPG, PNG বা TXT-এর মতো শেষ অংশ, যা file type চিনতে সাহায্য করে।
+
+---
+
+Question: Why should a beginner learn File extension?
+Answer: English: File extension is the ending such as PSD, JPG, PNG, or TXT that helps identify a file type. This knowledge helps you make better decisions in this topic.
+Bangla: File extension PSD, JPG, PNG বা TXT-এর মতো শেষ অংশ, যা file type চিনতে সাহায্য করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning File extension?
+Answer: English: Use a small, safe example and observe this result: File extension is the ending such as PSD, JPG, PNG, or TXT that helps identify a file type. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: File extension PSD, JPG, PNG বা TXT-এর মতো শেষ অংশ, যা file type চিনতে সাহায্য করে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What beginner mistake should be avoided with File extension?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: File extension is the ending such as PSD, JPG, PNG, or TXT that helps identify a file type. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: File extension PSD, JPG, PNG বা TXT-এর মতো শেষ অংশ, যা file type চিনতে সাহায্য করে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What does Windows Search do?
+Answer: English: Windows Search finds apps, settings, and indexed files by name or keyword.
+Bangla: Windows Search name বা keyword দিয়ে app, setting ও indexed file খুঁজে দেয়।
+
+---
+
+Question: When is Windows Search useful?
+Answer: English: Windows Search finds apps, settings, and indexed files by name or keyword. This knowledge helps you make better decisions in this topic.
+Bangla: Windows Search name বা keyword দিয়ে app, setting ও indexed file খুঁজে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Windows Search?
+Answer: English: Use a small, safe example and observe this result: Windows Search finds apps, settings, and indexed files by name or keyword. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Windows Search name বা keyword দিয়ে app, setting ও indexed file খুঁজে দেয়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What good habit should be followed when using Windows Search?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Windows Search finds apps, settings, and indexed files by name or keyword. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Windows Search name বা keyword দিয়ে app, setting ও indexed file খুঁজে দেয়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: How would you explain Install and uninstall to a beginner?
+Answer: English: Install and uninstall add an application to Windows or remove it through the proper system process.
+Bangla: Install and uninstall সঠিক system process দিয়ে Windows-এ application যোগ করে বা সরিয়ে দেয়।
+
+---
+
+Question: What problem does Install and uninstall help with?
+Answer: English: Install and uninstall add an application to Windows or remove it through the proper system process. This knowledge helps you make better decisions in this topic.
+Bangla: Install and uninstall সঠিক system process দিয়ে Windows-এ application যোগ করে বা সরিয়ে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Install and uninstall?
+Answer: English: Use a small, safe example and observe this result: Install and uninstall add an application to Windows or remove it through the proper system process. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Install and uninstall সঠিক system process দিয়ে Windows-এ application যোগ করে বা সরিয়ে দেয়। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: How can a student confirm that Install and uninstall is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Install and uninstall add an application to Windows or remove it through the proper system process. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Install and uninstall সঠিক system process দিয়ে Windows-এ application যোগ করে বা সরিয়ে দেয়। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।
+
+---
+
+Question: What is Screenshot?
+Answer: English: Screenshot captures what is visible on all or part of the screen as an image.
+Bangla: Screenshot screen-এর পুরো বা নির্দিষ্ট অংশ image হিসেবে ধরে রাখে।
+
+---
+
+Question: Why is Screenshot important in this topic?
+Answer: English: Screenshot captures what is visible on all or part of the screen as an image. This knowledge helps you make better decisions in this topic.
+Bangla: Screenshot screen-এর পুরো বা নির্দিষ্ট অংশ image হিসেবে ধরে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Screenshot?
+Answer: English: Use a small, safe example and observe this result: Screenshot captures what is visible on all or part of the screen as an image. Practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Screenshot screen-এর পুরো বা নির্দিষ্ট অংশ image হিসেবে ধরে রাখে। একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What should a student check when working with Screenshot?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Screenshot captures what is visible on all or part of the screen as an image. Read the path and selected item before moving or deleting anything, and never install unknown software.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Screenshot screen-এর পুরো বা নির্দিষ্ট অংশ image হিসেবে ধরে রাখে। কিছু move বা delete করার আগে path ও selected item দেখুন এবং অজানা software install করবেন না।

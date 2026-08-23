@@ -1,0 +1,597 @@
+Question: What is Open?
+Answer: English: Open loads a supported existing file as a Photoshop document.
+Bangla: Open সমর্থিত existing file-কে Photoshop document হিসেবে খোলে।
+
+---
+
+Question: Why is Open important in this topic?
+Answer: English: Open loads a supported existing file as a Photoshop document. This knowledge helps you make better decisions in this topic.
+Bangla: Open সমর্থিত existing file-কে Photoshop document হিসেবে খোলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Open?
+Answer: English: Use a small, safe example and observe this result: Open loads a supported existing file as a Photoshop document. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Open সমর্থিত existing file-কে Photoshop document হিসেবে খোলে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What should a student check when working with Open?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Open loads a supported existing file as a Photoshop document. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Open সমর্থিত existing file-কে Photoshop document হিসেবে খোলে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: In simple words, what does Open Recent mean?
+Answer: English: Open Recent shows recently opened documents for quicker access.
+Bangla: Open Recent দ্রুত access-এর জন্য সম্প্রতি খোলা document দেখায়।
+
+---
+
+Question: Why should a beginner learn Open Recent?
+Answer: English: Open Recent shows recently opened documents for quicker access. This knowledge helps you make better decisions in this topic.
+Bangla: Open Recent দ্রুত access-এর জন্য সম্প্রতি খোলা document দেখায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Open Recent?
+Answer: English: Use a small, safe example and observe this result: Open Recent shows recently opened documents for quicker access. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Open Recent দ্রুত access-এর জন্য সম্প্রতি খোলা document দেখায়। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Open Recent?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Open Recent shows recently opened documents for quicker access. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Open Recent দ্রুত access-এর জন্য সম্প্রতি খোলা document দেখায়। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What does Place Embedded do?
+Answer: English: Place Embedded adds another file inside the document as a self-contained Smart Object.
+Bangla: Place Embedded অন্য file-কে self-contained Smart Object হিসেবে document-এর ভেতরে যোগ করে।
+
+---
+
+Question: When is Place Embedded useful?
+Answer: English: Place Embedded adds another file inside the document as a self-contained Smart Object. This knowledge helps you make better decisions in this topic.
+Bangla: Place Embedded অন্য file-কে self-contained Smart Object হিসেবে document-এর ভেতরে যোগ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Place Embedded?
+Answer: English: Use a small, safe example and observe this result: Place Embedded adds another file inside the document as a self-contained Smart Object. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Place Embedded অন্য file-কে self-contained Smart Object হিসেবে document-এর ভেতরে যোগ করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What good habit should be followed when using Place Embedded?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Place Embedded adds another file inside the document as a self-contained Smart Object. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Place Embedded অন্য file-কে self-contained Smart Object হিসেবে document-এর ভেতরে যোগ করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: How would you explain Place Linked to a beginner?
+Answer: English: Place Linked adds a Smart Object that refers to an external source file.
+Bangla: Place Linked external source file-এর সঙ্গে যুক্ত Smart Object যোগ করে।
+
+---
+
+Question: What problem does Place Linked help with?
+Answer: English: Place Linked adds a Smart Object that refers to an external source file. This knowledge helps you make better decisions in this topic.
+Bangla: Place Linked external source file-এর সঙ্গে যুক্ত Smart Object যোগ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Place Linked?
+Answer: English: Use a small, safe example and observe this result: Place Linked adds a Smart Object that refers to an external source file. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Place Linked external source file-এর সঙ্গে যুক্ত Smart Object যোগ করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: How can a student confirm that Place Linked is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Place Linked adds a Smart Object that refers to an external source file. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Place Linked external source file-এর সঙ্গে যুক্ত Smart Object যোগ করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What is Save?
+Answer: English: Save writes current changes to the active document file.
+Bangla: Save active document file-এ বর্তমান change সংরক্ষণ করে।
+
+---
+
+Question: Why is Save important in this topic?
+Answer: English: Save writes current changes to the active document file. This knowledge helps you make better decisions in this topic.
+Bangla: Save active document file-এ বর্তমান change সংরক্ষণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Save?
+Answer: English: Use a small, safe example and observe this result: Save writes current changes to the active document file. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Save active document file-এ বর্তমান change সংরক্ষণ করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What should a student check when working with Save?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Save writes current changes to the active document file. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Save active document file-এ বর্তমান change সংরক্ষণ করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: In simple words, what does Save As mean?
+Answer: English: Save As saves the document with a chosen name, location, and available editable format.
+Bangla: Save As নির্বাচিত name, location ও available editable format-এ document save করে।
+
+---
+
+Question: Why should a beginner learn Save As?
+Answer: English: Save As saves the document with a chosen name, location, and available editable format. This knowledge helps you make better decisions in this topic.
+Bangla: Save As নির্বাচিত name, location ও available editable format-এ document save করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Save As?
+Answer: English: Use a small, safe example and observe this result: Save As saves the document with a chosen name, location, and available editable format. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Save As নির্বাচিত name, location ও available editable format-এ document save করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Save As?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Save As saves the document with a chosen name, location, and available editable format. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Save As নির্বাচিত name, location ও available editable format-এ document save করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What does Save a Copy do?
+Answer: English: Save a Copy creates a separate copy in another supported format without changing the active master document.
+Bangla: Save a Copy active master document না বদলে অন্য supported format-এ আলাদা copy তৈরি করে।
+
+---
+
+Question: When is Save a Copy useful?
+Answer: English: Save a Copy creates a separate copy in another supported format without changing the active master document. This knowledge helps you make better decisions in this topic.
+Bangla: Save a Copy active master document না বদলে অন্য supported format-এ আলাদা copy তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Save a Copy?
+Answer: English: Use a small, safe example and observe this result: Save a Copy creates a separate copy in another supported format without changing the active master document. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Save a Copy active master document না বদলে অন্য supported format-এ আলাদা copy তৈরি করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What good habit should be followed when using Save a Copy?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Save a Copy creates a separate copy in another supported format without changing the active master document. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Save a Copy active master document না বদলে অন্য supported format-এ আলাদা copy তৈরি করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: How would you explain PSD format to a beginner?
+Answer: English: PSD format preserves many Photoshop features and is the normal editable master format.
+Bangla: PSD format অনেক Photoshop feature ধরে রাখে এবং সাধারণ editable master format।
+
+---
+
+Question: What problem does PSD format help with?
+Answer: English: PSD format preserves many Photoshop features and is the normal editable master format. This knowledge helps you make better decisions in this topic.
+Bangla: PSD format অনেক Photoshop feature ধরে রাখে এবং সাধারণ editable master format। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with PSD format?
+Answer: English: Use a small, safe example and observe this result: PSD format preserves many Photoshop features and is the normal editable master format. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: PSD format অনেক Photoshop feature ধরে রাখে এবং সাধারণ editable master format। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: How can a student confirm that PSD format is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: PSD format preserves many Photoshop features and is the normal editable master format. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: PSD format অনেক Photoshop feature ধরে রাখে এবং সাধারণ editable master format। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What is PSB format?
+Answer: English: PSB format supports very large Photoshop documents beyond normal PSD limits.
+Bangla: PSB format সাধারণ PSD limit-এর চেয়ে বড় Photoshop document সমর্থন করে।
+
+---
+
+Question: Why is PSB format important in this topic?
+Answer: English: PSB format supports very large Photoshop documents beyond normal PSD limits. This knowledge helps you make better decisions in this topic.
+Bangla: PSB format সাধারণ PSD limit-এর চেয়ে বড় Photoshop document সমর্থন করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise PSB format?
+Answer: English: Use a small, safe example and observe this result: PSB format supports very large Photoshop documents beyond normal PSD limits. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: PSB format সাধারণ PSD limit-এর চেয়ে বড় Photoshop document সমর্থন করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What should a student check when working with PSB format?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: PSB format supports very large Photoshop documents beyond normal PSD limits. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: PSB format সাধারণ PSD limit-এর চেয়ে বড় Photoshop document সমর্থন করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: In simple words, what does JPEG format mean?
+Answer: English: JPEG format creates a widely supported compressed image but does not preserve normal transparency or editable layers.
+Bangla: JPEG format widely supported compressed image তৈরি করে, কিন্তু সাধারণ transparency বা editable layer রাখে না।
+
+---
+
+Question: Why should a beginner learn JPEG format?
+Answer: English: JPEG format creates a widely supported compressed image but does not preserve normal transparency or editable layers. This knowledge helps you make better decisions in this topic.
+Bangla: JPEG format widely supported compressed image তৈরি করে, কিন্তু সাধারণ transparency বা editable layer রাখে না। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning JPEG format?
+Answer: English: Use a small, safe example and observe this result: JPEG format creates a widely supported compressed image but does not preserve normal transparency or editable layers. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: JPEG format widely supported compressed image তৈরি করে, কিন্তু সাধারণ transparency বা editable layer রাখে না। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What beginner mistake should be avoided with JPEG format?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: JPEG format creates a widely supported compressed image but does not preserve normal transparency or editable layers. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: JPEG format widely supported compressed image তৈরি করে, কিন্তু সাধারণ transparency বা editable layer রাখে না। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What does PNG format do?
+Answer: English: PNG format supports lossless compression and transparency for many screen graphics.
+Bangla: PNG format অনেক screen graphic-এর জন্য lossless compression ও transparency সমর্থন করে।
+
+---
+
+Question: When is PNG format useful?
+Answer: English: PNG format supports lossless compression and transparency for many screen graphics. This knowledge helps you make better decisions in this topic.
+Bangla: PNG format অনেক screen graphic-এর জন্য lossless compression ও transparency সমর্থন করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test PNG format?
+Answer: English: Use a small, safe example and observe this result: PNG format supports lossless compression and transparency for many screen graphics. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: PNG format অনেক screen graphic-এর জন্য lossless compression ও transparency সমর্থন করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What good habit should be followed when using PNG format?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: PNG format supports lossless compression and transparency for many screen graphics. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: PNG format অনেক screen graphic-এর জন্য lossless compression ও transparency সমর্থন করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: How would you explain TIFF format to a beginner?
+Answer: English: TIFF format supports high-quality image storage and is common in some print, scan, and archive workflows.
+Bangla: TIFF format high-quality image storage সমর্থন করে এবং কিছু print, scan ও archive workflow-তে প্রচলিত।
+
+---
+
+Question: What problem does TIFF format help with?
+Answer: English: TIFF format supports high-quality image storage and is common in some print, scan, and archive workflows. This knowledge helps you make better decisions in this topic.
+Bangla: TIFF format high-quality image storage সমর্থন করে এবং কিছু print, scan ও archive workflow-তে প্রচলিত। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with TIFF format?
+Answer: English: Use a small, safe example and observe this result: TIFF format supports high-quality image storage and is common in some print, scan, and archive workflows. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: TIFF format high-quality image storage সমর্থন করে এবং কিছু print, scan ও archive workflow-তে প্রচলিত। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: How can a student confirm that TIFF format is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: TIFF format supports high-quality image storage and is common in some print, scan, and archive workflows. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: TIFF format high-quality image storage সমর্থন করে এবং কিছু print, scan ও archive workflow-তে প্রচলিত। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What is Photoshop PDF?
+Answer: English: Photoshop PDF can carry image and some editable Photoshop information while fitting PDF delivery workflows.
+Bangla: Photoshop PDF PDF delivery workflow-এর সঙ্গে মানিয়ে image ও কিছু editable Photoshop তথ্য রাখতে পারে।
+
+---
+
+Question: Why is Photoshop PDF important in this topic?
+Answer: English: Photoshop PDF can carry image and some editable Photoshop information while fitting PDF delivery workflows. This knowledge helps you make better decisions in this topic.
+Bangla: Photoshop PDF PDF delivery workflow-এর সঙ্গে মানিয়ে image ও কিছু editable Photoshop তথ্য রাখতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Photoshop PDF?
+Answer: English: Use a small, safe example and observe this result: Photoshop PDF can carry image and some editable Photoshop information while fitting PDF delivery workflows. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Photoshop PDF PDF delivery workflow-এর সঙ্গে মানিয়ে image ও কিছু editable Photoshop তথ্য রাখতে পারে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What should a student check when working with Photoshop PDF?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Photoshop PDF can carry image and some editable Photoshop information while fitting PDF delivery workflows. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Photoshop PDF PDF delivery workflow-এর সঙ্গে মানিয়ে image ও কিছু editable Photoshop তথ্য রাখতে পারে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: In simple words, what does GIF format mean?
+Answer: English: GIF format supports indexed color, simple transparency, and basic frame animation but has limited color.
+Bangla: GIF format indexed color, simple transparency ও basic frame animation সমর্থন করে, তবে color সীমিত।
+
+---
+
+Question: Why should a beginner learn GIF format?
+Answer: English: GIF format supports indexed color, simple transparency, and basic frame animation but has limited color. This knowledge helps you make better decisions in this topic.
+Bangla: GIF format indexed color, simple transparency ও basic frame animation সমর্থন করে, তবে color সীমিত। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning GIF format?
+Answer: English: Use a small, safe example and observe this result: GIF format supports indexed color, simple transparency, and basic frame animation but has limited color. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: GIF format indexed color, simple transparency ও basic frame animation সমর্থন করে, তবে color সীমিত। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What beginner mistake should be avoided with GIF format?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: GIF format supports indexed color, simple transparency, and basic frame animation but has limited color. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: GIF format indexed color, simple transparency ও basic frame animation সমর্থন করে, তবে color সীমিত। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What does WebP format do?
+Answer: English: WebP format offers modern web compression and can support transparency depending on the chosen settings.
+Bangla: WebP format modern web compression দেয় এবং selected setting অনুযায়ী transparency সমর্থন করতে পারে।
+
+---
+
+Question: When is WebP format useful?
+Answer: English: WebP format offers modern web compression and can support transparency depending on the chosen settings. This knowledge helps you make better decisions in this topic.
+Bangla: WebP format modern web compression দেয় এবং selected setting অনুযায়ী transparency সমর্থন করতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test WebP format?
+Answer: English: Use a small, safe example and observe this result: WebP format offers modern web compression and can support transparency depending on the chosen settings. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: WebP format modern web compression দেয় এবং selected setting অনুযায়ী transparency সমর্থন করতে পারে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What good habit should be followed when using WebP format?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: WebP format offers modern web compression and can support transparency depending on the chosen settings. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: WebP format modern web compression দেয় এবং selected setting অনুযায়ী transparency সমর্থন করতে পারে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: How would you explain Camera raw file to a beginner?
+Answer: English: Camera raw file contains minimally processed camera sensor data and is normally adjusted through Adobe Camera Raw.
+Bangla: Camera raw file কম process করা camera sensor data রাখে এবং সাধারণত Adobe Camera Raw দিয়ে adjust করা হয়।
+
+---
+
+Question: What problem does Camera raw file help with?
+Answer: English: Camera raw file contains minimally processed camera sensor data and is normally adjusted through Adobe Camera Raw. This knowledge helps you make better decisions in this topic.
+Bangla: Camera raw file কম process করা camera sensor data রাখে এবং সাধারণত Adobe Camera Raw দিয়ে adjust করা হয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Camera raw file?
+Answer: English: Use a small, safe example and observe this result: Camera raw file contains minimally processed camera sensor data and is normally adjusted through Adobe Camera Raw. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Camera raw file কম process করা camera sensor data রাখে এবং সাধারণত Adobe Camera Raw দিয়ে adjust করা হয়। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: How can a student confirm that Camera raw file is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Camera raw file contains minimally processed camera sensor data and is normally adjusted through Adobe Camera Raw. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Camera raw file কম process করা camera sensor data রাখে এবং সাধারণত Adobe Camera Raw দিয়ে adjust করা হয়। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What is Export As?
+Answer: English: Export As creates delivery assets with control over format, size, scale, transparency, and related options.
+Bangla: Export As format, size, scale, transparency ও related option নিয়ন্ত্রণ করে delivery asset তৈরি করে।
+
+---
+
+Question: Why is Export As important in this topic?
+Answer: English: Export As creates delivery assets with control over format, size, scale, transparency, and related options. This knowledge helps you make better decisions in this topic.
+Bangla: Export As format, size, scale, transparency ও related option নিয়ন্ত্রণ করে delivery asset তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Export As?
+Answer: English: Use a small, safe example and observe this result: Export As creates delivery assets with control over format, size, scale, transparency, and related options. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Export As format, size, scale, transparency ও related option নিয়ন্ত্রণ করে delivery asset তৈরি করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What should a student check when working with Export As?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Export As creates delivery assets with control over format, size, scale, transparency, and related options. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Export As format, size, scale, transparency ও related option নিয়ন্ত্রণ করে delivery asset তৈরি করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: In simple words, what does Quick Export mean?
+Answer: English: Quick Export exports quickly with a format and settings chosen in preferences.
+Bangla: Quick Export Preferences-এ বেছে রাখা format ও setting দিয়ে দ্রুত export করে।
+
+---
+
+Question: Why should a beginner learn Quick Export?
+Answer: English: Quick Export exports quickly with a format and settings chosen in preferences. This knowledge helps you make better decisions in this topic.
+Bangla: Quick Export Preferences-এ বেছে রাখা format ও setting দিয়ে দ্রুত export করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Quick Export?
+Answer: English: Use a small, safe example and observe this result: Quick Export exports quickly with a format and settings chosen in preferences. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Quick Export Preferences-এ বেছে রাখা format ও setting দিয়ে দ্রুত export করে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Quick Export?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Quick Export exports quickly with a format and settings chosen in preferences. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Quick Export Preferences-এ বেছে রাখা format ও setting দিয়ে দ্রুত export করে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What does Save for Web Legacy do?
+Answer: English: Save for Web Legacy provides an older preview-based workflow for optimizing web images.
+Bangla: Save for Web Legacy web image optimize করার পুরোনো preview-based workflow দেয়।
+
+---
+
+Question: When is Save for Web Legacy useful?
+Answer: English: Save for Web Legacy provides an older preview-based workflow for optimizing web images. This knowledge helps you make better decisions in this topic.
+Bangla: Save for Web Legacy web image optimize করার পুরোনো preview-based workflow দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Save for Web Legacy?
+Answer: English: Use a small, safe example and observe this result: Save for Web Legacy provides an older preview-based workflow for optimizing web images. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Save for Web Legacy web image optimize করার পুরোনো preview-based workflow দেয়। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What good habit should be followed when using Save for Web Legacy?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Save for Web Legacy provides an older preview-based workflow for optimizing web images. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Save for Web Legacy web image optimize করার পুরোনো preview-based workflow দেয়। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: How would you explain Compression to a beginner?
+Answer: English: Compression reduces file size by storing image data more efficiently, sometimes by discarding detail.
+Bangla: Compression image data আরও efficientভাবে রেখে file size কমায় এবং কখনও detail বাদ দেয়।
+
+---
+
+Question: What problem does Compression help with?
+Answer: English: Compression reduces file size by storing image data more efficiently, sometimes by discarding detail. This knowledge helps you make better decisions in this topic.
+Bangla: Compression image data আরও efficientভাবে রেখে file size কমায় এবং কখনও detail বাদ দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Compression?
+Answer: English: Use a small, safe example and observe this result: Compression reduces file size by storing image data more efficiently, sometimes by discarding detail. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Compression image data আরও efficientভাবে রেখে file size কমায় এবং কখনও detail বাদ দেয়। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: How can a student confirm that Compression is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Compression reduces file size by storing image data more efficiently, sometimes by discarding detail. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Compression image data আরও efficientভাবে রেখে file size কমায় এবং কখনও detail বাদ দেয়। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What is Quality setting?
+Answer: English: Quality setting balances visible image detail against delivery file size in formats such as JPEG.
+Bangla: Quality setting JPEG-এর মতো format-এ visible detail ও delivery file size-এর মধ্যে ভারসাম্য রাখে।
+
+---
+
+Question: Why is Quality setting important in this topic?
+Answer: English: Quality setting balances visible image detail against delivery file size in formats such as JPEG. This knowledge helps you make better decisions in this topic.
+Bangla: Quality setting JPEG-এর মতো format-এ visible detail ও delivery file size-এর মধ্যে ভারসাম্য রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Quality setting?
+Answer: English: Use a small, safe example and observe this result: Quality setting balances visible image detail against delivery file size in formats such as JPEG. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Quality setting JPEG-এর মতো format-এ visible detail ও delivery file size-এর মধ্যে ভারসাম্য রাখে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What should a student check when working with Quality setting?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Quality setting balances visible image detail against delivery file size in formats such as JPEG. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Quality setting JPEG-এর মতো format-এ visible detail ও delivery file size-এর মধ্যে ভারসাম্য রাখে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: In simple words, what does Transparency mean?
+Answer: English: Transparency allows fully or partly clear areas when the chosen format supports an alpha channel.
+Bangla: Transparency chosen format alpha channel সমর্থন করলে সম্পূর্ণ বা আংশিক স্বচ্ছ area রাখতে দেয়।
+
+---
+
+Question: Why should a beginner learn Transparency?
+Answer: English: Transparency allows fully or partly clear areas when the chosen format supports an alpha channel. This knowledge helps you make better decisions in this topic.
+Bangla: Transparency chosen format alpha channel সমর্থন করলে সম্পূর্ণ বা আংশিক স্বচ্ছ area রাখতে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Transparency?
+Answer: English: Use a small, safe example and observe this result: Transparency allows fully or partly clear areas when the chosen format supports an alpha channel. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Transparency chosen format alpha channel সমর্থন করলে সম্পূর্ণ বা আংশিক স্বচ্ছ area রাখতে দেয়। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Transparency?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Transparency allows fully or partly clear areas when the chosen format supports an alpha channel. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Transparency chosen format alpha channel সমর্থন করলে সম্পূর্ণ বা আংশিক স্বচ্ছ area রাখতে দেয়। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What does Metadata do?
+Answer: English: Metadata stores extra information such as author, copyright, camera details, keywords, or dates.
+Bangla: Metadata author, copyright, camera detail, keyword বা date-এর মতো অতিরিক্ত তথ্য রাখে।
+
+---
+
+Question: When is Metadata useful?
+Answer: English: Metadata stores extra information such as author, copyright, camera details, keywords, or dates. This knowledge helps you make better decisions in this topic.
+Bangla: Metadata author, copyright, camera detail, keyword বা date-এর মতো অতিরিক্ত তথ্য রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Metadata?
+Answer: English: Use a small, safe example and observe this result: Metadata stores extra information such as author, copyright, camera details, keywords, or dates. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Metadata author, copyright, camera detail, keyword বা date-এর মতো অতিরিক্ত তথ্য রাখে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What good habit should be followed when using Metadata?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Metadata stores extra information such as author, copyright, camera details, keywords, or dates. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Metadata author, copyright, camera detail, keyword বা date-এর মতো অতিরিক্ত তথ্য রাখে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: How would you explain Embed color profile to a beginner?
+Answer: English: Embed color profile includes color-space information so other color-managed systems can interpret colors more consistently.
+Bangla: Embed color profile color-space তথ্য যুক্ত করে, যাতে অন্য color-managed system আরও consistentভাবে color বুঝতে পারে।
+
+---
+
+Question: What problem does Embed color profile help with?
+Answer: English: Embed color profile includes color-space information so other color-managed systems can interpret colors more consistently. This knowledge helps you make better decisions in this topic.
+Bangla: Embed color profile color-space তথ্য যুক্ত করে, যাতে অন্য color-managed system আরও consistentভাবে color বুঝতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Embed color profile?
+Answer: English: Use a small, safe example and observe this result: Embed color profile includes color-space information so other color-managed systems can interpret colors more consistently. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Embed color profile color-space তথ্য যুক্ত করে, যাতে অন্য color-managed system আরও consistentভাবে color বুঝতে পারে। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: How can a student confirm that Embed color profile is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Embed color profile includes color-space information so other color-managed systems can interpret colors more consistently. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Embed color profile color-space তথ্য যুক্ত করে, যাতে অন্য color-managed system আরও consistentভাবে color বুঝতে পারে। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: What is Versioned filename?
+Answer: English: Versioned filename uses clear names such as project_v01 and project_v02 so stages are not accidentally overwritten.
+Bangla: Versioned filename project_v01 ও project_v02-এর মতো পরিষ্কার name দিয়ে stage আলাদা রাখে, যাতে ভুলে overwrite না হয়।
+
+---
+
+Question: Why is Versioned filename important in this topic?
+Answer: English: Versioned filename uses clear names such as project_v01 and project_v02 so stages are not accidentally overwritten. This knowledge helps you make better decisions in this topic.
+Bangla: Versioned filename project_v01 ও project_v02-এর মতো পরিষ্কার name দিয়ে stage আলাদা রাখে, যাতে ভুলে overwrite না হয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Versioned filename?
+Answer: English: Use a small, safe example and observe this result: Versioned filename uses clear names such as project_v01 and project_v02 so stages are not accidentally overwritten. Save one editable master and export separate web and print copies with clear filenames.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Versioned filename project_v01 ও project_v02-এর মতো পরিষ্কার name দিয়ে stage আলাদা রাখে, যাতে ভুলে overwrite না হয়। একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What should a student check when working with Versioned filename?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Versioned filename uses clear names such as project_v01 and project_v02 so stages are not accidentally overwritten. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Versioned filename project_v01 ও project_v02-এর মতো পরিষ্কার name দিয়ে stage আলাদা রাখে, যাতে ভুলে overwrite না হয়। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।

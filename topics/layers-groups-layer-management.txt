@@ -1,0 +1,597 @@
+Question: What is Layer?
+Answer: English: Layer holds content separately so it can be edited, moved, hidden, or combined with other content.
+Bangla: Layer content আলাদা রাখে, যাতে edit, move, hide বা অন্য content-এর সঙ্গে combine করা যায়।
+
+---
+
+Question: Why is Layer important in this topic?
+Answer: English: Layer holds content separately so it can be edited, moved, hidden, or combined with other content. This knowledge helps you make better decisions in this topic.
+Bangla: Layer content আলাদা রাখে, যাতে edit, move, hide বা অন্য content-এর সঙ্গে combine করা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Layer?
+Answer: English: Use a small, safe example and observe this result: Layer holds content separately so it can be edited, moved, hidden, or combined with other content. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer content আলাদা রাখে, যাতে edit, move, hide বা অন্য content-এর সঙ্গে combine করা যায়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What should a student check when working with Layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer holds content separately so it can be edited, moved, hidden, or combined with other content. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer content আলাদা রাখে, যাতে edit, move, hide বা অন্য content-এর সঙ্গে combine করা যায়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: In simple words, what does Layer stack mean?
+Answer: English: Layer stack uses top-to-bottom order to control which visible content appears in front.
+Bangla: Layer stack top-to-bottom order দিয়ে কোন visible content সামনে থাকবে তা নিয়ন্ত্রণ করে।
+
+---
+
+Question: Why should a beginner learn Layer stack?
+Answer: English: Layer stack uses top-to-bottom order to control which visible content appears in front. This knowledge helps you make better decisions in this topic.
+Bangla: Layer stack top-to-bottom order দিয়ে কোন visible content সামনে থাকবে তা নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Layer stack?
+Answer: English: Use a small, safe example and observe this result: Layer stack uses top-to-bottom order to control which visible content appears in front. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer stack top-to-bottom order দিয়ে কোন visible content সামনে থাকবে তা নিয়ন্ত্রণ করে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Layer stack?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer stack uses top-to-bottom order to control which visible content appears in front. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer stack top-to-bottom order দিয়ে কোন visible content সামনে থাকবে তা নিয়ন্ত্রণ করে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What does Background layer do?
+Answer: English: Background layer is a special locked starting layer in some documents and normally has no transparency.
+Bangla: Background layer কিছু document-এর special locked starting layer এবং সাধারণত transparency থাকে না।
+
+---
+
+Question: When is Background layer useful?
+Answer: English: Background layer is a special locked starting layer in some documents and normally has no transparency. This knowledge helps you make better decisions in this topic.
+Bangla: Background layer কিছু document-এর special locked starting layer এবং সাধারণত transparency থাকে না। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Background layer?
+Answer: English: Use a small, safe example and observe this result: Background layer is a special locked starting layer in some documents and normally has no transparency. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Background layer কিছু document-এর special locked starting layer এবং সাধারণত transparency থাকে না। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What good habit should be followed when using Background layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Background layer is a special locked starting layer in some documents and normally has no transparency. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Background layer কিছু document-এর special locked starting layer এবং সাধারণত transparency থাকে না। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: How would you explain Pixel layer to a beginner?
+Answer: English: Pixel layer contains raster pixels that can be painted or edited directly.
+Bangla: Pixel layer raster pixel রাখে, যা সরাসরি paint বা edit করা যায়।
+
+---
+
+Question: What problem does Pixel layer help with?
+Answer: English: Pixel layer contains raster pixels that can be painted or edited directly. This knowledge helps you make better decisions in this topic.
+Bangla: Pixel layer raster pixel রাখে, যা সরাসরি paint বা edit করা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Pixel layer?
+Answer: English: Use a small, safe example and observe this result: Pixel layer contains raster pixels that can be painted or edited directly. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Pixel layer raster pixel রাখে, যা সরাসরি paint বা edit করা যায়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: How can a student confirm that Pixel layer is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Pixel layer contains raster pixels that can be painted or edited directly. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Pixel layer raster pixel রাখে, যা সরাসরি paint বা edit করা যায়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What is Type layer?
+Answer: English: Type layer keeps text editable until it is rasterized or otherwise converted.
+Bangla: Type layer rasterize বা অন্যভাবে convert না করা পর্যন্ত text editable রাখে।
+
+---
+
+Question: Why is Type layer important in this topic?
+Answer: English: Type layer keeps text editable until it is rasterized or otherwise converted. This knowledge helps you make better decisions in this topic.
+Bangla: Type layer rasterize বা অন্যভাবে convert না করা পর্যন্ত text editable রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Type layer?
+Answer: English: Use a small, safe example and observe this result: Type layer keeps text editable until it is rasterized or otherwise converted. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Type layer rasterize বা অন্যভাবে convert না করা পর্যন্ত text editable রাখে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What should a student check when working with Type layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Type layer keeps text editable until it is rasterized or otherwise converted. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Type layer rasterize বা অন্যভাবে convert না করা পর্যন্ত text editable রাখে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: In simple words, what does Shape layer mean?
+Answer: English: Shape layer holds a vector path with editable fill and stroke properties.
+Bangla: Shape layer editable fill ও stroke property-সহ vector path ধরে রাখে।
+
+---
+
+Question: Why should a beginner learn Shape layer?
+Answer: English: Shape layer holds a vector path with editable fill and stroke properties. This knowledge helps you make better decisions in this topic.
+Bangla: Shape layer editable fill ও stroke property-সহ vector path ধরে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Shape layer?
+Answer: English: Use a small, safe example and observe this result: Shape layer holds a vector path with editable fill and stroke properties. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Shape layer editable fill ও stroke property-সহ vector path ধরে রাখে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Shape layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Shape layer holds a vector path with editable fill and stroke properties. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Shape layer editable fill ও stroke property-সহ vector path ধরে রাখে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What does Adjustment layer do?
+Answer: English: Adjustment layer changes tone or color without directly rewriting the source layer pixels.
+Bangla: Adjustment layer source layer-এর pixel সরাসরি না বদলে tone বা color পরিবর্তন করে।
+
+---
+
+Question: When is Adjustment layer useful?
+Answer: English: Adjustment layer changes tone or color without directly rewriting the source layer pixels. This knowledge helps you make better decisions in this topic.
+Bangla: Adjustment layer source layer-এর pixel সরাসরি না বদলে tone বা color পরিবর্তন করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Adjustment layer?
+Answer: English: Use a small, safe example and observe this result: Adjustment layer changes tone or color without directly rewriting the source layer pixels. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Adjustment layer source layer-এর pixel সরাসরি না বদলে tone বা color পরিবর্তন করে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What good habit should be followed when using Adjustment layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Adjustment layer changes tone or color without directly rewriting the source layer pixels. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Adjustment layer source layer-এর pixel সরাসরি না বদলে tone বা color পরিবর্তন করে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: How would you explain Fill layer to a beginner?
+Answer: English: Fill layer provides an editable solid color, gradient, or pattern with its own mask.
+Bangla: Fill layer নিজস্ব mask-সহ editable solid color, gradient বা pattern দেয়।
+
+---
+
+Question: What problem does Fill layer help with?
+Answer: English: Fill layer provides an editable solid color, gradient, or pattern with its own mask. This knowledge helps you make better decisions in this topic.
+Bangla: Fill layer নিজস্ব mask-সহ editable solid color, gradient বা pattern দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Fill layer?
+Answer: English: Use a small, safe example and observe this result: Fill layer provides an editable solid color, gradient, or pattern with its own mask. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Fill layer নিজস্ব mask-সহ editable solid color, gradient বা pattern দেয়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: How can a student confirm that Fill layer is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Fill layer provides an editable solid color, gradient, or pattern with its own mask. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Fill layer নিজস্ব mask-সহ editable solid color, gradient বা pattern দেয়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What is Smart Object layer?
+Answer: English: Smart Object layer protects placed source content and supports reversible transforms and Smart Filters.
+Bangla: Smart Object layer placed source content রক্ষা করে এবং reversible transform ও Smart Filter সমর্থন করে।
+
+---
+
+Question: Why is Smart Object layer important in this topic?
+Answer: English: Smart Object layer protects placed source content and supports reversible transforms and Smart Filters. This knowledge helps you make better decisions in this topic.
+Bangla: Smart Object layer placed source content রক্ষা করে এবং reversible transform ও Smart Filter সমর্থন করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Smart Object layer?
+Answer: English: Use a small, safe example and observe this result: Smart Object layer protects placed source content and supports reversible transforms and Smart Filters. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Smart Object layer placed source content রক্ষা করে এবং reversible transform ও Smart Filter সমর্থন করে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What should a student check when working with Smart Object layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Smart Object layer protects placed source content and supports reversible transforms and Smart Filters. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Smart Object layer placed source content রক্ষা করে এবং reversible transform ও Smart Filter সমর্থন করে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: In simple words, what does Layer group mean?
+Answer: English: Layer group keeps related layers together for organization and shared control.
+Bangla: Layer group গুছিয়ে রাখা ও একসঙ্গে control করার জন্য related layer একত্রে রাখে।
+
+---
+
+Question: Why should a beginner learn Layer group?
+Answer: English: Layer group keeps related layers together for organization and shared control. This knowledge helps you make better decisions in this topic.
+Bangla: Layer group গুছিয়ে রাখা ও একসঙ্গে control করার জন্য related layer একত্রে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Layer group?
+Answer: English: Use a small, safe example and observe this result: Layer group keeps related layers together for organization and shared control. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer group গুছিয়ে রাখা ও একসঙ্গে control করার জন্য related layer একত্রে রাখে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Layer group?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer group keeps related layers together for organization and shared control. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer group গুছিয়ে রাখা ও একসঙ্গে control করার জন্য related layer একত্রে রাখে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What does Layer visibility do?
+Answer: English: Layer visibility shows or hides a layer without deleting it.
+Bangla: Layer visibility delete না করে layer দেখায় বা লুকায়।
+
+---
+
+Question: When is Layer visibility useful?
+Answer: English: Layer visibility shows or hides a layer without deleting it. This knowledge helps you make better decisions in this topic.
+Bangla: Layer visibility delete না করে layer দেখায় বা লুকায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Layer visibility?
+Answer: English: Use a small, safe example and observe this result: Layer visibility shows or hides a layer without deleting it. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer visibility delete না করে layer দেখায় বা লুকায়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What good habit should be followed when using Layer visibility?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer visibility shows or hides a layer without deleting it. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer visibility delete না করে layer দেখায় বা লুকায়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: How would you explain Layer lock to a beginner?
+Answer: English: Layer lock prevents selected kinds of changes such as movement, painting, or transparency edits.
+Bangla: Layer lock move, paint বা transparency edit-এর মতো নির্বাচিত change আটকায়।
+
+---
+
+Question: What problem does Layer lock help with?
+Answer: English: Layer lock prevents selected kinds of changes such as movement, painting, or transparency edits. This knowledge helps you make better decisions in this topic.
+Bangla: Layer lock move, paint বা transparency edit-এর মতো নির্বাচিত change আটকায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Layer lock?
+Answer: English: Use a small, safe example and observe this result: Layer lock prevents selected kinds of changes such as movement, painting, or transparency edits. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer lock move, paint বা transparency edit-এর মতো নির্বাচিত change আটকায়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: How can a student confirm that Layer lock is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer lock prevents selected kinds of changes such as movement, painting, or transparency edits. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer lock move, paint বা transparency edit-এর মতো নির্বাচিত change আটকায়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What is Opacity?
+Answer: English: Opacity controls the overall transparency of a layer, including many applied effects.
+Bangla: Opacity অনেক applied effect-সহ layer-এর overall transparency নিয়ন্ত্রণ করে।
+
+---
+
+Question: Why is Opacity important in this topic?
+Answer: English: Opacity controls the overall transparency of a layer, including many applied effects. This knowledge helps you make better decisions in this topic.
+Bangla: Opacity অনেক applied effect-সহ layer-এর overall transparency নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Opacity?
+Answer: English: Use a small, safe example and observe this result: Opacity controls the overall transparency of a layer, including many applied effects. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Opacity অনেক applied effect-সহ layer-এর overall transparency নিয়ন্ত্রণ করে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What should a student check when working with Opacity?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Opacity controls the overall transparency of a layer, including many applied effects. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Opacity অনেক applied effect-সহ layer-এর overall transparency নিয়ন্ত্রণ করে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: In simple words, what does Fill opacity mean?
+Answer: English: Fill opacity controls the layer's main content while some layer effects can remain more visible.
+Bangla: Fill opacity layer-এর main content নিয়ন্ত্রণ করে, আর কিছু layer effect বেশি visible থাকতে পারে।
+
+---
+
+Question: Why should a beginner learn Fill opacity?
+Answer: English: Fill opacity controls the layer's main content while some layer effects can remain more visible. This knowledge helps you make better decisions in this topic.
+Bangla: Fill opacity layer-এর main content নিয়ন্ত্রণ করে, আর কিছু layer effect বেশি visible থাকতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Fill opacity?
+Answer: English: Use a small, safe example and observe this result: Fill opacity controls the layer's main content while some layer effects can remain more visible. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Fill opacity layer-এর main content নিয়ন্ত্রণ করে, আর কিছু layer effect বেশি visible থাকতে পারে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Fill opacity?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Fill opacity controls the layer's main content while some layer effects can remain more visible. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Fill opacity layer-এর main content নিয়ন্ত্রণ করে, আর কিছু layer effect বেশি visible থাকতে পারে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What does Rename layer do?
+Answer: English: Rename layer replaces an unclear default name with a useful content-based name.
+Bangla: Rename layer অস্পষ্ট default name-এর বদলে content অনুযায়ী useful name দেয়।
+
+---
+
+Question: When is Rename layer useful?
+Answer: English: Rename layer replaces an unclear default name with a useful content-based name. This knowledge helps you make better decisions in this topic.
+Bangla: Rename layer অস্পষ্ট default name-এর বদলে content অনুযায়ী useful name দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Rename layer?
+Answer: English: Use a small, safe example and observe this result: Rename layer replaces an unclear default name with a useful content-based name. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Rename layer অস্পষ্ট default name-এর বদলে content অনুযায়ী useful name দেয়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What good habit should be followed when using Rename layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Rename layer replaces an unclear default name with a useful content-based name. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Rename layer অস্পষ্ট default name-এর বদলে content অনুযায়ী useful name দেয়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: How would you explain Duplicate layer to a beginner?
+Answer: English: Duplicate layer creates another editable copy of a layer for variation or safety.
+Bangla: Duplicate layer variation বা safety-এর জন্য layer-এর আরেকটি editable copy তৈরি করে।
+
+---
+
+Question: What problem does Duplicate layer help with?
+Answer: English: Duplicate layer creates another editable copy of a layer for variation or safety. This knowledge helps you make better decisions in this topic.
+Bangla: Duplicate layer variation বা safety-এর জন্য layer-এর আরেকটি editable copy তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Duplicate layer?
+Answer: English: Use a small, safe example and observe this result: Duplicate layer creates another editable copy of a layer for variation or safety. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Duplicate layer variation বা safety-এর জন্য layer-এর আরেকটি editable copy তৈরি করে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: How can a student confirm that Duplicate layer is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Duplicate layer creates another editable copy of a layer for variation or safety. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Duplicate layer variation বা safety-এর জন্য layer-এর আরেকটি editable copy তৈরি করে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What is Delete layer?
+Answer: English: Delete layer removes the selected layer from the document.
+Bangla: Delete layer selected layer document থেকে সরিয়ে দেয়।
+
+---
+
+Question: Why is Delete layer important in this topic?
+Answer: English: Delete layer removes the selected layer from the document. This knowledge helps you make better decisions in this topic.
+Bangla: Delete layer selected layer document থেকে সরিয়ে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Delete layer?
+Answer: English: Use a small, safe example and observe this result: Delete layer removes the selected layer from the document. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Delete layer selected layer document থেকে সরিয়ে দেয়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What should a student check when working with Delete layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Delete layer removes the selected layer from the document. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Delete layer selected layer document থেকে সরিয়ে দেয়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: In simple words, what does Merge layers mean?
+Answer: English: Merge layers combines selected layers into fewer rasterized or consolidated layers and reduces editability.
+Bangla: Merge layers selected layer একত্র করে কম rasterized বা consolidated layer বানায় এবং editability কমায়।
+
+---
+
+Question: Why should a beginner learn Merge layers?
+Answer: English: Merge layers combines selected layers into fewer rasterized or consolidated layers and reduces editability. This knowledge helps you make better decisions in this topic.
+Bangla: Merge layers selected layer একত্র করে কম rasterized বা consolidated layer বানায় এবং editability কমায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Merge layers?
+Answer: English: Use a small, safe example and observe this result: Merge layers combines selected layers into fewer rasterized or consolidated layers and reduces editability. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Merge layers selected layer একত্র করে কম rasterized বা consolidated layer বানায় এবং editability কমায়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Merge layers?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Merge layers combines selected layers into fewer rasterized or consolidated layers and reduces editability. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Merge layers selected layer একত্র করে কম rasterized বা consolidated layer বানায় এবং editability কমায়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What does Flatten Image do?
+Answer: English: Flatten Image combines the document into a single background-style result and removes normal layer editing.
+Bangla: Flatten Image document-কে একটিমাত্র background-style result-এ combine করে এবং normal layer editing সরায়।
+
+---
+
+Question: When is Flatten Image useful?
+Answer: English: Flatten Image combines the document into a single background-style result and removes normal layer editing. This knowledge helps you make better decisions in this topic.
+Bangla: Flatten Image document-কে একটিমাত্র background-style result-এ combine করে এবং normal layer editing সরায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Flatten Image?
+Answer: English: Use a small, safe example and observe this result: Flatten Image combines the document into a single background-style result and removes normal layer editing. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Flatten Image document-কে একটিমাত্র background-style result-এ combine করে এবং normal layer editing সরায়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What good habit should be followed when using Flatten Image?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Flatten Image combines the document into a single background-style result and removes normal layer editing. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Flatten Image document-কে একটিমাত্র background-style result-এ combine করে এবং normal layer editing সরায়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: How would you explain Align layers to a beginner?
+Answer: English: Align layers lines selected layer bounds up to a chosen edge or center.
+Bangla: Align layers selected layer-এর boundary-কে নির্বাচিত edge বা center অনুযায়ী একই লাইনে আনে।
+
+---
+
+Question: What problem does Align layers help with?
+Answer: English: Align layers lines selected layer bounds up to a chosen edge or center. This knowledge helps you make better decisions in this topic.
+Bangla: Align layers selected layer-এর boundary-কে নির্বাচিত edge বা center অনুযায়ী একই লাইনে আনে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Align layers?
+Answer: English: Use a small, safe example and observe this result: Align layers lines selected layer bounds up to a chosen edge or center. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Align layers selected layer-এর boundary-কে নির্বাচিত edge বা center অনুযায়ী একই লাইনে আনে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: How can a student confirm that Align layers is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Align layers lines selected layer bounds up to a chosen edge or center. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Align layers selected layer-এর boundary-কে নির্বাচিত edge বা center অনুযায়ী একই লাইনে আনে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What is Distribute layers?
+Answer: English: Distribute layers spaces three or more selected layers consistently.
+Bangla: Distribute layers তিন বা তার বেশি selected layer সমানভাবে space করে।
+
+---
+
+Question: Why is Distribute layers important in this topic?
+Answer: English: Distribute layers spaces three or more selected layers consistently. This knowledge helps you make better decisions in this topic.
+Bangla: Distribute layers তিন বা তার বেশি selected layer সমানভাবে space করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Distribute layers?
+Answer: English: Use a small, safe example and observe this result: Distribute layers spaces three or more selected layers consistently. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Distribute layers তিন বা তার বেশি selected layer সমানভাবে space করে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What should a student check when working with Distribute layers?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Distribute layers spaces three or more selected layers consistently. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Distribute layers তিন বা তার বেশি selected layer সমানভাবে space করে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: In simple words, what does Linked layers mean?
+Answer: English: Linked layers keep separate layers connected for moving or transforming together.
+Bangla: Linked layers আলাদা layer-কে যুক্ত রাখে, যাতে একসঙ্গে move বা transform করা যায়।
+
+---
+
+Question: Why should a beginner learn Linked layers?
+Answer: English: Linked layers keep separate layers connected for moving or transforming together. This knowledge helps you make better decisions in this topic.
+Bangla: Linked layers আলাদা layer-কে যুক্ত রাখে, যাতে একসঙ্গে move বা transform করা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Linked layers?
+Answer: English: Use a small, safe example and observe this result: Linked layers keep separate layers connected for moving or transforming together. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Linked layers আলাদা layer-কে যুক্ত রাখে, যাতে একসঙ্গে move বা transform করা যায়। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Linked layers?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Linked layers keep separate layers connected for moving or transforming together. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Linked layers আলাদা layer-কে যুক্ত রাখে, যাতে একসঙ্গে move বা transform করা যায়। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What does Clipping mask do?
+Answer: English: Clipping mask limits an upper layer's visibility to the opaque content of the layer below.
+Bangla: Clipping mask উপরের layer-এর visibility নিচের layer-এর opaque content-এর মধ্যে সীমিত রাখে।
+
+---
+
+Question: When is Clipping mask useful?
+Answer: English: Clipping mask limits an upper layer's visibility to the opaque content of the layer below. This knowledge helps you make better decisions in this topic.
+Bangla: Clipping mask উপরের layer-এর visibility নিচের layer-এর opaque content-এর মধ্যে সীমিত রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Clipping mask?
+Answer: English: Use a small, safe example and observe this result: Clipping mask limits an upper layer's visibility to the opaque content of the layer below. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Clipping mask উপরের layer-এর visibility নিচের layer-এর opaque content-এর মধ্যে সীমিত রাখে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What good habit should be followed when using Clipping mask?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Clipping mask limits an upper layer's visibility to the opaque content of the layer below. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Clipping mask উপরের layer-এর visibility নিচের layer-এর opaque content-এর মধ্যে সীমিত রাখে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: How would you explain Layer style to a beginner?
+Answer: English: Layer style adds editable effects such as shadow, stroke, glow, or overlay to a layer.
+Bangla: Layer style layer-এ shadow, stroke, glow বা overlay-এর মতো editable effect যোগ করে।
+
+---
+
+Question: What problem does Layer style help with?
+Answer: English: Layer style adds editable effects such as shadow, stroke, glow, or overlay to a layer. This knowledge helps you make better decisions in this topic.
+Bangla: Layer style layer-এ shadow, stroke, glow বা overlay-এর মতো editable effect যোগ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Layer style?
+Answer: English: Use a small, safe example and observe this result: Layer style adds editable effects such as shadow, stroke, glow, or overlay to a layer. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer style layer-এ shadow, stroke, glow বা overlay-এর মতো editable effect যোগ করে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: How can a student confirm that Layer style is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer style adds editable effects such as shadow, stroke, glow, or overlay to a layer. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer style layer-এ shadow, stroke, glow বা overlay-এর মতো editable effect যোগ করে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।
+
+---
+
+Question: What is Layer color label?
+Answer: English: Layer color label marks layers or groups with colors to make a large file easier to scan.
+Bangla: Layer color label বড় file সহজে বুঝতে layer বা group-কে color দিয়ে চিহ্নিত করে।
+
+---
+
+Question: Why is Layer color label important in this topic?
+Answer: English: Layer color label marks layers or groups with colors to make a large file easier to scan. This knowledge helps you make better decisions in this topic.
+Bangla: Layer color label বড় file সহজে বুঝতে layer বা group-কে color দিয়ে চিহ্নিত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Layer color label?
+Answer: English: Use a small, safe example and observe this result: Layer color label marks layers or groups with colors to make a large file easier to scan. Build a five-layer design, name every layer, group related items, and change their order and visibility.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer color label বড় file সহজে বুঝতে layer বা group-কে color দিয়ে চিহ্নিত করে। পাঁচ layer-এর design বানান, প্রতিটি layer-এর name দিন, related item group করুন এবং order ও visibility বদলান।
+
+---
+
+Question: What should a student check when working with Layer color label?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer color label marks layers or groups with colors to make a large file easier to scan. Select the correct layer before editing, and avoid merging or flattening the only master file.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer color label বড় file সহজে বুঝতে layer বা group-কে color দিয়ে চিহ্নিত করে। edit করার আগে সঠিক layer select করুন এবং একমাত্র master file merge বা flatten করবেন না।

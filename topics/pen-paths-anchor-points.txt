@@ -1,0 +1,597 @@
+Question: What is Pen tool?
+Answer: English: Pen tool creates precise straight and curved path segments using anchor points and direction handles.
+Bangla: Pen tool anchor point ও direction handle দিয়ে precise straight ও curved path segment তৈরি করে।
+
+---
+
+Question: Why is Pen tool important in this topic?
+Answer: English: Pen tool creates precise straight and curved path segments using anchor points and direction handles. This knowledge helps you make better decisions in this topic.
+Bangla: Pen tool anchor point ও direction handle দিয়ে precise straight ও curved path segment তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Pen tool?
+Answer: English: Use a small, safe example and observe this result: Pen tool creates precise straight and curved path segments using anchor points and direction handles. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Pen tool anchor point ও direction handle দিয়ে precise straight ও curved path segment তৈরি করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What should a student check when working with Pen tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Pen tool creates precise straight and curved path segments using anchor points and direction handles. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Pen tool anchor point ও direction handle দিয়ে precise straight ও curved path segment তৈরি করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: In simple words, what does Curvature Pen tool mean?
+Answer: English: Curvature Pen tool creates and edits curves by placing points with simpler automatic curve handling.
+Bangla: Curvature Pen tool সহজ automatic curve handling-সহ point বসিয়ে curve তৈরি ও edit করে।
+
+---
+
+Question: Why should a beginner learn Curvature Pen tool?
+Answer: English: Curvature Pen tool creates and edits curves by placing points with simpler automatic curve handling. This knowledge helps you make better decisions in this topic.
+Bangla: Curvature Pen tool সহজ automatic curve handling-সহ point বসিয়ে curve তৈরি ও edit করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Curvature Pen tool?
+Answer: English: Use a small, safe example and observe this result: Curvature Pen tool creates and edits curves by placing points with simpler automatic curve handling. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Curvature Pen tool সহজ automatic curve handling-সহ point বসিয়ে curve তৈরি ও edit করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Curvature Pen tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Curvature Pen tool creates and edits curves by placing points with simpler automatic curve handling. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Curvature Pen tool সহজ automatic curve handling-সহ point বসিয়ে curve তৈরি ও edit করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What does Freeform Pen tool do?
+Answer: English: Freeform Pen tool draws a path by following a hand-drawn pointer movement.
+Bangla: Freeform Pen tool hand-drawn pointer movement অনুসরণ করে path আঁকে।
+
+---
+
+Question: When is Freeform Pen tool useful?
+Answer: English: Freeform Pen tool draws a path by following a hand-drawn pointer movement. This knowledge helps you make better decisions in this topic.
+Bangla: Freeform Pen tool hand-drawn pointer movement অনুসরণ করে path আঁকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Freeform Pen tool?
+Answer: English: Use a small, safe example and observe this result: Freeform Pen tool draws a path by following a hand-drawn pointer movement. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Freeform Pen tool hand-drawn pointer movement অনুসরণ করে path আঁকে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What good habit should be followed when using Freeform Pen tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Freeform Pen tool draws a path by following a hand-drawn pointer movement. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Freeform Pen tool hand-drawn pointer movement অনুসরণ করে path আঁকে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: How would you explain Anchor point to a beginner?
+Answer: English: Anchor point marks a position where path segments start, end, or change direction.
+Bangla: Anchor point path segment কোথায় শুরু, শেষ বা direction change করবে তা চিহ্নিত করে।
+
+---
+
+Question: What problem does Anchor point help with?
+Answer: English: Anchor point marks a position where path segments start, end, or change direction. This knowledge helps you make better decisions in this topic.
+Bangla: Anchor point path segment কোথায় শুরু, শেষ বা direction change করবে তা চিহ্নিত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Anchor point?
+Answer: English: Use a small, safe example and observe this result: Anchor point marks a position where path segments start, end, or change direction. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Anchor point path segment কোথায় শুরু, শেষ বা direction change করবে তা চিহ্নিত করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: How can a student confirm that Anchor point is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Anchor point marks a position where path segments start, end, or change direction. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Anchor point path segment কোথায় শুরু, শেষ বা direction change করবে তা চিহ্নিত করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What is Corner point?
+Answer: English: Corner point joins path segments with a sharp direction change or independent handles.
+Bangla: Corner point sharp direction change বা independent handle দিয়ে path segment যুক্ত করে।
+
+---
+
+Question: Why is Corner point important in this topic?
+Answer: English: Corner point joins path segments with a sharp direction change or independent handles. This knowledge helps you make better decisions in this topic.
+Bangla: Corner point sharp direction change বা independent handle দিয়ে path segment যুক্ত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Corner point?
+Answer: English: Use a small, safe example and observe this result: Corner point joins path segments with a sharp direction change or independent handles. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Corner point sharp direction change বা independent handle দিয়ে path segment যুক্ত করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What should a student check when working with Corner point?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Corner point joins path segments with a sharp direction change or independent handles. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Corner point sharp direction change বা independent handle দিয়ে path segment যুক্ত করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: In simple words, what does Smooth point mean?
+Answer: English: Smooth point joins curved segments in a continuous smooth direction.
+Bangla: Smooth point curved segment-কে continuous smooth direction-এ যুক্ত করে।
+
+---
+
+Question: Why should a beginner learn Smooth point?
+Answer: English: Smooth point joins curved segments in a continuous smooth direction. This knowledge helps you make better decisions in this topic.
+Bangla: Smooth point curved segment-কে continuous smooth direction-এ যুক্ত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Smooth point?
+Answer: English: Use a small, safe example and observe this result: Smooth point joins curved segments in a continuous smooth direction. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Smooth point curved segment-কে continuous smooth direction-এ যুক্ত করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Smooth point?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Smooth point joins curved segments in a continuous smooth direction. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Smooth point curved segment-কে continuous smooth direction-এ যুক্ত করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What does Direction handle do?
+Answer: English: Direction handle controls the direction and strength of curvature leaving an anchor point.
+Bangla: Direction handle anchor point থেকে বের হওয়া curve-এর direction ও strength নিয়ন্ত্রণ করে।
+
+---
+
+Question: When is Direction handle useful?
+Answer: English: Direction handle controls the direction and strength of curvature leaving an anchor point. This knowledge helps you make better decisions in this topic.
+Bangla: Direction handle anchor point থেকে বের হওয়া curve-এর direction ও strength নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Direction handle?
+Answer: English: Use a small, safe example and observe this result: Direction handle controls the direction and strength of curvature leaving an anchor point. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Direction handle anchor point থেকে বের হওয়া curve-এর direction ও strength নিয়ন্ত্রণ করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What good habit should be followed when using Direction handle?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Direction handle controls the direction and strength of curvature leaving an anchor point. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Direction handle anchor point থেকে বের হওয়া curve-এর direction ও strength নিয়ন্ত্রণ করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: How would you explain Path segment to a beginner?
+Answer: English: Path segment is the straight or curved line between two anchor points.
+Bangla: Path segment দুই anchor point-এর মাঝের straight বা curved line।
+
+---
+
+Question: What problem does Path segment help with?
+Answer: English: Path segment is the straight or curved line between two anchor points. This knowledge helps you make better decisions in this topic.
+Bangla: Path segment দুই anchor point-এর মাঝের straight বা curved line। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Path segment?
+Answer: English: Use a small, safe example and observe this result: Path segment is the straight or curved line between two anchor points. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Path segment দুই anchor point-এর মাঝের straight বা curved line। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: How can a student confirm that Path segment is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Path segment is the straight or curved line between two anchor points. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Path segment দুই anchor point-এর মাঝের straight বা curved line। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What is Open path?
+Answer: English: Open path has separate starting and ending anchor points.
+Bangla: Open path আলাদা starting ও ending anchor point থাকে।
+
+---
+
+Question: Why is Open path important in this topic?
+Answer: English: Open path has separate starting and ending anchor points. This knowledge helps you make better decisions in this topic.
+Bangla: Open path আলাদা starting ও ending anchor point থাকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Open path?
+Answer: English: Use a small, safe example and observe this result: Open path has separate starting and ending anchor points. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Open path আলাদা starting ও ending anchor point থাকে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What should a student check when working with Open path?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Open path has separate starting and ending anchor points. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Open path আলাদা starting ও ending anchor point থাকে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: In simple words, what does Closed path mean?
+Answer: English: Closed path connects its final segment back to the starting point.
+Bangla: Closed path final segment-কে starting point-এর সঙ্গে যুক্ত করে।
+
+---
+
+Question: Why should a beginner learn Closed path?
+Answer: English: Closed path connects its final segment back to the starting point. This knowledge helps you make better decisions in this topic.
+Bangla: Closed path final segment-কে starting point-এর সঙ্গে যুক্ত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Closed path?
+Answer: English: Use a small, safe example and observe this result: Closed path connects its final segment back to the starting point. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Closed path final segment-কে starting point-এর সঙ্গে যুক্ত করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Closed path?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Closed path connects its final segment back to the starting point. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Closed path final segment-কে starting point-এর সঙ্গে যুক্ত করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What does Shape mode do?
+Answer: English: Shape mode creates a filled or stroked vector shape layer from Pen or Shape tool drawing.
+Bangla: Shape mode Pen বা Shape tool drawing থেকে filled বা stroked vector shape layer তৈরি করে।
+
+---
+
+Question: When is Shape mode useful?
+Answer: English: Shape mode creates a filled or stroked vector shape layer from Pen or Shape tool drawing. This knowledge helps you make better decisions in this topic.
+Bangla: Shape mode Pen বা Shape tool drawing থেকে filled বা stroked vector shape layer তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Shape mode?
+Answer: English: Use a small, safe example and observe this result: Shape mode creates a filled or stroked vector shape layer from Pen or Shape tool drawing. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Shape mode Pen বা Shape tool drawing থেকে filled বা stroked vector shape layer তৈরি করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What good habit should be followed when using Shape mode?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Shape mode creates a filled or stroked vector shape layer from Pen or Shape tool drawing. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Shape mode Pen বা Shape tool drawing থেকে filled বা stroked vector shape layer তৈরি করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: How would you explain Path mode to a beginner?
+Answer: English: Path mode creates path information without automatically creating visible filled pixels.
+Bangla: Path mode automatically visible filled pixel তৈরি না করে path information তৈরি করে।
+
+---
+
+Question: What problem does Path mode help with?
+Answer: English: Path mode creates path information without automatically creating visible filled pixels. This knowledge helps you make better decisions in this topic.
+Bangla: Path mode automatically visible filled pixel তৈরি না করে path information তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Path mode?
+Answer: English: Use a small, safe example and observe this result: Path mode creates path information without automatically creating visible filled pixels. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Path mode automatically visible filled pixel তৈরি না করে path information তৈরি করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: How can a student confirm that Path mode is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Path mode creates path information without automatically creating visible filled pixels. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Path mode automatically visible filled pixel তৈরি না করে path information তৈরি করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What is Work Path?
+Answer: English: Work Path is a temporary path that should be saved if it must be kept.
+Bangla: Work Path temporary path, যা ধরে রাখতে হলে save করা উচিত।
+
+---
+
+Question: Why is Work Path important in this topic?
+Answer: English: Work Path is a temporary path that should be saved if it must be kept. This knowledge helps you make better decisions in this topic.
+Bangla: Work Path temporary path, যা ধরে রাখতে হলে save করা উচিত। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Work Path?
+Answer: English: Use a small, safe example and observe this result: Work Path is a temporary path that should be saved if it must be kept. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Work Path temporary path, যা ধরে রাখতে হলে save করা উচিত। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What should a student check when working with Work Path?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Work Path is a temporary path that should be saved if it must be kept. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Work Path temporary path, যা ধরে রাখতে হলে save করা উচিত। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: In simple words, what does Paths panel mean?
+Answer: English: Paths panel stores, names, selects, duplicates, fills, strokes, and manages paths.
+Bangla: Paths panel path store, name, select, duplicate, fill, stroke ও manage করে।
+
+---
+
+Question: Why should a beginner learn Paths panel?
+Answer: English: Paths panel stores, names, selects, duplicates, fills, strokes, and manages paths. This knowledge helps you make better decisions in this topic.
+Bangla: Paths panel path store, name, select, duplicate, fill, stroke ও manage করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Paths panel?
+Answer: English: Use a small, safe example and observe this result: Paths panel stores, names, selects, duplicates, fills, strokes, and manages paths. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Paths panel path store, name, select, duplicate, fill, stroke ও manage করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Paths panel?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Paths panel stores, names, selects, duplicates, fills, strokes, and manages paths. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Paths panel path store, name, select, duplicate, fill, stroke ও manage করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What does Path Selection tool do?
+Answer: English: Path Selection tool selects and moves whole path components.
+Bangla: Path Selection tool পুরো path component select ও move করে।
+
+---
+
+Question: When is Path Selection tool useful?
+Answer: English: Path Selection tool selects and moves whole path components. This knowledge helps you make better decisions in this topic.
+Bangla: Path Selection tool পুরো path component select ও move করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Path Selection tool?
+Answer: English: Use a small, safe example and observe this result: Path Selection tool selects and moves whole path components. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Path Selection tool পুরো path component select ও move করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What good habit should be followed when using Path Selection tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Path Selection tool selects and moves whole path components. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Path Selection tool পুরো path component select ও move করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: How would you explain Direct Selection tool to a beginner?
+Answer: English: Direct Selection tool selects individual anchor points or path segments for precise editing.
+Bangla: Direct Selection tool precise editing-এর জন্য individual anchor point বা path segment select করে।
+
+---
+
+Question: What problem does Direct Selection tool help with?
+Answer: English: Direct Selection tool selects individual anchor points or path segments for precise editing. This knowledge helps you make better decisions in this topic.
+Bangla: Direct Selection tool precise editing-এর জন্য individual anchor point বা path segment select করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Direct Selection tool?
+Answer: English: Use a small, safe example and observe this result: Direct Selection tool selects individual anchor points or path segments for precise editing. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Direct Selection tool precise editing-এর জন্য individual anchor point বা path segment select করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: How can a student confirm that Direct Selection tool is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Direct Selection tool selects individual anchor points or path segments for precise editing. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Direct Selection tool precise editing-এর জন্য individual anchor point বা path segment select করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What is Add Anchor Point tool?
+Answer: English: Add Anchor Point tool adds a point to an existing path segment.
+Bangla: Add Anchor Point tool existing path segment-এ point যোগ করে।
+
+---
+
+Question: Why is Add Anchor Point tool important in this topic?
+Answer: English: Add Anchor Point tool adds a point to an existing path segment. This knowledge helps you make better decisions in this topic.
+Bangla: Add Anchor Point tool existing path segment-এ point যোগ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Add Anchor Point tool?
+Answer: English: Use a small, safe example and observe this result: Add Anchor Point tool adds a point to an existing path segment. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Add Anchor Point tool existing path segment-এ point যোগ করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What should a student check when working with Add Anchor Point tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Add Anchor Point tool adds a point to an existing path segment. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Add Anchor Point tool existing path segment-এ point যোগ করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: In simple words, what does Delete Anchor Point tool mean?
+Answer: English: Delete Anchor Point tool removes a point while keeping the path connected when possible.
+Bangla: Delete Anchor Point tool সম্ভব হলে path connected রেখে point সরায়।
+
+---
+
+Question: Why should a beginner learn Delete Anchor Point tool?
+Answer: English: Delete Anchor Point tool removes a point while keeping the path connected when possible. This knowledge helps you make better decisions in this topic.
+Bangla: Delete Anchor Point tool সম্ভব হলে path connected রেখে point সরায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Delete Anchor Point tool?
+Answer: English: Use a small, safe example and observe this result: Delete Anchor Point tool removes a point while keeping the path connected when possible. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Delete Anchor Point tool সম্ভব হলে path connected রেখে point সরায়। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Delete Anchor Point tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Delete Anchor Point tool removes a point while keeping the path connected when possible. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Delete Anchor Point tool সম্ভব হলে path connected রেখে point সরায়। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What does Convert Point tool do?
+Answer: English: Convert Point tool changes a smooth point to a corner or adjusts independent direction handles.
+Bangla: Convert Point tool smooth point-কে corner-এ বদলায় বা independent direction handle adjust করে।
+
+---
+
+Question: When is Convert Point tool useful?
+Answer: English: Convert Point tool changes a smooth point to a corner or adjusts independent direction handles. This knowledge helps you make better decisions in this topic.
+Bangla: Convert Point tool smooth point-কে corner-এ বদলায় বা independent direction handle adjust করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Convert Point tool?
+Answer: English: Use a small, safe example and observe this result: Convert Point tool changes a smooth point to a corner or adjusts independent direction handles. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Convert Point tool smooth point-কে corner-এ বদলায় বা independent direction handle adjust করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What good habit should be followed when using Convert Point tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Convert Point tool changes a smooth point to a corner or adjusts independent direction handles. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Convert Point tool smooth point-কে corner-এ বদলায় বা independent direction handle adjust করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: How would you explain Path operation to a beginner?
+Answer: English: Path operation controls whether new components combine, subtract, intersect, or exclude overlap.
+Bangla: Path operation new component combine, subtract, intersect নাকি overlap exclude করবে তা নিয়ন্ত্রণ করে।
+
+---
+
+Question: What problem does Path operation help with?
+Answer: English: Path operation controls whether new components combine, subtract, intersect, or exclude overlap. This knowledge helps you make better decisions in this topic.
+Bangla: Path operation new component combine, subtract, intersect নাকি overlap exclude করবে তা নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Path operation?
+Answer: English: Use a small, safe example and observe this result: Path operation controls whether new components combine, subtract, intersect, or exclude overlap. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Path operation new component combine, subtract, intersect নাকি overlap exclude করবে তা নিয়ন্ত্রণ করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: How can a student confirm that Path operation is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Path operation controls whether new components combine, subtract, intersect, or exclude overlap. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Path operation new component combine, subtract, intersect নাকি overlap exclude করবে তা নিয়ন্ত্রণ করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What is Fill Path?
+Answer: English: Fill Path fills the inside of a closed path with color, pattern, or another supported source.
+Bangla: Fill Path closed path-এর ভেতর color, pattern বা supported অন্য source দিয়ে fill করে।
+
+---
+
+Question: Why is Fill Path important in this topic?
+Answer: English: Fill Path fills the inside of a closed path with color, pattern, or another supported source. This knowledge helps you make better decisions in this topic.
+Bangla: Fill Path closed path-এর ভেতর color, pattern বা supported অন্য source দিয়ে fill করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Fill Path?
+Answer: English: Use a small, safe example and observe this result: Fill Path fills the inside of a closed path with color, pattern, or another supported source. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Fill Path closed path-এর ভেতর color, pattern বা supported অন্য source দিয়ে fill করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What should a student check when working with Fill Path?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Fill Path fills the inside of a closed path with color, pattern, or another supported source. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Fill Path closed path-এর ভেতর color, pattern বা supported অন্য source দিয়ে fill করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: In simple words, what does Stroke Path mean?
+Answer: English: Stroke Path draws along a path using a chosen painting tool and settings.
+Bangla: Stroke Path chosen painting tool ও setting দিয়ে path বরাবর আঁকে।
+
+---
+
+Question: Why should a beginner learn Stroke Path?
+Answer: English: Stroke Path draws along a path using a chosen painting tool and settings. This knowledge helps you make better decisions in this topic.
+Bangla: Stroke Path chosen painting tool ও setting দিয়ে path বরাবর আঁকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Stroke Path?
+Answer: English: Use a small, safe example and observe this result: Stroke Path draws along a path using a chosen painting tool and settings. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Stroke Path chosen painting tool ও setting দিয়ে path বরাবর আঁকে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Stroke Path?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Stroke Path draws along a path using a chosen painting tool and settings. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Stroke Path chosen painting tool ও setting দিয়ে path বরাবর আঁকে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What does Path to selection do?
+Answer: English: Path to selection converts a path outline into a pixel selection boundary.
+Bangla: Path to selection path outline-কে pixel selection boundary-তে convert করে।
+
+---
+
+Question: When is Path to selection useful?
+Answer: English: Path to selection converts a path outline into a pixel selection boundary. This knowledge helps you make better decisions in this topic.
+Bangla: Path to selection path outline-কে pixel selection boundary-তে convert করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Path to selection?
+Answer: English: Use a small, safe example and observe this result: Path to selection converts a path outline into a pixel selection boundary. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Path to selection path outline-কে pixel selection boundary-তে convert করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What good habit should be followed when using Path to selection?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Path to selection converts a path outline into a pixel selection boundary. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Path to selection path outline-কে pixel selection boundary-তে convert করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: How would you explain Selection to work path to a beginner?
+Answer: English: Selection to work path converts a selection boundary into an editable path with a chosen tolerance.
+Bangla: Selection to work path selection boundary-কে chosen tolerance-সহ editable path-এ convert করে।
+
+---
+
+Question: What problem does Selection to work path help with?
+Answer: English: Selection to work path converts a selection boundary into an editable path with a chosen tolerance. This knowledge helps you make better decisions in this topic.
+Bangla: Selection to work path selection boundary-কে chosen tolerance-সহ editable path-এ convert করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Selection to work path?
+Answer: English: Use a small, safe example and observe this result: Selection to work path converts a selection boundary into an editable path with a chosen tolerance. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Selection to work path selection boundary-কে chosen tolerance-সহ editable path-এ convert করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: How can a student confirm that Selection to work path is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Selection to work path converts a selection boundary into an editable path with a chosen tolerance. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Selection to work path selection boundary-কে chosen tolerance-সহ editable path-এ convert করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।
+
+---
+
+Question: What is Vector mask from path?
+Answer: English: Vector mask from path uses a path to control a layer's visibility with crisp scalable edges.
+Bangla: Vector mask from path crisp scalable edge-সহ layer visibility নিয়ন্ত্রণ করতে path ব্যবহার করে।
+
+---
+
+Question: Why is Vector mask from path important in this topic?
+Answer: English: Vector mask from path uses a path to control a layer's visibility with crisp scalable edges. This knowledge helps you make better decisions in this topic.
+Bangla: Vector mask from path crisp scalable edge-সহ layer visibility নিয়ন্ত্রণ করতে path ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Vector mask from path?
+Answer: English: Use a small, safe example and observe this result: Vector mask from path uses a path to control a layer's visibility with crisp scalable edges. Trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Vector mask from path crisp scalable edge-সহ layer visibility নিয়ন্ত্রণ করতে path ব্যবহার করে। যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What should a student check when working with Vector mask from path?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Vector mask from path uses a path to control a layer's visibility with crisp scalable edges. Do not add many unnecessary points; fewer well-placed points usually create cleaner, easier curves.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Vector mask from path crisp scalable edge-সহ layer visibility নিয়ন্ত্রণ করতে path ব্যবহার করে। অনেক unnecessary point যোগ করবেন না; কম কিন্তু সঠিকভাবে বসানো point সাধারণত cleaner ও সহজ curve তৈরি করে।

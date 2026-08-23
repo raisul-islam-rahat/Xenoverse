@@ -1,0 +1,597 @@
+Question: What is Computer?
+Answer: English: Computer takes input, processes data, stores information, and gives output.
+Bangla: Computer input নেয়, data process করে, তথ্য সংরক্ষণ করে এবং output দেয়।
+
+---
+
+Question: Why is Computer important in this topic?
+Answer: English: Computer takes input, processes data, stores information, and gives output. This knowledge helps you make better decisions in this topic.
+Bangla: Computer input নেয়, data process করে, তথ্য সংরক্ষণ করে এবং output দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Computer?
+Answer: English: Use a small, safe example and observe this result: Computer takes input, processes data, stores information, and gives output. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Computer input নেয়, data process করে, তথ্য সংরক্ষণ করে এবং output দেয়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What should a student check when working with Computer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Computer takes input, processes data, stores information, and gives output. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Computer input নেয়, data process করে, তথ্য সংরক্ষণ করে এবং output দেয়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: In simple words, what does Hardware mean?
+Answer: English: Hardware means the physical parts of a computer that you can touch.
+Bangla: Hardware কম্পিউটারের এমন বাস্তব অংশ বোঝায় যেগুলো স্পর্শ করা যায়।
+
+---
+
+Question: Why should a beginner learn Hardware?
+Answer: English: Hardware means the physical parts of a computer that you can touch. This knowledge helps you make better decisions in this topic.
+Bangla: Hardware কম্পিউটারের এমন বাস্তব অংশ বোঝায় যেগুলো স্পর্শ করা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Hardware?
+Answer: English: Use a small, safe example and observe this result: Hardware means the physical parts of a computer that you can touch. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Hardware কম্পিউটারের এমন বাস্তব অংশ বোঝায় যেগুলো স্পর্শ করা যায়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What beginner mistake should be avoided with Hardware?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Hardware means the physical parts of a computer that you can touch. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Hardware কম্পিউটারের এমন বাস্তব অংশ বোঝায় যেগুলো স্পর্শ করা যায়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What does Software do?
+Answer: English: Software means the programs and instructions that tell hardware what to do.
+Bangla: Software hardware-কে কী করতে হবে তা বলা program ও instruction বোঝায়।
+
+---
+
+Question: When is Software useful?
+Answer: English: Software means the programs and instructions that tell hardware what to do. This knowledge helps you make better decisions in this topic.
+Bangla: Software hardware-কে কী করতে হবে তা বলা program ও instruction বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Software?
+Answer: English: Use a small, safe example and observe this result: Software means the programs and instructions that tell hardware what to do. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Software hardware-কে কী করতে হবে তা বলা program ও instruction বোঝায়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What good habit should be followed when using Software?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Software means the programs and instructions that tell hardware what to do. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Software hardware-কে কী করতে হবে তা বলা program ও instruction বোঝায়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: How would you explain Operating system to a beginner?
+Answer: English: Operating system manages the computer and lets applications use the hardware.
+Bangla: Operating system কম্পিউটার পরিচালনা করে এবং application-কে hardware ব্যবহার করতে দেয়।
+
+---
+
+Question: What problem does Operating system help with?
+Answer: English: Operating system manages the computer and lets applications use the hardware. This knowledge helps you make better decisions in this topic.
+Bangla: Operating system কম্পিউটার পরিচালনা করে এবং application-কে hardware ব্যবহার করতে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Operating system?
+Answer: English: Use a small, safe example and observe this result: Operating system manages the computer and lets applications use the hardware. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Operating system কম্পিউটার পরিচালনা করে এবং application-কে hardware ব্যবহার করতে দেয়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: How can a student confirm that Operating system is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Operating system manages the computer and lets applications use the hardware. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Operating system কম্পিউটার পরিচালনা করে এবং application-কে hardware ব্যবহার করতে দেয়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What is CPU?
+Answer: English: CPU processes instructions and performs most general calculations.
+Bangla: CPU instruction process করে এবং বেশিরভাগ সাধারণ হিসাব সম্পন্ন করে।
+
+---
+
+Question: Why is CPU important in this topic?
+Answer: English: CPU processes instructions and performs most general calculations. This knowledge helps you make better decisions in this topic.
+Bangla: CPU instruction process করে এবং বেশিরভাগ সাধারণ হিসাব সম্পন্ন করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise CPU?
+Answer: English: Use a small, safe example and observe this result: CPU processes instructions and performs most general calculations. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: CPU instruction process করে এবং বেশিরভাগ সাধারণ হিসাব সম্পন্ন করে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What should a student check when working with CPU?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: CPU processes instructions and performs most general calculations. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: CPU instruction process করে এবং বেশিরভাগ সাধারণ হিসাব সম্পন্ন করে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: In simple words, what does RAM mean?
+Answer: English: RAM keeps working data temporarily so active programs can respond quickly.
+Bangla: RAM চলমান program দ্রুত কাজ করার জন্য প্রয়োজনীয় data সাময়িকভাবে ধরে রাখে।
+
+---
+
+Question: Why should a beginner learn RAM?
+Answer: English: RAM keeps working data temporarily so active programs can respond quickly. This knowledge helps you make better decisions in this topic.
+Bangla: RAM চলমান program দ্রুত কাজ করার জন্য প্রয়োজনীয় data সাময়িকভাবে ধরে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning RAM?
+Answer: English: Use a small, safe example and observe this result: RAM keeps working data temporarily so active programs can respond quickly. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: RAM চলমান program দ্রুত কাজ করার জন্য প্রয়োজনীয় data সাময়িকভাবে ধরে রাখে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What beginner mistake should be avoided with RAM?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: RAM keeps working data temporarily so active programs can respond quickly. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: RAM চলমান program দ্রুত কাজ করার জন্য প্রয়োজনীয় data সাময়িকভাবে ধরে রাখে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What does Storage do?
+Answer: English: Storage keeps files and programs even after the computer is turned off.
+Bangla: Storage কম্পিউটার বন্ধ হওয়ার পরও file ও program সংরক্ষণ করে।
+
+---
+
+Question: When is Storage useful?
+Answer: English: Storage keeps files and programs even after the computer is turned off. This knowledge helps you make better decisions in this topic.
+Bangla: Storage কম্পিউটার বন্ধ হওয়ার পরও file ও program সংরক্ষণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Storage?
+Answer: English: Use a small, safe example and observe this result: Storage keeps files and programs even after the computer is turned off. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Storage কম্পিউটার বন্ধ হওয়ার পরও file ও program সংরক্ষণ করে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What good habit should be followed when using Storage?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Storage keeps files and programs even after the computer is turned off. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Storage কম্পিউটার বন্ধ হওয়ার পরও file ও program সংরক্ষণ করে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: How would you explain HDD to a beginner?
+Answer: English: HDD stores data on spinning magnetic disks and is usually cheaper but slower than an SSD.
+Bangla: HDD ঘূর্ণায়মান magnetic disk-এ data রাখে এবং সাধারণত SSD-এর চেয়ে সস্তা কিন্তু ধীর।
+
+---
+
+Question: What problem does HDD help with?
+Answer: English: HDD stores data on spinning magnetic disks and is usually cheaper but slower than an SSD. This knowledge helps you make better decisions in this topic.
+Bangla: HDD ঘূর্ণায়মান magnetic disk-এ data রাখে এবং সাধারণত SSD-এর চেয়ে সস্তা কিন্তু ধীর। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with HDD?
+Answer: English: Use a small, safe example and observe this result: HDD stores data on spinning magnetic disks and is usually cheaper but slower than an SSD. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: HDD ঘূর্ণায়মান magnetic disk-এ data রাখে এবং সাধারণত SSD-এর চেয়ে সস্তা কিন্তু ধীর। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: How can a student confirm that HDD is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: HDD stores data on spinning magnetic disks and is usually cheaper but slower than an SSD. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: HDD ঘূর্ণায়মান magnetic disk-এ data রাখে এবং সাধারণত SSD-এর চেয়ে সস্তা কিন্তু ধীর। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What is SSD?
+Answer: English: SSD stores data electronically and usually opens files and programs faster than an HDD.
+Bangla: SSD ইলেকট্রনিকভাবে data রাখে এবং সাধারণত HDD-এর চেয়ে file ও program দ্রুত খোলে।
+
+---
+
+Question: Why is SSD important in this topic?
+Answer: English: SSD stores data electronically and usually opens files and programs faster than an HDD. This knowledge helps you make better decisions in this topic.
+Bangla: SSD ইলেকট্রনিকভাবে data রাখে এবং সাধারণত HDD-এর চেয়ে file ও program দ্রুত খোলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise SSD?
+Answer: English: Use a small, safe example and observe this result: SSD stores data electronically and usually opens files and programs faster than an HDD. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: SSD ইলেকট্রনিকভাবে data রাখে এবং সাধারণত HDD-এর চেয়ে file ও program দ্রুত খোলে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What should a student check when working with SSD?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: SSD stores data electronically and usually opens files and programs faster than an HDD. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: SSD ইলেকট্রনিকভাবে data রাখে এবং সাধারণত HDD-এর চেয়ে file ও program দ্রুত খোলে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: In simple words, what does GPU mean?
+Answer: English: GPU handles graphics work and helps Photoshop display and process many visual effects.
+Bangla: GPU graphics-এর কাজ করে এবং Photoshop-কে অনেক visual effect দেখাতে ও process করতে সাহায্য করে।
+
+---
+
+Question: Why should a beginner learn GPU?
+Answer: English: GPU handles graphics work and helps Photoshop display and process many visual effects. This knowledge helps you make better decisions in this topic.
+Bangla: GPU graphics-এর কাজ করে এবং Photoshop-কে অনেক visual effect দেখাতে ও process করতে সাহায্য করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning GPU?
+Answer: English: Use a small, safe example and observe this result: GPU handles graphics work and helps Photoshop display and process many visual effects. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: GPU graphics-এর কাজ করে এবং Photoshop-কে অনেক visual effect দেখাতে ও process করতে সাহায্য করে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What beginner mistake should be avoided with GPU?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: GPU handles graphics work and helps Photoshop display and process many visual effects. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: GPU graphics-এর কাজ করে এবং Photoshop-কে অনেক visual effect দেখাতে ও process করতে সাহায্য করে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What does Motherboard do?
+Answer: English: Motherboard connects the main computer parts so they can communicate.
+Bangla: Motherboard কম্পিউটারের প্রধান যন্ত্রাংশগুলোকে যুক্ত করে যাতে তারা একে অন্যের সঙ্গে কাজ করতে পারে।
+
+---
+
+Question: When is Motherboard useful?
+Answer: English: Motherboard connects the main computer parts so they can communicate. This knowledge helps you make better decisions in this topic.
+Bangla: Motherboard কম্পিউটারের প্রধান যন্ত্রাংশগুলোকে যুক্ত করে যাতে তারা একে অন্যের সঙ্গে কাজ করতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Motherboard?
+Answer: English: Use a small, safe example and observe this result: Motherboard connects the main computer parts so they can communicate. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Motherboard কম্পিউটারের প্রধান যন্ত্রাংশগুলোকে যুক্ত করে যাতে তারা একে অন্যের সঙ্গে কাজ করতে পারে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What good habit should be followed when using Motherboard?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Motherboard connects the main computer parts so they can communicate. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Motherboard কম্পিউটারের প্রধান যন্ত্রাংশগুলোকে যুক্ত করে যাতে তারা একে অন্যের সঙ্গে কাজ করতে পারে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: How would you explain Monitor to a beginner?
+Answer: English: Monitor shows the visual output from the computer.
+Bangla: Monitor কম্পিউটারের visual output দেখায়।
+
+---
+
+Question: What problem does Monitor help with?
+Answer: English: Monitor shows the visual output from the computer. This knowledge helps you make better decisions in this topic.
+Bangla: Monitor কম্পিউটারের visual output দেখায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Monitor?
+Answer: English: Use a small, safe example and observe this result: Monitor shows the visual output from the computer. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Monitor কম্পিউটারের visual output দেখায়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: How can a student confirm that Monitor is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Monitor shows the visual output from the computer. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Monitor কম্পিউটারের visual output দেখায়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What is Keyboard?
+Answer: English: Keyboard enters letters, numbers, commands, and shortcuts.
+Bangla: Keyboard letter, number, command ও shortcut input দেয়।
+
+---
+
+Question: Why is Keyboard important in this topic?
+Answer: English: Keyboard enters letters, numbers, commands, and shortcuts. This knowledge helps you make better decisions in this topic.
+Bangla: Keyboard letter, number, command ও shortcut input দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Keyboard?
+Answer: English: Use a small, safe example and observe this result: Keyboard enters letters, numbers, commands, and shortcuts. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Keyboard letter, number, command ও shortcut input দেয়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What should a student check when working with Keyboard?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Keyboard enters letters, numbers, commands, and shortcuts. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Keyboard letter, number, command ও shortcut input দেয়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: In simple words, what does Mouse mean?
+Answer: English: Mouse moves the pointer and lets you click, select, drag, and draw.
+Bangla: Mouse pointer চালায় এবং click, select, drag ও draw করতে দেয়।
+
+---
+
+Question: Why should a beginner learn Mouse?
+Answer: English: Mouse moves the pointer and lets you click, select, drag, and draw. This knowledge helps you make better decisions in this topic.
+Bangla: Mouse pointer চালায় এবং click, select, drag ও draw করতে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Mouse?
+Answer: English: Use a small, safe example and observe this result: Mouse moves the pointer and lets you click, select, drag, and draw. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Mouse pointer চালায় এবং click, select, drag ও draw করতে দেয়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What beginner mistake should be avoided with Mouse?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Mouse moves the pointer and lets you click, select, drag, and draw. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Mouse pointer চালায় এবং click, select, drag ও draw করতে দেয়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What does Input device do?
+Answer: English: Input device sends data or commands into a computer.
+Bangla: Input device কম্পিউটারে data বা command পাঠায়।
+
+---
+
+Question: When is Input device useful?
+Answer: English: Input device sends data or commands into a computer. This knowledge helps you make better decisions in this topic.
+Bangla: Input device কম্পিউটারে data বা command পাঠায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Input device?
+Answer: English: Use a small, safe example and observe this result: Input device sends data or commands into a computer. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Input device কম্পিউটারে data বা command পাঠায়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What good habit should be followed when using Input device?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Input device sends data or commands into a computer. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Input device কম্পিউটারে data বা command পাঠায়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: How would you explain Output device to a beginner?
+Answer: English: Output device presents information from a computer, such as an image, sound, or print.
+Bangla: Output device কম্পিউটার থেকে image, sound বা print-এর মতো তথ্য প্রকাশ করে।
+
+---
+
+Question: What problem does Output device help with?
+Answer: English: Output device presents information from a computer, such as an image, sound, or print. This knowledge helps you make better decisions in this topic.
+Bangla: Output device কম্পিউটার থেকে image, sound বা print-এর মতো তথ্য প্রকাশ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Output device?
+Answer: English: Use a small, safe example and observe this result: Output device presents information from a computer, such as an image, sound, or print. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Output device কম্পিউটার থেকে image, sound বা print-এর মতো তথ্য প্রকাশ করে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: How can a student confirm that Output device is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Output device presents information from a computer, such as an image, sound, or print. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Output device কম্পিউটার থেকে image, sound বা print-এর মতো তথ্য প্রকাশ করে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What is USB port?
+Answer: English: USB port connects devices such as a mouse, keyboard, storage drive, or drawing tablet.
+Bangla: USB port mouse, keyboard, storage drive বা drawing tablet-এর মতো device যুক্ত করে।
+
+---
+
+Question: Why is USB port important in this topic?
+Answer: English: USB port connects devices such as a mouse, keyboard, storage drive, or drawing tablet. This knowledge helps you make better decisions in this topic.
+Bangla: USB port mouse, keyboard, storage drive বা drawing tablet-এর মতো device যুক্ত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise USB port?
+Answer: English: Use a small, safe example and observe this result: USB port connects devices such as a mouse, keyboard, storage drive, or drawing tablet. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: USB port mouse, keyboard, storage drive বা drawing tablet-এর মতো device যুক্ত করে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What should a student check when working with USB port?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: USB port connects devices such as a mouse, keyboard, storage drive, or drawing tablet. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: USB port mouse, keyboard, storage drive বা drawing tablet-এর মতো device যুক্ত করে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: In simple words, what does File mean?
+Answer: English: File is a named collection of information, such as a photo, document, or program.
+Bangla: File photo, document বা program-এর মতো নামযুক্ত তথ্যের সংগ্রহ।
+
+---
+
+Question: Why should a beginner learn File?
+Answer: English: File is a named collection of information, such as a photo, document, or program. This knowledge helps you make better decisions in this topic.
+Bangla: File photo, document বা program-এর মতো নামযুক্ত তথ্যের সংগ্রহ। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning File?
+Answer: English: Use a small, safe example and observe this result: File is a named collection of information, such as a photo, document, or program. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: File photo, document বা program-এর মতো নামযুক্ত তথ্যের সংগ্রহ। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What beginner mistake should be avoided with File?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: File is a named collection of information, such as a photo, document, or program. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: File photo, document বা program-এর মতো নামযুক্ত তথ্যের সংগ্রহ। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What does Folder do?
+Answer: English: Folder organizes files and other folders in one place.
+Bangla: Folder file ও অন্য folder-কে এক জায়গায় গুছিয়ে রাখে।
+
+---
+
+Question: When is Folder useful?
+Answer: English: Folder organizes files and other folders in one place. This knowledge helps you make better decisions in this topic.
+Bangla: Folder file ও অন্য folder-কে এক জায়গায় গুছিয়ে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Folder?
+Answer: English: Use a small, safe example and observe this result: Folder organizes files and other folders in one place. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Folder file ও অন্য folder-কে এক জায়গায় গুছিয়ে রাখে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What good habit should be followed when using Folder?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Folder organizes files and other folders in one place. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Folder file ও অন্য folder-কে এক জায়গায় গুছিয়ে রাখে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: How would you explain Internet to a beginner?
+Answer: English: Internet connects devices and services so they can exchange information.
+Bangla: Internet device ও service-কে যুক্ত করে যাতে তারা তথ্য আদান-প্রদান করতে পারে।
+
+---
+
+Question: What problem does Internet help with?
+Answer: English: Internet connects devices and services so they can exchange information. This knowledge helps you make better decisions in this topic.
+Bangla: Internet device ও service-কে যুক্ত করে যাতে তারা তথ্য আদান-প্রদান করতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Internet?
+Answer: English: Use a small, safe example and observe this result: Internet connects devices and services so they can exchange information. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Internet device ও service-কে যুক্ত করে যাতে তারা তথ্য আদান-প্রদান করতে পারে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: How can a student confirm that Internet is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Internet connects devices and services so they can exchange information. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Internet device ও service-কে যুক্ত করে যাতে তারা তথ্য আদান-প্রদান করতে পারে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What is Web browser?
+Answer: English: Web browser opens websites and web applications.
+Bangla: Web browser website ও web application খোলে।
+
+---
+
+Question: Why is Web browser important in this topic?
+Answer: English: Web browser opens websites and web applications. This knowledge helps you make better decisions in this topic.
+Bangla: Web browser website ও web application খোলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Web browser?
+Answer: English: Use a small, safe example and observe this result: Web browser opens websites and web applications. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Web browser website ও web application খোলে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What should a student check when working with Web browser?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Web browser opens websites and web applications. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Web browser website ও web application খোলে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: In simple words, what does Cloud storage mean?
+Answer: English: Cloud storage keeps a copy of files on an online service that can be reached from connected devices.
+Bangla: Cloud storage online service-এ file-এর copy রাখে, যা connected device থেকে পাওয়া যায়।
+
+---
+
+Question: Why should a beginner learn Cloud storage?
+Answer: English: Cloud storage keeps a copy of files on an online service that can be reached from connected devices. This knowledge helps you make better decisions in this topic.
+Bangla: Cloud storage online service-এ file-এর copy রাখে, যা connected device থেকে পাওয়া যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Cloud storage?
+Answer: English: Use a small, safe example and observe this result: Cloud storage keeps a copy of files on an online service that can be reached from connected devices. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Cloud storage online service-এ file-এর copy রাখে, যা connected device থেকে পাওয়া যায়। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What beginner mistake should be avoided with Cloud storage?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Cloud storage keeps a copy of files on an online service that can be reached from connected devices. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Cloud storage online service-এ file-এর copy রাখে, যা connected device থেকে পাওয়া যায়। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What does Backup do?
+Answer: English: Backup is an extra copy used to recover files if the main copy is lost or damaged.
+Bangla: Backup মূল file হারালে বা নষ্ট হলে ফেরত পাওয়ার জন্য রাখা অতিরিক্ত copy।
+
+---
+
+Question: When is Backup useful?
+Answer: English: Backup is an extra copy used to recover files if the main copy is lost or damaged. This knowledge helps you make better decisions in this topic.
+Bangla: Backup মূল file হারালে বা নষ্ট হলে ফেরত পাওয়ার জন্য রাখা অতিরিক্ত copy। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Backup?
+Answer: English: Use a small, safe example and observe this result: Backup is an extra copy used to recover files if the main copy is lost or damaged. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Backup মূল file হারালে বা নষ্ট হলে ফেরত পাওয়ার জন্য রাখা অতিরিক্ত copy। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What good habit should be followed when using Backup?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Backup is an extra copy used to recover files if the main copy is lost or damaged. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Backup মূল file হারালে বা নষ্ট হলে ফেরত পাওয়ার জন্য রাখা অতিরিক্ত copy। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: How would you explain Power supply to a beginner?
+Answer: English: Power supply converts and delivers electrical power to computer components.
+Bangla: Power supply বিদ্যুৎ রূপান্তর করে কম্পিউটারের যন্ত্রাংশে সরবরাহ করে।
+
+---
+
+Question: What problem does Power supply help with?
+Answer: English: Power supply converts and delivers electrical power to computer components. This knowledge helps you make better decisions in this topic.
+Bangla: Power supply বিদ্যুৎ রূপান্তর করে কম্পিউটারের যন্ত্রাংশে সরবরাহ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Power supply?
+Answer: English: Use a small, safe example and observe this result: Power supply converts and delivers electrical power to computer components. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Power supply বিদ্যুৎ রূপান্তর করে কম্পিউটারের যন্ত্রাংশে সরবরাহ করে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: How can a student confirm that Power supply is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Power supply converts and delivers electrical power to computer components. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Power supply বিদ্যুৎ রূপান্তর করে কম্পিউটারের যন্ত্রাংশে সরবরাহ করে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।
+
+---
+
+Question: What is Safe shutdown?
+Answer: English: Safe shutdown closes the operating system properly before power is removed.
+Bangla: Safe shutdown বিদ্যুৎ বন্ধ করার আগে operating system-কে সঠিকভাবে বন্ধ করে।
+
+---
+
+Question: Why is Safe shutdown important in this topic?
+Answer: English: Safe shutdown closes the operating system properly before power is removed. This knowledge helps you make better decisions in this topic.
+Bangla: Safe shutdown বিদ্যুৎ বন্ধ করার আগে operating system-কে সঠিকভাবে বন্ধ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Safe shutdown?
+Answer: English: Use a small, safe example and observe this result: Safe shutdown closes the operating system properly before power is removed. Point to the real part, or open System Information, and explain its job in your own words.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Safe shutdown বিদ্যুৎ বন্ধ করার আগে operating system-কে সঠিকভাবে বন্ধ করে। আসল যন্ত্রাংশটি দেখুন অথবা System Information খুলুন এবং নিজের ভাষায় এর কাজ বলুন।
+
+---
+
+Question: What should a student check when working with Safe shutdown?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Safe shutdown closes the operating system properly before power is removed. Do not change hardware or power settings unless you know the effect and have saved your work.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Safe shutdown বিদ্যুৎ বন্ধ করার আগে operating system-কে সঠিকভাবে বন্ধ করে। কাজ save না করে এবং ফল না বুঝে hardware বা power setting পরিবর্তন করবেন না।

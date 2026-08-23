@@ -1,0 +1,597 @@
+Question: What is Spot Healing Brush tool?
+Answer: English: Spot Healing Brush tool repairs small areas by blending nearby texture, lighting, and tone without a manually chosen source.
+Bangla: Spot Healing Brush tool manually source না নিয়ে nearby texture, lighting ও tone blend করে small area repair করে।
+
+---
+
+Question: Why is Spot Healing Brush tool important in this topic?
+Answer: English: Spot Healing Brush tool repairs small areas by blending nearby texture, lighting, and tone without a manually chosen source. This knowledge helps you make better decisions in this topic.
+Bangla: Spot Healing Brush tool manually source না নিয়ে nearby texture, lighting ও tone blend করে small area repair করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Spot Healing Brush tool?
+Answer: English: Use a small, safe example and observe this result: Spot Healing Brush tool repairs small areas by blending nearby texture, lighting, and tone without a manually chosen source. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Spot Healing Brush tool manually source না নিয়ে nearby texture, lighting ও tone blend করে small area repair করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What should a student check when working with Spot Healing Brush tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Spot Healing Brush tool repairs small areas by blending nearby texture, lighting, and tone without a manually chosen source. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Spot Healing Brush tool manually source না নিয়ে nearby texture, lighting ও tone blend করে small area repair করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: In simple words, what does Healing Brush tool mean?
+Answer: English: Healing Brush tool blends a manually sampled source texture with the color and tone of the destination.
+Bangla: Healing Brush tool manually sampled source texture-কে destination-এর color ও tone-এর সঙ্গে blend করে।
+
+---
+
+Question: Why should a beginner learn Healing Brush tool?
+Answer: English: Healing Brush tool blends a manually sampled source texture with the color and tone of the destination. This knowledge helps you make better decisions in this topic.
+Bangla: Healing Brush tool manually sampled source texture-কে destination-এর color ও tone-এর সঙ্গে blend করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Healing Brush tool?
+Answer: English: Use a small, safe example and observe this result: Healing Brush tool blends a manually sampled source texture with the color and tone of the destination. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Healing Brush tool manually sampled source texture-কে destination-এর color ও tone-এর সঙ্গে blend করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What beginner mistake should be avoided with Healing Brush tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Healing Brush tool blends a manually sampled source texture with the color and tone of the destination. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Healing Brush tool manually sampled source texture-কে destination-এর color ও tone-এর সঙ্গে blend করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What does Patch tool do?
+Answer: English: Patch tool repairs a selected area by blending it with a chosen source or destination region.
+Bangla: Patch tool selected area-কে chosen source বা destination region-এর সঙ্গে blend করে repair করে।
+
+---
+
+Question: When is Patch tool useful?
+Answer: English: Patch tool repairs a selected area by blending it with a chosen source or destination region. This knowledge helps you make better decisions in this topic.
+Bangla: Patch tool selected area-কে chosen source বা destination region-এর সঙ্গে blend করে repair করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Patch tool?
+Answer: English: Use a small, safe example and observe this result: Patch tool repairs a selected area by blending it with a chosen source or destination region. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Patch tool selected area-কে chosen source বা destination region-এর সঙ্গে blend করে repair করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What good habit should be followed when using Patch tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Patch tool repairs a selected area by blending it with a chosen source or destination region. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Patch tool selected area-কে chosen source বা destination region-এর সঙ্গে blend করে repair করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: How would you explain Content-Aware Move tool to a beginner?
+Answer: English: Content-Aware Move tool moves or extends selected content while trying to rebuild the old and new surroundings.
+Bangla: Content-Aware Move tool selected content move বা extend করে এবং old ও new surrounding rebuild করার চেষ্টা করে।
+
+---
+
+Question: What problem does Content-Aware Move tool help with?
+Answer: English: Content-Aware Move tool moves or extends selected content while trying to rebuild the old and new surroundings. This knowledge helps you make better decisions in this topic.
+Bangla: Content-Aware Move tool selected content move বা extend করে এবং old ও new surrounding rebuild করার চেষ্টা করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Content-Aware Move tool?
+Answer: English: Use a small, safe example and observe this result: Content-Aware Move tool moves or extends selected content while trying to rebuild the old and new surroundings. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Content-Aware Move tool selected content move বা extend করে এবং old ও new surrounding rebuild করার চেষ্টা করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: How can a student confirm that Content-Aware Move tool is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Content-Aware Move tool moves or extends selected content while trying to rebuild the old and new surroundings. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Content-Aware Move tool selected content move বা extend করে এবং old ও new surrounding rebuild করার চেষ্টা করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What is Red Eye tool?
+Answer: English: Red Eye tool darkens red pupils caused by direct flash while trying to keep a natural eye appearance.
+Bangla: Red Eye tool direct flash-এর কারণে হওয়া red pupil dark করে এবং natural eye appearance রাখার চেষ্টা করে।
+
+---
+
+Question: Why is Red Eye tool important in this topic?
+Answer: English: Red Eye tool darkens red pupils caused by direct flash while trying to keep a natural eye appearance. This knowledge helps you make better decisions in this topic.
+Bangla: Red Eye tool direct flash-এর কারণে হওয়া red pupil dark করে এবং natural eye appearance রাখার চেষ্টা করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Red Eye tool?
+Answer: English: Use a small, safe example and observe this result: Red Eye tool darkens red pupils caused by direct flash while trying to keep a natural eye appearance. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Red Eye tool direct flash-এর কারণে হওয়া red pupil dark করে এবং natural eye appearance রাখার চেষ্টা করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What should a student check when working with Red Eye tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Red Eye tool darkens red pupils caused by direct flash while trying to keep a natural eye appearance. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Red Eye tool direct flash-এর কারণে হওয়া red pupil dark করে এবং natural eye appearance রাখার চেষ্টা করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: In simple words, what does Remove tool mean?
+Answer: English: Remove tool brushes over unwanted content and uses surrounding information to generate a replacement.
+Bangla: Remove tool unwanted content-এর ওপর brush করে এবং surrounding information দিয়ে replacement তৈরি করে।
+
+---
+
+Question: Why should a beginner learn Remove tool?
+Answer: English: Remove tool brushes over unwanted content and uses surrounding information to generate a replacement. This knowledge helps you make better decisions in this topic.
+Bangla: Remove tool unwanted content-এর ওপর brush করে এবং surrounding information দিয়ে replacement তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Remove tool?
+Answer: English: Use a small, safe example and observe this result: Remove tool brushes over unwanted content and uses surrounding information to generate a replacement. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Remove tool unwanted content-এর ওপর brush করে এবং surrounding information দিয়ে replacement তৈরি করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What beginner mistake should be avoided with Remove tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Remove tool brushes over unwanted content and uses surrounding information to generate a replacement. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Remove tool unwanted content-এর ওপর brush করে এবং surrounding information দিয়ে replacement তৈরি করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What does Sample source do?
+Answer: English: Sample source is the clean image area copied or analyzed to repair another area.
+Bangla: Sample source clean image area, যা অন্য area repair করার জন্য copy বা analyze করা হয়।
+
+---
+
+Question: When is Sample source useful?
+Answer: English: Sample source is the clean image area copied or analyzed to repair another area. This knowledge helps you make better decisions in this topic.
+Bangla: Sample source clean image area, যা অন্য area repair করার জন্য copy বা analyze করা হয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Sample source?
+Answer: English: Use a small, safe example and observe this result: Sample source is the clean image area copied or analyzed to repair another area. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Sample source clean image area, যা অন্য area repair করার জন্য copy বা analyze করা হয়। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What good habit should be followed when using Sample source?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Sample source is the clean image area copied or analyzed to repair another area. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Sample source clean image area, যা অন্য area repair করার জন্য copy বা analyze করা হয়। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: How would you explain Alt-click or Option-click sampling to a beginner?
+Answer: English: Alt-click or Option-click sampling sets the Healing Brush source point on Windows or macOS.
+Bangla: Alt-click or Option-click sampling Windows বা macOS-এ Healing Brush-এর source point নির্ধারণ করে।
+
+---
+
+Question: What problem does Alt-click or Option-click sampling help with?
+Answer: English: Alt-click or Option-click sampling sets the Healing Brush source point on Windows or macOS. This knowledge helps you make better decisions in this topic.
+Bangla: Alt-click or Option-click sampling Windows বা macOS-এ Healing Brush-এর source point নির্ধারণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Alt-click or Option-click sampling?
+Answer: English: Use a small, safe example and observe this result: Alt-click or Option-click sampling sets the Healing Brush source point on Windows or macOS. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Alt-click or Option-click sampling Windows বা macOS-এ Healing Brush-এর source point নির্ধারণ করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: How can a student confirm that Alt-click or Option-click sampling is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Alt-click or Option-click sampling sets the Healing Brush source point on Windows or macOS. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Alt-click or Option-click sampling Windows বা macOS-এ Healing Brush-এর source point নির্ধারণ করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What is Aligned sampling?
+Answer: English: Aligned sampling keeps the source and destination positions moving together after the source is set.
+Bangla: Aligned sampling source set করার পর source ও destination position একসঙ্গে move করায়।
+
+---
+
+Question: Why is Aligned sampling important in this topic?
+Answer: English: Aligned sampling keeps the source and destination positions moving together after the source is set. This knowledge helps you make better decisions in this topic.
+Bangla: Aligned sampling source set করার পর source ও destination position একসঙ্গে move করায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Aligned sampling?
+Answer: English: Use a small, safe example and observe this result: Aligned sampling keeps the source and destination positions moving together after the source is set. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Aligned sampling source set করার পর source ও destination position একসঙ্গে move করায়। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What should a student check when working with Aligned sampling?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Aligned sampling keeps the source and destination positions moving together after the source is set. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Aligned sampling source set করার পর source ও destination position একসঙ্গে move করায়। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: In simple words, what does Sample All Layers mean?
+Answer: English: Sample All Layers uses visible information from multiple layers while output can be placed on a separate retouch layer.
+Bangla: Sample All Layers একাধিক layer-এর visible information ব্যবহার করে এবং output আলাদা retouch layer-এ রাখা যায়।
+
+---
+
+Question: Why should a beginner learn Sample All Layers?
+Answer: English: Sample All Layers uses visible information from multiple layers while output can be placed on a separate retouch layer. This knowledge helps you make better decisions in this topic.
+Bangla: Sample All Layers একাধিক layer-এর visible information ব্যবহার করে এবং output আলাদা retouch layer-এ রাখা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Sample All Layers?
+Answer: English: Use a small, safe example and observe this result: Sample All Layers uses visible information from multiple layers while output can be placed on a separate retouch layer. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Sample All Layers একাধিক layer-এর visible information ব্যবহার করে এবং output আলাদা retouch layer-এ রাখা যায়। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What beginner mistake should be avoided with Sample All Layers?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Sample All Layers uses visible information from multiple layers while output can be placed on a separate retouch layer. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Sample All Layers একাধিক layer-এর visible information ব্যবহার করে এবং output আলাদা retouch layer-এ রাখা যায়। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What does Blank retouch layer do?
+Answer: English: Blank retouch layer keeps healing work separate from original pixels when the tool supports the chosen sampling setup.
+Bangla: Blank retouch layer tool selected sampling setup support করলে healing work original pixel থেকে আলাদা রাখে।
+
+---
+
+Question: When is Blank retouch layer useful?
+Answer: English: Blank retouch layer keeps healing work separate from original pixels when the tool supports the chosen sampling setup. This knowledge helps you make better decisions in this topic.
+Bangla: Blank retouch layer tool selected sampling setup support করলে healing work original pixel থেকে আলাদা রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Blank retouch layer?
+Answer: English: Use a small, safe example and observe this result: Blank retouch layer keeps healing work separate from original pixels when the tool supports the chosen sampling setup. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Blank retouch layer tool selected sampling setup support করলে healing work original pixel থেকে আলাদা রাখে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What good habit should be followed when using Blank retouch layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Blank retouch layer keeps healing work separate from original pixels when the tool supports the chosen sampling setup. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Blank retouch layer tool selected sampling setup support করলে healing work original pixel থেকে আলাদা রাখে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: How would you explain Spot Healing Proximity Match to a beginner?
+Answer: English: Spot Healing Proximity Match uses nearby pixels around the painted edge to build a repair.
+Bangla: Spot Healing Proximity Match painted edge-এর nearby pixel ব্যবহার করে repair তৈরি করে।
+
+---
+
+Question: What problem does Spot Healing Proximity Match help with?
+Answer: English: Spot Healing Proximity Match uses nearby pixels around the painted edge to build a repair. This knowledge helps you make better decisions in this topic.
+Bangla: Spot Healing Proximity Match painted edge-এর nearby pixel ব্যবহার করে repair তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Spot Healing Proximity Match?
+Answer: English: Use a small, safe example and observe this result: Spot Healing Proximity Match uses nearby pixels around the painted edge to build a repair. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Spot Healing Proximity Match painted edge-এর nearby pixel ব্যবহার করে repair তৈরি করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: How can a student confirm that Spot Healing Proximity Match is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Spot Healing Proximity Match uses nearby pixels around the painted edge to build a repair. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Spot Healing Proximity Match painted edge-এর nearby pixel ব্যবহার করে repair তৈরি করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What is Spot Healing Create Texture?
+Answer: English: Spot Healing Create Texture uses nearby pixels to form a texture for the repaired area.
+Bangla: Spot Healing Create Texture nearby pixel দিয়ে repaired area-এর texture তৈরি করে।
+
+---
+
+Question: Why is Spot Healing Create Texture important in this topic?
+Answer: English: Spot Healing Create Texture uses nearby pixels to form a texture for the repaired area. This knowledge helps you make better decisions in this topic.
+Bangla: Spot Healing Create Texture nearby pixel দিয়ে repaired area-এর texture তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Spot Healing Create Texture?
+Answer: English: Use a small, safe example and observe this result: Spot Healing Create Texture uses nearby pixels to form a texture for the repaired area. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Spot Healing Create Texture nearby pixel দিয়ে repaired area-এর texture তৈরি করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What should a student check when working with Spot Healing Create Texture?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Spot Healing Create Texture uses nearby pixels to form a texture for the repaired area. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Spot Healing Create Texture nearby pixel দিয়ে repaired area-এর texture তৈরি করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: In simple words, what does Spot Healing Content-Aware mean?
+Answer: English: Spot Healing Content-Aware analyzes surrounding content to produce a blended repair.
+Bangla: Spot Healing Content-Aware surrounding content analyze করে blended repair তৈরি করে।
+
+---
+
+Question: Why should a beginner learn Spot Healing Content-Aware?
+Answer: English: Spot Healing Content-Aware analyzes surrounding content to produce a blended repair. This knowledge helps you make better decisions in this topic.
+Bangla: Spot Healing Content-Aware surrounding content analyze করে blended repair তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Spot Healing Content-Aware?
+Answer: English: Use a small, safe example and observe this result: Spot Healing Content-Aware analyzes surrounding content to produce a blended repair. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Spot Healing Content-Aware surrounding content analyze করে blended repair তৈরি করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What beginner mistake should be avoided with Spot Healing Content-Aware?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Spot Healing Content-Aware analyzes surrounding content to produce a blended repair. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Spot Healing Content-Aware surrounding content analyze করে blended repair তৈরি করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What does Healing Brush Diffusion do?
+Answer: English: Healing Brush Diffusion controls how quickly the sampled repair blends with surrounding pixels.
+Bangla: Healing Brush Diffusion sampled repair surrounding pixel-এর সঙ্গে কত দ্রুত blend হবে তা নিয়ন্ত্রণ করে।
+
+---
+
+Question: When is Healing Brush Diffusion useful?
+Answer: English: Healing Brush Diffusion controls how quickly the sampled repair blends with surrounding pixels. This knowledge helps you make better decisions in this topic.
+Bangla: Healing Brush Diffusion sampled repair surrounding pixel-এর সঙ্গে কত দ্রুত blend হবে তা নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Healing Brush Diffusion?
+Answer: English: Use a small, safe example and observe this result: Healing Brush Diffusion controls how quickly the sampled repair blends with surrounding pixels. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Healing Brush Diffusion sampled repair surrounding pixel-এর সঙ্গে কত দ্রুত blend হবে তা নিয়ন্ত্রণ করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What good habit should be followed when using Healing Brush Diffusion?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Healing Brush Diffusion controls how quickly the sampled repair blends with surrounding pixels. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Healing Brush Diffusion sampled repair surrounding pixel-এর সঙ্গে কত দ্রুত blend হবে তা নিয়ন্ত্রণ করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: How would you explain Patch Source mode to a beginner?
+Answer: English: Patch Source mode replaces the selected damaged area with the clean area to which the selection is dragged.
+Bangla: Patch Source mode selected damaged area-কে drag করা clean area দিয়ে replace করে।
+
+---
+
+Question: What problem does Patch Source mode help with?
+Answer: English: Patch Source mode replaces the selected damaged area with the clean area to which the selection is dragged. This knowledge helps you make better decisions in this topic.
+Bangla: Patch Source mode selected damaged area-কে drag করা clean area দিয়ে replace করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Patch Source mode?
+Answer: English: Use a small, safe example and observe this result: Patch Source mode replaces the selected damaged area with the clean area to which the selection is dragged. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Patch Source mode selected damaged area-কে drag করা clean area দিয়ে replace করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: How can a student confirm that Patch Source mode is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Patch Source mode replaces the selected damaged area with the clean area to which the selection is dragged. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Patch Source mode selected damaged area-কে drag করা clean area দিয়ে replace করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What is Patch Destination mode?
+Answer: English: Patch Destination mode copies the selected area to a new destination and blends it there.
+Bangla: Patch Destination mode selected area নতুন destination-এ copy করে এবং সেখানে blend করে।
+
+---
+
+Question: Why is Patch Destination mode important in this topic?
+Answer: English: Patch Destination mode copies the selected area to a new destination and blends it there. This knowledge helps you make better decisions in this topic.
+Bangla: Patch Destination mode selected area নতুন destination-এ copy করে এবং সেখানে blend করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Patch Destination mode?
+Answer: English: Use a small, safe example and observe this result: Patch Destination mode copies the selected area to a new destination and blends it there. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Patch Destination mode selected area নতুন destination-এ copy করে এবং সেখানে blend করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What should a student check when working with Patch Destination mode?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Patch Destination mode copies the selected area to a new destination and blends it there. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Patch Destination mode selected area নতুন destination-এ copy করে এবং সেখানে blend করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: In simple words, what does Patch Structure mean?
+Answer: English: Patch Structure controls how closely a Content-Aware patch follows the source structure.
+Bangla: Patch Structure Content-Aware patch source structure কতটা অনুসরণ করবে তা নিয়ন্ত্রণ করে।
+
+---
+
+Question: Why should a beginner learn Patch Structure?
+Answer: English: Patch Structure controls how closely a Content-Aware patch follows the source structure. This knowledge helps you make better decisions in this topic.
+Bangla: Patch Structure Content-Aware patch source structure কতটা অনুসরণ করবে তা নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Patch Structure?
+Answer: English: Use a small, safe example and observe this result: Patch Structure controls how closely a Content-Aware patch follows the source structure. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Patch Structure Content-Aware patch source structure কতটা অনুসরণ করবে তা নিয়ন্ত্রণ করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What beginner mistake should be avoided with Patch Structure?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Patch Structure controls how closely a Content-Aware patch follows the source structure. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Patch Structure Content-Aware patch source structure কতটা অনুসরণ করবে তা নিয়ন্ত্রণ করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What does Patch Color do?
+Answer: English: Patch Color controls how much color blending is applied in a Content-Aware patch.
+Bangla: Patch Color Content-Aware patch-এ কত color blending হবে তা নিয়ন্ত্রণ করে।
+
+---
+
+Question: When is Patch Color useful?
+Answer: English: Patch Color controls how much color blending is applied in a Content-Aware patch. This knowledge helps you make better decisions in this topic.
+Bangla: Patch Color Content-Aware patch-এ কত color blending হবে তা নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Patch Color?
+Answer: English: Use a small, safe example and observe this result: Patch Color controls how much color blending is applied in a Content-Aware patch. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Patch Color Content-Aware patch-এ কত color blending হবে তা নিয়ন্ত্রণ করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What good habit should be followed when using Patch Color?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Patch Color controls how much color blending is applied in a Content-Aware patch. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Patch Color Content-Aware patch-এ কত color blending হবে তা নিয়ন্ত্রণ করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: How would you explain Content-Aware Move mode to a beginner?
+Answer: English: Content-Aware Move mode relocates a selected object and fills the original location.
+Bangla: Content-Aware Move mode selected object relocate করে এবং original location fill করে।
+
+---
+
+Question: What problem does Content-Aware Move mode help with?
+Answer: English: Content-Aware Move mode relocates a selected object and fills the original location. This knowledge helps you make better decisions in this topic.
+Bangla: Content-Aware Move mode selected object relocate করে এবং original location fill করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Content-Aware Move mode?
+Answer: English: Use a small, safe example and observe this result: Content-Aware Move mode relocates a selected object and fills the original location. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Content-Aware Move mode selected object relocate করে এবং original location fill করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: How can a student confirm that Content-Aware Move mode is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Content-Aware Move mode relocates a selected object and fills the original location. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Content-Aware Move mode selected object relocate করে এবং original location fill করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What is Content-Aware Extend mode?
+Answer: English: Content-Aware Extend mode copies and extends selected content into another area.
+Bangla: Content-Aware Extend mode selected content copy করে অন্য area-তে extend করে।
+
+---
+
+Question: Why is Content-Aware Extend mode important in this topic?
+Answer: English: Content-Aware Extend mode copies and extends selected content into another area. This knowledge helps you make better decisions in this topic.
+Bangla: Content-Aware Extend mode selected content copy করে অন্য area-তে extend করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Content-Aware Extend mode?
+Answer: English: Use a small, safe example and observe this result: Content-Aware Extend mode copies and extends selected content into another area. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Content-Aware Extend mode selected content copy করে অন্য area-তে extend করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What should a student check when working with Content-Aware Extend mode?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Content-Aware Extend mode copies and extends selected content into another area. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Content-Aware Extend mode selected content copy করে অন্য area-তে extend করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: In simple words, what does Content-Aware Fill workspace mean?
+Answer: English: Content-Aware Fill workspace lets you control sampling areas and preview generated fill for a selection.
+Bangla: Content-Aware Fill workspace selection-এর sampling area control ও generated fill preview করতে দেয়।
+
+---
+
+Question: Why should a beginner learn Content-Aware Fill workspace?
+Answer: English: Content-Aware Fill workspace lets you control sampling areas and preview generated fill for a selection. This knowledge helps you make better decisions in this topic.
+Bangla: Content-Aware Fill workspace selection-এর sampling area control ও generated fill preview করতে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Content-Aware Fill workspace?
+Answer: English: Use a small, safe example and observe this result: Content-Aware Fill workspace lets you control sampling areas and preview generated fill for a selection. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Content-Aware Fill workspace selection-এর sampling area control ও generated fill preview করতে দেয়। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What beginner mistake should be avoided with Content-Aware Fill workspace?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Content-Aware Fill workspace lets you control sampling areas and preview generated fill for a selection. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Content-Aware Fill workspace selection-এর sampling area control ও generated fill preview করতে দেয়। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What does Remove after each stroke do?
+Answer: English: Remove after each stroke can process Remove tool strokes separately instead of combining many strokes before applying.
+Bangla: Remove after each stroke অনেক stroke একসঙ্গে apply না করে Remove tool stroke আলাদাভাবে process করতে পারে।
+
+---
+
+Question: When is Remove after each stroke useful?
+Answer: English: Remove after each stroke can process Remove tool strokes separately instead of combining many strokes before applying. This knowledge helps you make better decisions in this topic.
+Bangla: Remove after each stroke অনেক stroke একসঙ্গে apply না করে Remove tool stroke আলাদাভাবে process করতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Remove after each stroke?
+Answer: English: Use a small, safe example and observe this result: Remove after each stroke can process Remove tool strokes separately instead of combining many strokes before applying. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Remove after each stroke অনেক stroke একসঙ্গে apply না করে Remove tool stroke আলাদাভাবে process করতে পারে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What good habit should be followed when using Remove after each stroke?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Remove after each stroke can process Remove tool strokes separately instead of combining many strokes before applying. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Remove after each stroke অনেক stroke একসঙ্গে apply না করে Remove tool stroke আলাদাভাবে process করতে পারে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: How would you explain Natural texture check to a beginner?
+Answer: English: Natural texture check compares pores, grain, edges, and repeated patterns so retouching does not look plastic.
+Bangla: Natural texture check pore, grain, edge ও repeated pattern compare করে, যাতে retouch plastic না লাগে।
+
+---
+
+Question: What problem does Natural texture check help with?
+Answer: English: Natural texture check compares pores, grain, edges, and repeated patterns so retouching does not look plastic. This knowledge helps you make better decisions in this topic.
+Bangla: Natural texture check pore, grain, edge ও repeated pattern compare করে, যাতে retouch plastic না লাগে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Natural texture check?
+Answer: English: Use a small, safe example and observe this result: Natural texture check compares pores, grain, edges, and repeated patterns so retouching does not look plastic. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Natural texture check pore, grain, edge ও repeated pattern compare করে, যাতে retouch plastic না লাগে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: How can a student confirm that Natural texture check is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Natural texture check compares pores, grain, edges, and repeated patterns so retouching does not look plastic. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Natural texture check pore, grain, edge ও repeated pattern compare করে, যাতে retouch plastic না লাগে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: What is Before-and-after check?
+Answer: English: Before-and-after check compares the retouched result with the original at useful zoom levels.
+Bangla: Before-and-after check useful zoom level-এ retouched result original-এর সঙ্গে compare করে।
+
+---
+
+Question: Why is Before-and-after check important in this topic?
+Answer: English: Before-and-after check compares the retouched result with the original at useful zoom levels. This knowledge helps you make better decisions in this topic.
+Bangla: Before-and-after check useful zoom level-এ retouched result original-এর সঙ্গে compare করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Before-and-after check?
+Answer: English: Use a small, safe example and observe this result: Before-and-after check compares the retouched result with the original at useful zoom levels. Retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Before-and-after check useful zoom level-এ retouched result original-এর সঙ্গে compare করে। copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: What should a student check when working with Before-and-after check?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Before-and-after check compares the retouched result with the original at useful zoom levels. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Before-and-after check useful zoom level-এ retouched result original-এর সঙ্গে compare করে। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।

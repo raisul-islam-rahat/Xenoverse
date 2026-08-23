@@ -1,0 +1,597 @@
+Question: What is New Document?
+Answer: English: New Document creates a fresh Photoshop file from custom settings or a preset.
+Bangla: New Document custom setting বা preset থেকে নতুন Photoshop file তৈরি করে।
+
+---
+
+Question: Why is New Document important in this topic?
+Answer: English: New Document creates a fresh Photoshop file from custom settings or a preset. This knowledge helps you make better decisions in this topic.
+Bangla: New Document custom setting বা preset থেকে নতুন Photoshop file তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise New Document?
+Answer: English: Use a small, safe example and observe this result: New Document creates a fresh Photoshop file from custom settings or a preset. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: New Document custom setting বা preset থেকে নতুন Photoshop file তৈরি করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What should a student check when working with New Document?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: New Document creates a fresh Photoshop file from custom settings or a preset. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: New Document custom setting বা preset থেকে নতুন Photoshop file তৈরি করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: In simple words, what does Width mean?
+Answer: English: Width sets the horizontal size of a new document or image.
+Bangla: Width নতুন document বা image-এর horizontal size নির্ধারণ করে।
+
+---
+
+Question: Why should a beginner learn Width?
+Answer: English: Width sets the horizontal size of a new document or image. This knowledge helps you make better decisions in this topic.
+Bangla: Width নতুন document বা image-এর horizontal size নির্ধারণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Width?
+Answer: English: Use a small, safe example and observe this result: Width sets the horizontal size of a new document or image. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Width নতুন document বা image-এর horizontal size নির্ধারণ করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Width?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Width sets the horizontal size of a new document or image. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Width নতুন document বা image-এর horizontal size নির্ধারণ করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What does Height do?
+Answer: English: Height sets the vertical size of a new document or image.
+Bangla: Height নতুন document বা image-এর vertical size নির্ধারণ করে।
+
+---
+
+Question: When is Height useful?
+Answer: English: Height sets the vertical size of a new document or image. This knowledge helps you make better decisions in this topic.
+Bangla: Height নতুন document বা image-এর vertical size নির্ধারণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Height?
+Answer: English: Use a small, safe example and observe this result: Height sets the vertical size of a new document or image. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Height নতুন document বা image-এর vertical size নির্ধারণ করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What good habit should be followed when using Height?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Height sets the vertical size of a new document or image. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Height নতুন document বা image-এর vertical size নির্ধারণ করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: How would you explain Measurement unit to a beginner?
+Answer: English: Measurement unit decides whether dimensions are entered as pixels, inches, millimetres, centimetres, points, or another unit.
+Bangla: Measurement unit dimension pixel, inch, millimetre, centimetre, point বা অন্য unit-এ দেওয়া হবে তা নির্ধারণ করে।
+
+---
+
+Question: What problem does Measurement unit help with?
+Answer: English: Measurement unit decides whether dimensions are entered as pixels, inches, millimetres, centimetres, points, or another unit. This knowledge helps you make better decisions in this topic.
+Bangla: Measurement unit dimension pixel, inch, millimetre, centimetre, point বা অন্য unit-এ দেওয়া হবে তা নির্ধারণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Measurement unit?
+Answer: English: Use a small, safe example and observe this result: Measurement unit decides whether dimensions are entered as pixels, inches, millimetres, centimetres, points, or another unit. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Measurement unit dimension pixel, inch, millimetre, centimetre, point বা অন্য unit-এ দেওয়া হবে তা নির্ধারণ করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: How can a student confirm that Measurement unit is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Measurement unit decides whether dimensions are entered as pixels, inches, millimetres, centimetres, points, or another unit. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Measurement unit dimension pixel, inch, millimetre, centimetre, point বা অন্য unit-এ দেওয়া হবে তা নির্ধারণ করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What is Orientation?
+Answer: English: Orientation describes whether a document is wider than tall, taller than wide, or square.
+Bangla: Orientation document আড়াআড়ি বেশি, লম্বালম্বি বেশি নাকি square তা বোঝায়।
+
+---
+
+Question: Why is Orientation important in this topic?
+Answer: English: Orientation describes whether a document is wider than tall, taller than wide, or square. This knowledge helps you make better decisions in this topic.
+Bangla: Orientation document আড়াআড়ি বেশি, লম্বালম্বি বেশি নাকি square তা বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Orientation?
+Answer: English: Use a small, safe example and observe this result: Orientation describes whether a document is wider than tall, taller than wide, or square. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Orientation document আড়াআড়ি বেশি, লম্বালম্বি বেশি নাকি square তা বোঝায়। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What should a student check when working with Orientation?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Orientation describes whether a document is wider than tall, taller than wide, or square. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Orientation document আড়াআড়ি বেশি, লম্বালম্বি বেশি নাকি square তা বোঝায়। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: In simple words, what does Resolution setting mean?
+Answer: English: Resolution setting connects pixel dimensions with a physical print size.
+Bangla: Resolution setting pixel dimension-এর সঙ্গে physical print size-এর সম্পর্ক তৈরি করে।
+
+---
+
+Question: Why should a beginner learn Resolution setting?
+Answer: English: Resolution setting connects pixel dimensions with a physical print size. This knowledge helps you make better decisions in this topic.
+Bangla: Resolution setting pixel dimension-এর সঙ্গে physical print size-এর সম্পর্ক তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Resolution setting?
+Answer: English: Use a small, safe example and observe this result: Resolution setting connects pixel dimensions with a physical print size. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Resolution setting pixel dimension-এর সঙ্গে physical print size-এর সম্পর্ক তৈরি করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Resolution setting?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Resolution setting connects pixel dimensions with a physical print size. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Resolution setting pixel dimension-এর সঙ্গে physical print size-এর সম্পর্ক তৈরি করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What does PPI and DPI difference do?
+Answer: English: PPI and DPI difference means PPI describes image pixels while DPI usually describes printer ink or toner dots.
+Bangla: PPI and DPI difference PPI image pixel বোঝায়, আর DPI সাধারণত printer-এর ink বা toner dot বোঝায়।
+
+---
+
+Question: When is PPI and DPI difference useful?
+Answer: English: PPI and DPI difference means PPI describes image pixels while DPI usually describes printer ink or toner dots. This knowledge helps you make better decisions in this topic.
+Bangla: PPI and DPI difference PPI image pixel বোঝায়, আর DPI সাধারণত printer-এর ink বা toner dot বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test PPI and DPI difference?
+Answer: English: Use a small, safe example and observe this result: PPI and DPI difference means PPI describes image pixels while DPI usually describes printer ink or toner dots. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: PPI and DPI difference PPI image pixel বোঝায়, আর DPI সাধারণত printer-এর ink বা toner dot বোঝায়। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What good habit should be followed when using PPI and DPI difference?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: PPI and DPI difference means PPI describes image pixels while DPI usually describes printer ink or toner dots. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: PPI and DPI difference PPI image pixel বোঝায়, আর DPI সাধারণত printer-এর ink বা toner dot বোঝায়। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: How would you explain RGB mode to a beginner?
+Answer: English: RGB mode uses red, green, and blue channels and is the normal choice for screens and many digital workflows.
+Bangla: RGB mode red, green ও blue channel ব্যবহার করে এবং screen ও অনেক digital workflow-এর সাধারণ choice।
+
+---
+
+Question: What problem does RGB mode help with?
+Answer: English: RGB mode uses red, green, and blue channels and is the normal choice for screens and many digital workflows. This knowledge helps you make better decisions in this topic.
+Bangla: RGB mode red, green ও blue channel ব্যবহার করে এবং screen ও অনেক digital workflow-এর সাধারণ choice। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with RGB mode?
+Answer: English: Use a small, safe example and observe this result: RGB mode uses red, green, and blue channels and is the normal choice for screens and many digital workflows. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: RGB mode red, green ও blue channel ব্যবহার করে এবং screen ও অনেক digital workflow-এর সাধারণ choice। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: How can a student confirm that RGB mode is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: RGB mode uses red, green, and blue channels and is the normal choice for screens and many digital workflows. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: RGB mode red, green ও blue channel ব্যবহার করে এবং screen ও অনেক digital workflow-এর সাধারণ choice। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What is CMYK mode?
+Answer: English: CMYK mode uses cyan, magenta, yellow, and black channels for many commercial print workflows.
+Bangla: CMYK mode অনেক commercial print workflow-তে cyan, magenta, yellow ও black channel ব্যবহার করে।
+
+---
+
+Question: Why is CMYK mode important in this topic?
+Answer: English: CMYK mode uses cyan, magenta, yellow, and black channels for many commercial print workflows. This knowledge helps you make better decisions in this topic.
+Bangla: CMYK mode অনেক commercial print workflow-তে cyan, magenta, yellow ও black channel ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise CMYK mode?
+Answer: English: Use a small, safe example and observe this result: CMYK mode uses cyan, magenta, yellow, and black channels for many commercial print workflows. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: CMYK mode অনেক commercial print workflow-তে cyan, magenta, yellow ও black channel ব্যবহার করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What should a student check when working with CMYK mode?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: CMYK mode uses cyan, magenta, yellow, and black channels for many commercial print workflows. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: CMYK mode অনেক commercial print workflow-তে cyan, magenta, yellow ও black channel ব্যবহার করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: In simple words, what does Grayscale mode mean?
+Answer: English: Grayscale mode stores tonal information from black through gray to white without normal color channels.
+Bangla: Grayscale mode সাধারণ color channel ছাড়া black থেকে gray হয়ে white পর্যন্ত tone সংরক্ষণ করে।
+
+---
+
+Question: Why should a beginner learn Grayscale mode?
+Answer: English: Grayscale mode stores tonal information from black through gray to white without normal color channels. This knowledge helps you make better decisions in this topic.
+Bangla: Grayscale mode সাধারণ color channel ছাড়া black থেকে gray হয়ে white পর্যন্ত tone সংরক্ষণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Grayscale mode?
+Answer: English: Use a small, safe example and observe this result: Grayscale mode stores tonal information from black through gray to white without normal color channels. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Grayscale mode সাধারণ color channel ছাড়া black থেকে gray হয়ে white পর্যন্ত tone সংরক্ষণ করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Grayscale mode?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Grayscale mode stores tonal information from black through gray to white without normal color channels. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Grayscale mode সাধারণ color channel ছাড়া black থেকে gray হয়ে white পর্যন্ত tone সংরক্ষণ করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What does Lab Color mode do?
+Answer: English: Lab Color mode separates lightness from two color-opponent channels and covers a wide color range.
+Bangla: Lab Color mode lightness-কে দুইটি color-opponent channel থেকে আলাদা রাখে এবং বড় color range ধারণ করে।
+
+---
+
+Question: When is Lab Color mode useful?
+Answer: English: Lab Color mode separates lightness from two color-opponent channels and covers a wide color range. This knowledge helps you make better decisions in this topic.
+Bangla: Lab Color mode lightness-কে দুইটি color-opponent channel থেকে আলাদা রাখে এবং বড় color range ধারণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Lab Color mode?
+Answer: English: Use a small, safe example and observe this result: Lab Color mode separates lightness from two color-opponent channels and covers a wide color range. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Lab Color mode lightness-কে দুইটি color-opponent channel থেকে আলাদা রাখে এবং বড় color range ধারণ করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What good habit should be followed when using Lab Color mode?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Lab Color mode separates lightness from two color-opponent channels and covers a wide color range. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Lab Color mode lightness-কে দুইটি color-opponent channel থেকে আলাদা রাখে এবং বড় color range ধারণ করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: How would you explain Bitmap mode to a beginner?
+Answer: English: Bitmap mode represents each pixel with only black or white and requires special conversion conditions.
+Bangla: Bitmap mode প্রতিটি pixel শুধু black বা white দিয়ে প্রকাশ করে এবং বিশেষ conversion condition প্রয়োজন।
+
+---
+
+Question: What problem does Bitmap mode help with?
+Answer: English: Bitmap mode represents each pixel with only black or white and requires special conversion conditions. This knowledge helps you make better decisions in this topic.
+Bangla: Bitmap mode প্রতিটি pixel শুধু black বা white দিয়ে প্রকাশ করে এবং বিশেষ conversion condition প্রয়োজন। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Bitmap mode?
+Answer: English: Use a small, safe example and observe this result: Bitmap mode represents each pixel with only black or white and requires special conversion conditions. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Bitmap mode প্রতিটি pixel শুধু black বা white দিয়ে প্রকাশ করে এবং বিশেষ conversion condition প্রয়োজন। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: How can a student confirm that Bitmap mode is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Bitmap mode represents each pixel with only black or white and requires special conversion conditions. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Bitmap mode প্রতিটি pixel শুধু black বা white দিয়ে প্রকাশ করে এবং বিশেষ conversion condition প্রয়োজন। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What is Bit depth?
+Answer: English: Bit depth sets how many tonal values each channel can describe, affecting flexibility and file size.
+Bangla: Bit depth প্রতিটি channel কত tonal value প্রকাশ করবে তা নির্ধারণ করে, ফলে flexibility ও file size বদলায়।
+
+---
+
+Question: Why is Bit depth important in this topic?
+Answer: English: Bit depth sets how many tonal values each channel can describe, affecting flexibility and file size. This knowledge helps you make better decisions in this topic.
+Bangla: Bit depth প্রতিটি channel কত tonal value প্রকাশ করবে তা নির্ধারণ করে, ফলে flexibility ও file size বদলায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Bit depth?
+Answer: English: Use a small, safe example and observe this result: Bit depth sets how many tonal values each channel can describe, affecting flexibility and file size. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Bit depth প্রতিটি channel কত tonal value প্রকাশ করবে তা নির্ধারণ করে, ফলে flexibility ও file size বদলায়। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What should a student check when working with Bit depth?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Bit depth sets how many tonal values each channel can describe, affecting flexibility and file size. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Bit depth প্রতিটি channel কত tonal value প্রকাশ করবে তা নির্ধারণ করে, ফলে flexibility ও file size বদলায়। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: In simple words, what does Background Contents mean?
+Answer: English: Background Contents chooses an initial white, background-color, transparent, or other supported starting canvas.
+Bangla: Background Contents শুরুতে white, background-color, transparent বা সমর্থিত অন্য canvas বেছে নেয়।
+
+---
+
+Question: Why should a beginner learn Background Contents?
+Answer: English: Background Contents chooses an initial white, background-color, transparent, or other supported starting canvas. This knowledge helps you make better decisions in this topic.
+Bangla: Background Contents শুরুতে white, background-color, transparent বা সমর্থিত অন্য canvas বেছে নেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Background Contents?
+Answer: English: Use a small, safe example and observe this result: Background Contents chooses an initial white, background-color, transparent, or other supported starting canvas. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Background Contents শুরুতে white, background-color, transparent বা সমর্থিত অন্য canvas বেছে নেয়। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Background Contents?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Background Contents chooses an initial white, background-color, transparent, or other supported starting canvas. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Background Contents শুরুতে white, background-color, transparent বা সমর্থিত অন্য canvas বেছে নেয়। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What does Document preset do?
+Answer: English: Document preset stores common size and setup values for quick reuse.
+Bangla: Document preset দ্রুত আবার ব্যবহারের জন্য সাধারণ size ও setup value সংরক্ষণ করে।
+
+---
+
+Question: When is Document preset useful?
+Answer: English: Document preset stores common size and setup values for quick reuse. This knowledge helps you make better decisions in this topic.
+Bangla: Document preset দ্রুত আবার ব্যবহারের জন্য সাধারণ size ও setup value সংরক্ষণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Document preset?
+Answer: English: Use a small, safe example and observe this result: Document preset stores common size and setup values for quick reuse. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Document preset দ্রুত আবার ব্যবহারের জন্য সাধারণ size ও setup value সংরক্ষণ করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What good habit should be followed when using Document preset?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Document preset stores common size and setup values for quick reuse. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Document preset দ্রুত আবার ব্যবহারের জন্য সাধারণ size ও setup value সংরক্ষণ করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: How would you explain Artboard to a beginner?
+Answer: English: Artboard creates a separate design area inside one document for variations or multiple screens.
+Bangla: Artboard এক document-এর ভেতরে variation বা একাধিক screen-এর জন্য আলাদা design area তৈরি করে।
+
+---
+
+Question: What problem does Artboard help with?
+Answer: English: Artboard creates a separate design area inside one document for variations or multiple screens. This knowledge helps you make better decisions in this topic.
+Bangla: Artboard এক document-এর ভেতরে variation বা একাধিক screen-এর জন্য আলাদা design area তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Artboard?
+Answer: English: Use a small, safe example and observe this result: Artboard creates a separate design area inside one document for variations or multiple screens. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Artboard এক document-এর ভেতরে variation বা একাধিক screen-এর জন্য আলাদা design area তৈরি করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: How can a student confirm that Artboard is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Artboard creates a separate design area inside one document for variations or multiple screens. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Artboard এক document-এর ভেতরে variation বা একাধিক screen-এর জন্য আলাদা design area তৈরি করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What is Canvas Size?
+Answer: English: Canvas Size changes the working area around the existing image without directly resampling its pixels.
+Bangla: Canvas Size existing image-এর pixel সরাসরি resample না করে চারপাশের working area বদলায়।
+
+---
+
+Question: Why is Canvas Size important in this topic?
+Answer: English: Canvas Size changes the working area around the existing image without directly resampling its pixels. This knowledge helps you make better decisions in this topic.
+Bangla: Canvas Size existing image-এর pixel সরাসরি resample না করে চারপাশের working area বদলায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Canvas Size?
+Answer: English: Use a small, safe example and observe this result: Canvas Size changes the working area around the existing image without directly resampling its pixels. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Canvas Size existing image-এর pixel সরাসরি resample না করে চারপাশের working area বদলায়। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What should a student check when working with Canvas Size?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Canvas Size changes the working area around the existing image without directly resampling its pixels. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Canvas Size existing image-এর pixel সরাসরি resample না করে চারপাশের working area বদলায়। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: In simple words, what does Image Size mean?
+Answer: English: Image Size changes pixel dimensions, print dimensions, resolution, or a combination of them.
+Bangla: Image Size pixel dimension, print dimension, resolution বা এগুলোর combination বদলায়।
+
+---
+
+Question: Why should a beginner learn Image Size?
+Answer: English: Image Size changes pixel dimensions, print dimensions, resolution, or a combination of them. This knowledge helps you make better decisions in this topic.
+Bangla: Image Size pixel dimension, print dimension, resolution বা এগুলোর combination বদলায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Image Size?
+Answer: English: Use a small, safe example and observe this result: Image Size changes pixel dimensions, print dimensions, resolution, or a combination of them. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Image Size pixel dimension, print dimension, resolution বা এগুলোর combination বদলায়। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Image Size?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Image Size changes pixel dimensions, print dimensions, resolution, or a combination of them. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Image Size pixel dimension, print dimension, resolution বা এগুলোর combination বদলায়। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What does Resampling do?
+Answer: English: Resampling adds or removes pixels when pixel dimensions are changed.
+Bangla: Resampling pixel dimension বদলানোর সময় pixel যোগ বা বাদ দেয়।
+
+---
+
+Question: When is Resampling useful?
+Answer: English: Resampling adds or removes pixels when pixel dimensions are changed. This knowledge helps you make better decisions in this topic.
+Bangla: Resampling pixel dimension বদলানোর সময় pixel যোগ বা বাদ দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Resampling?
+Answer: English: Use a small, safe example and observe this result: Resampling adds or removes pixels when pixel dimensions are changed. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Resampling pixel dimension বদলানোর সময় pixel যোগ বা বাদ দেয়। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What good habit should be followed when using Resampling?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Resampling adds or removes pixels when pixel dimensions are changed. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Resampling pixel dimension বদলানোর সময় pixel যোগ বা বাদ দেয়। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: How would you explain Interpolation to a beginner?
+Answer: English: Interpolation is the calculation method Photoshop uses when creating or removing pixels during resampling.
+Bangla: Interpolation resampling-এর সময় pixel তৈরি বা বাদ দিতে Photoshop যে calculation method ব্যবহার করে।
+
+---
+
+Question: What problem does Interpolation help with?
+Answer: English: Interpolation is the calculation method Photoshop uses when creating or removing pixels during resampling. This knowledge helps you make better decisions in this topic.
+Bangla: Interpolation resampling-এর সময় pixel তৈরি বা বাদ দিতে Photoshop যে calculation method ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Interpolation?
+Answer: English: Use a small, safe example and observe this result: Interpolation is the calculation method Photoshop uses when creating or removing pixels during resampling. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Interpolation resampling-এর সময় pixel তৈরি বা বাদ দিতে Photoshop যে calculation method ব্যবহার করে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: How can a student confirm that Interpolation is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Interpolation is the calculation method Photoshop uses when creating or removing pixels during resampling. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Interpolation resampling-এর সময় pixel তৈরি বা বাদ দিতে Photoshop যে calculation method ব্যবহার করে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What is Bleed?
+Answer: English: Bleed extends artwork beyond the final trim edge so printing and cutting do not leave unwanted white edges.
+Bangla: Bleed final trim edge-এর বাইরে artwork বাড়ায়, যাতে print ও cut করার পর অনাকাঙ্ক্ষিত white edge না থাকে।
+
+---
+
+Question: Why is Bleed important in this topic?
+Answer: English: Bleed extends artwork beyond the final trim edge so printing and cutting do not leave unwanted white edges. This knowledge helps you make better decisions in this topic.
+Bangla: Bleed final trim edge-এর বাইরে artwork বাড়ায়, যাতে print ও cut করার পর অনাকাঙ্ক্ষিত white edge না থাকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Bleed?
+Answer: English: Use a small, safe example and observe this result: Bleed extends artwork beyond the final trim edge so printing and cutting do not leave unwanted white edges. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Bleed final trim edge-এর বাইরে artwork বাড়ায়, যাতে print ও cut করার পর অনাকাঙ্ক্ষিত white edge না থাকে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What should a student check when working with Bleed?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Bleed extends artwork beyond the final trim edge so printing and cutting do not leave unwanted white edges. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Bleed final trim edge-এর বাইরে artwork বাড়ায়, যাতে print ও cut করার পর অনাকাঙ্ক্ষিত white edge না থাকে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: In simple words, what does Safe margin mean?
+Answer: English: Safe margin keeps important text and logos away from trim or edge areas.
+Bangla: Safe margin গুরুত্বপূর্ণ text ও logo-কে trim বা edge area থেকে নিরাপদ দূরত্বে রাখে।
+
+---
+
+Question: Why should a beginner learn Safe margin?
+Answer: English: Safe margin keeps important text and logos away from trim or edge areas. This knowledge helps you make better decisions in this topic.
+Bangla: Safe margin গুরুত্বপূর্ণ text ও logo-কে trim বা edge area থেকে নিরাপদ দূরত্বে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Safe margin?
+Answer: English: Use a small, safe example and observe this result: Safe margin keeps important text and logos away from trim or edge areas. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Safe margin গুরুত্বপূর্ণ text ও logo-কে trim বা edge area থেকে নিরাপদ দূরত্বে রাখে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Safe margin?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Safe margin keeps important text and logos away from trim or edge areas. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Safe margin গুরুত্বপূর্ণ text ও logo-কে trim বা edge area থেকে নিরাপদ দূরত্বে রাখে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What does Pixel aspect ratio do?
+Answer: English: Pixel aspect ratio describes the width-to-height shape of individual pixels and is normally square for standard still images.
+Bangla: Pixel aspect ratio একটি pixel-এর width ও height-এর অনুপাত বোঝায় এবং সাধারণ still image-এ সাধারণত square থাকে।
+
+---
+
+Question: When is Pixel aspect ratio useful?
+Answer: English: Pixel aspect ratio describes the width-to-height shape of individual pixels and is normally square for standard still images. This knowledge helps you make better decisions in this topic.
+Bangla: Pixel aspect ratio একটি pixel-এর width ও height-এর অনুপাত বোঝায় এবং সাধারণ still image-এ সাধারণত square থাকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Pixel aspect ratio?
+Answer: English: Use a small, safe example and observe this result: Pixel aspect ratio describes the width-to-height shape of individual pixels and is normally square for standard still images. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Pixel aspect ratio একটি pixel-এর width ও height-এর অনুপাত বোঝায় এবং সাধারণ still image-এ সাধারণত square থাকে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What good habit should be followed when using Pixel aspect ratio?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Pixel aspect ratio describes the width-to-height shape of individual pixels and is normally square for standard still images. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Pixel aspect ratio একটি pixel-এর width ও height-এর অনুপাত বোঝায় এবং সাধারণ still image-এ সাধারণত square থাকে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: How would you explain Color profile to a beginner?
+Answer: English: Color profile describes how numeric color values should appear on a device or in a color space.
+Bangla: Color profile numeric color value কোনো device বা color space-এ কেমন দেখাবে তা বোঝায়।
+
+---
+
+Question: What problem does Color profile help with?
+Answer: English: Color profile describes how numeric color values should appear on a device or in a color space. This knowledge helps you make better decisions in this topic.
+Bangla: Color profile numeric color value কোনো device বা color space-এ কেমন দেখাবে তা বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Color profile?
+Answer: English: Use a small, safe example and observe this result: Color profile describes how numeric color values should appear on a device or in a color space. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Color profile numeric color value কোনো device বা color space-এ কেমন দেখাবে তা বোঝায়। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: How can a student confirm that Color profile is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Color profile describes how numeric color values should appear on a device or in a color space. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Color profile numeric color value কোনো device বা color space-এ কেমন দেখাবে তা বোঝায়। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।
+
+---
+
+Question: What is Screen versus print setup?
+Answer: English: Screen versus print setup requires different thinking about physical size, color mode, resolution, bleed, and output profile.
+Bangla: Screen versus print setup physical size, color mode, resolution, bleed ও output profile নিয়ে ভিন্নভাবে ভাবতে বলে।
+
+---
+
+Question: Why is Screen versus print setup important in this topic?
+Answer: English: Screen versus print setup requires different thinking about physical size, color mode, resolution, bleed, and output profile. This knowledge helps you make better decisions in this topic.
+Bangla: Screen versus print setup physical size, color mode, resolution, bleed ও output profile নিয়ে ভিন্নভাবে ভাবতে বলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Screen versus print setup?
+Answer: English: Use a small, safe example and observe this result: Screen versus print setup requires different thinking about physical size, color mode, resolution, bleed, and output profile. Create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Screen versus print setup physical size, color mode, resolution, bleed ও output profile নিয়ে ভিন্নভাবে ভাবতে বলে। একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: What should a student check when working with Screen versus print setup?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Screen versus print setup requires different thinking about physical size, color mode, resolution, bleed, and output profile. Confirm the final output size and printer requirements before building a large design.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Screen versus print setup physical size, color mode, resolution, bleed ও output profile নিয়ে ভিন্নভাবে ভাবতে বলে। বড় design শুরু করার আগে final output size ও printer-এর requirement নিশ্চিত করুন।

@@ -1,0 +1,597 @@
+Question: What is Undo?
+Answer: English: Undo reverses the most recent supported edit.
+Bangla: Undo সর্বশেষ সমর্থিত edit ফিরিয়ে নেয়।
+
+---
+
+Question: Why is Undo important in this topic?
+Answer: English: Undo reverses the most recent supported edit. This knowledge helps you make better decisions in this topic.
+Bangla: Undo সর্বশেষ সমর্থিত edit ফিরিয়ে নেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Undo?
+Answer: English: Use a small, safe example and observe this result: Undo reverses the most recent supported edit. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Undo সর্বশেষ সমর্থিত edit ফিরিয়ে নেয়। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What should a student check when working with Undo?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Undo reverses the most recent supported edit. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Undo সর্বশেষ সমর্থিত edit ফিরিয়ে নেয়। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: In simple words, what does Redo mean?
+Answer: English: Redo reapplies an edit that was just undone when the history path still allows it.
+Bangla: Redo history path অনুমতি দিলে সদ্য undo করা edit আবার প্রয়োগ করে।
+
+---
+
+Question: Why should a beginner learn Redo?
+Answer: English: Redo reapplies an edit that was just undone when the history path still allows it. This knowledge helps you make better decisions in this topic.
+Bangla: Redo history path অনুমতি দিলে সদ্য undo করা edit আবার প্রয়োগ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Redo?
+Answer: English: Use a small, safe example and observe this result: Redo reapplies an edit that was just undone when the history path still allows it. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Redo history path অনুমতি দিলে সদ্য undo করা edit আবার প্রয়োগ করে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Redo?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Redo reapplies an edit that was just undone when the history path still allows it. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Redo history path অনুমতি দিলে সদ্য undo করা edit আবার প্রয়োগ করে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What does History state do?
+Answer: English: History state records a recent document condition during the current editing session.
+Bangla: History state বর্তমান editing session-এর সাম্প্রতিক document condition ধরে রাখে।
+
+---
+
+Question: When is History state useful?
+Answer: English: History state records a recent document condition during the current editing session. This knowledge helps you make better decisions in this topic.
+Bangla: History state বর্তমান editing session-এর সাম্প্রতিক document condition ধরে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test History state?
+Answer: English: Use a small, safe example and observe this result: History state records a recent document condition during the current editing session. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: History state বর্তমান editing session-এর সাম্প্রতিক document condition ধরে রাখে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What good habit should be followed when using History state?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: History state records a recent document condition during the current editing session. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: History state বর্তমান editing session-এর সাম্প্রতিক document condition ধরে রাখে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: How would you explain History panel to a beginner?
+Answer: English: History panel lets you view and return to recent states while the document remains open.
+Bangla: History panel document খোলা থাকা অবস্থায় recent state দেখতে ও সেখানে ফিরতে দেয়।
+
+---
+
+Question: What problem does History panel help with?
+Answer: English: History panel lets you view and return to recent states while the document remains open. This knowledge helps you make better decisions in this topic.
+Bangla: History panel document খোলা থাকা অবস্থায় recent state দেখতে ও সেখানে ফিরতে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with History panel?
+Answer: English: Use a small, safe example and observe this result: History panel lets you view and return to recent states while the document remains open. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: History panel document খোলা থাকা অবস্থায় recent state দেখতে ও সেখানে ফিরতে দেয়। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: How can a student confirm that History panel is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: History panel lets you view and return to recent states while the document remains open. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: History panel document খোলা থাকা অবস্থায় recent state দেখতে ও সেখানে ফিরতে দেয়। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What is Snapshot?
+Answer: English: Snapshot stores a temporary named state inside the current History session.
+Bangla: Snapshot বর্তমান History session-এর ভেতরে temporary named state রাখে।
+
+---
+
+Question: Why is Snapshot important in this topic?
+Answer: English: Snapshot stores a temporary named state inside the current History session. This knowledge helps you make better decisions in this topic.
+Bangla: Snapshot বর্তমান History session-এর ভেতরে temporary named state রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Snapshot?
+Answer: English: Use a small, safe example and observe this result: Snapshot stores a temporary named state inside the current History session. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Snapshot বর্তমান History session-এর ভেতরে temporary named state রাখে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What should a student check when working with Snapshot?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Snapshot stores a temporary named state inside the current History session. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Snapshot বর্তমান History session-এর ভেতরে temporary named state রাখে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: In simple words, what does Revert mean?
+Answer: English: Revert returns the open document to its last saved state.
+Bangla: Revert খোলা document-কে last saved state-এ ফিরিয়ে নেয়।
+
+---
+
+Question: Why should a beginner learn Revert?
+Answer: English: Revert returns the open document to its last saved state. This knowledge helps you make better decisions in this topic.
+Bangla: Revert খোলা document-কে last saved state-এ ফিরিয়ে নেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Revert?
+Answer: English: Use a small, safe example and observe this result: Revert returns the open document to its last saved state. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Revert খোলা document-কে last saved state-এ ফিরিয়ে নেয়। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Revert?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Revert returns the open document to its last saved state. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Revert খোলা document-কে last saved state-এ ফিরিয়ে নেয়। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What does Auto Save recovery information do?
+Answer: English: Auto Save recovery information periodically prepares recovery data that may help after an unexpected application stop.
+Bangla: Auto Save recovery information হঠাৎ application বন্ধ হলে কাজে লাগতে পারে এমন recovery data নির্দিষ্ট সময় পরপর প্রস্তুত করে।
+
+---
+
+Question: When is Auto Save recovery information useful?
+Answer: English: Auto Save recovery information periodically prepares recovery data that may help after an unexpected application stop. This knowledge helps you make better decisions in this topic.
+Bangla: Auto Save recovery information হঠাৎ application বন্ধ হলে কাজে লাগতে পারে এমন recovery data নির্দিষ্ট সময় পরপর প্রস্তুত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Auto Save recovery information?
+Answer: English: Use a small, safe example and observe this result: Auto Save recovery information periodically prepares recovery data that may help after an unexpected application stop. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Auto Save recovery information হঠাৎ application বন্ধ হলে কাজে লাগতে পারে এমন recovery data নির্দিষ্ট সময় পরপর প্রস্তুত করে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What good habit should be followed when using Auto Save recovery information?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Auto Save recovery information periodically prepares recovery data that may help after an unexpected application stop. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Auto Save recovery information হঠাৎ application বন্ধ হলে কাজে লাগতে পারে এমন recovery data নির্দিষ্ট সময় পরপর প্রস্তুত করে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: How would you explain Versioned save to a beginner?
+Answer: English: Versioned save keeps major stages as separate files instead of overwriting every earlier stage.
+Bangla: Versioned save প্রতিটি পুরোনো stage overwrite না করে major stage আলাদা file হিসেবে রাখে।
+
+---
+
+Question: What problem does Versioned save help with?
+Answer: English: Versioned save keeps major stages as separate files instead of overwriting every earlier stage. This knowledge helps you make better decisions in this topic.
+Bangla: Versioned save প্রতিটি পুরোনো stage overwrite না করে major stage আলাদা file হিসেবে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Versioned save?
+Answer: English: Use a small, safe example and observe this result: Versioned save keeps major stages as separate files instead of overwriting every earlier stage. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Versioned save প্রতিটি পুরোনো stage overwrite না করে major stage আলাদা file হিসেবে রাখে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: How can a student confirm that Versioned save is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Versioned save keeps major stages as separate files instead of overwriting every earlier stage. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Versioned save প্রতিটি পুরোনো stage overwrite না করে major stage আলাদা file হিসেবে রাখে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What is Duplicate layer workflow?
+Answer: English: Duplicate layer workflow protects a source layer by placing risky pixel edits on a copy.
+Bangla: Duplicate layer workflow ঝুঁকিপূর্ণ pixel edit copy layer-এ করে source layer রক্ষা করে।
+
+---
+
+Question: Why is Duplicate layer workflow important in this topic?
+Answer: English: Duplicate layer workflow protects a source layer by placing risky pixel edits on a copy. This knowledge helps you make better decisions in this topic.
+Bangla: Duplicate layer workflow ঝুঁকিপূর্ণ pixel edit copy layer-এ করে source layer রক্ষা করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Duplicate layer workflow?
+Answer: English: Use a small, safe example and observe this result: Duplicate layer workflow protects a source layer by placing risky pixel edits on a copy. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Duplicate layer workflow ঝুঁকিপূর্ণ pixel edit copy layer-এ করে source layer রক্ষা করে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What should a student check when working with Duplicate layer workflow?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Duplicate layer workflow protects a source layer by placing risky pixel edits on a copy. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Duplicate layer workflow ঝুঁকিপূর্ণ pixel edit copy layer-এ করে source layer রক্ষা করে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: In simple words, what does Adjustment layer workflow mean?
+Answer: English: Adjustment layer workflow keeps tone and color changes editable and separate from source pixels.
+Bangla: Adjustment layer workflow tone ও color change editable এবং source pixel থেকে আলাদা রাখে।
+
+---
+
+Question: Why should a beginner learn Adjustment layer workflow?
+Answer: English: Adjustment layer workflow keeps tone and color changes editable and separate from source pixels. This knowledge helps you make better decisions in this topic.
+Bangla: Adjustment layer workflow tone ও color change editable এবং source pixel থেকে আলাদা রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Adjustment layer workflow?
+Answer: English: Use a small, safe example and observe this result: Adjustment layer workflow keeps tone and color changes editable and separate from source pixels. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Adjustment layer workflow tone ও color change editable এবং source pixel থেকে আলাদা রাখে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Adjustment layer workflow?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Adjustment layer workflow keeps tone and color changes editable and separate from source pixels. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Adjustment layer workflow tone ও color change editable এবং source pixel থেকে আলাদা রাখে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What does Layer mask workflow do?
+Answer: English: Layer mask workflow hides or reveals layer content reversibly with black, white, and gray.
+Bangla: Layer mask workflow black, white ও gray দিয়ে reversibleভাবে layer content hide বা reveal করে।
+
+---
+
+Question: When is Layer mask workflow useful?
+Answer: English: Layer mask workflow hides or reveals layer content reversibly with black, white, and gray. This knowledge helps you make better decisions in this topic.
+Bangla: Layer mask workflow black, white ও gray দিয়ে reversibleভাবে layer content hide বা reveal করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Layer mask workflow?
+Answer: English: Use a small, safe example and observe this result: Layer mask workflow hides or reveals layer content reversibly with black, white, and gray. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer mask workflow black, white ও gray দিয়ে reversibleভাবে layer content hide বা reveal করে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What good habit should be followed when using Layer mask workflow?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer mask workflow hides or reveals layer content reversibly with black, white, and gray. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer mask workflow black, white ও gray দিয়ে reversibleভাবে layer content hide বা reveal করে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: How would you explain Smart Object workflow to a beginner?
+Answer: English: Smart Object workflow preserves embedded or linked source content through repeated transformations.
+Bangla: Smart Object workflow বারবার transform করার সময় embedded বা linked source content রক্ষা করে।
+
+---
+
+Question: What problem does Smart Object workflow help with?
+Answer: English: Smart Object workflow preserves embedded or linked source content through repeated transformations. This knowledge helps you make better decisions in this topic.
+Bangla: Smart Object workflow বারবার transform করার সময় embedded বা linked source content রক্ষা করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Smart Object workflow?
+Answer: English: Use a small, safe example and observe this result: Smart Object workflow preserves embedded or linked source content through repeated transformations. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Smart Object workflow বারবার transform করার সময় embedded বা linked source content রক্ষা করে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: How can a student confirm that Smart Object workflow is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Smart Object workflow preserves embedded or linked source content through repeated transformations. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Smart Object workflow বারবার transform করার সময় embedded বা linked source content রক্ষা করে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What is Smart Filter?
+Answer: English: Smart Filter applies a filter to a Smart Object so settings and masking remain editable.
+Bangla: Smart Filter Smart Object-এ filter প্রয়োগ করে, যাতে setting ও masking editable থাকে।
+
+---
+
+Question: Why is Smart Filter important in this topic?
+Answer: English: Smart Filter applies a filter to a Smart Object so settings and masking remain editable. This knowledge helps you make better decisions in this topic.
+Bangla: Smart Filter Smart Object-এ filter প্রয়োগ করে, যাতে setting ও masking editable থাকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Smart Filter?
+Answer: English: Use a small, safe example and observe this result: Smart Filter applies a filter to a Smart Object so settings and masking remain editable. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Smart Filter Smart Object-এ filter প্রয়োগ করে, যাতে setting ও masking editable থাকে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What should a student check when working with Smart Filter?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Smart Filter applies a filter to a Smart Object so settings and masking remain editable. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Smart Filter Smart Object-এ filter প্রয়োগ করে, যাতে setting ও masking editable থাকে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: In simple words, what does Editable type mean?
+Answer: English: Editable type keeps words, font, size, spacing, and other text properties changeable.
+Bangla: Editable type word, font, size, spacing ও অন্যান্য text property পরিবর্তনযোগ্য রাখে।
+
+---
+
+Question: Why should a beginner learn Editable type?
+Answer: English: Editable type keeps words, font, size, spacing, and other text properties changeable. This knowledge helps you make better decisions in this topic.
+Bangla: Editable type word, font, size, spacing ও অন্যান্য text property পরিবর্তনযোগ্য রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Editable type?
+Answer: English: Use a small, safe example and observe this result: Editable type keeps words, font, size, spacing, and other text properties changeable. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Editable type word, font, size, spacing ও অন্যান্য text property পরিবর্তনযোগ্য রাখে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Editable type?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Editable type keeps words, font, size, spacing, and other text properties changeable. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Editable type word, font, size, spacing ও অন্যান্য text property পরিবর্তনযোগ্য রাখে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What does Editable shape layer do?
+Answer: English: Editable shape layer keeps vector fill, stroke, dimensions, and path properties adjustable.
+Bangla: Editable shape layer vector fill, stroke, dimension ও path property adjustable রাখে।
+
+---
+
+Question: When is Editable shape layer useful?
+Answer: English: Editable shape layer keeps vector fill, stroke, dimensions, and path properties adjustable. This knowledge helps you make better decisions in this topic.
+Bangla: Editable shape layer vector fill, stroke, dimension ও path property adjustable রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Editable shape layer?
+Answer: English: Use a small, safe example and observe this result: Editable shape layer keeps vector fill, stroke, dimensions, and path properties adjustable. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Editable shape layer vector fill, stroke, dimension ও path property adjustable রাখে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What good habit should be followed when using Editable shape layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Editable shape layer keeps vector fill, stroke, dimensions, and path properties adjustable. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Editable shape layer vector fill, stroke, dimension ও path property adjustable রাখে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: How would you explain Non-destructive crop to a beginner?
+Answer: English: Non-destructive crop keeps cropped pixels available when Delete Cropped Pixels is turned off.
+Bangla: Non-destructive crop Delete Cropped Pixels বন্ধ থাকলে cropped pixel পরে ব্যবহারের জন্য রেখে দেয়।
+
+---
+
+Question: What problem does Non-destructive crop help with?
+Answer: English: Non-destructive crop keeps cropped pixels available when Delete Cropped Pixels is turned off. This knowledge helps you make better decisions in this topic.
+Bangla: Non-destructive crop Delete Cropped Pixels বন্ধ থাকলে cropped pixel পরে ব্যবহারের জন্য রেখে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Non-destructive crop?
+Answer: English: Use a small, safe example and observe this result: Non-destructive crop keeps cropped pixels available when Delete Cropped Pixels is turned off. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Non-destructive crop Delete Cropped Pixels বন্ধ থাকলে cropped pixel পরে ব্যবহারের জন্য রেখে দেয়। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: How can a student confirm that Non-destructive crop is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Non-destructive crop keeps cropped pixels available when Delete Cropped Pixels is turned off. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Non-destructive crop Delete Cropped Pixels বন্ধ থাকলে cropped pixel পরে ব্যবহারের জন্য রেখে দেয়। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What is Camera Raw Smart Object?
+Answer: English: Camera Raw Smart Object allows Camera Raw settings to be reopened and adjusted later.
+Bangla: Camera Raw Smart Object Camera Raw setting পরে আবার খুলে adjust করতে দেয়।
+
+---
+
+Question: Why is Camera Raw Smart Object important in this topic?
+Answer: English: Camera Raw Smart Object allows Camera Raw settings to be reopened and adjusted later. This knowledge helps you make better decisions in this topic.
+Bangla: Camera Raw Smart Object Camera Raw setting পরে আবার খুলে adjust করতে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Camera Raw Smart Object?
+Answer: English: Use a small, safe example and observe this result: Camera Raw Smart Object allows Camera Raw settings to be reopened and adjusted later. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Camera Raw Smart Object Camera Raw setting পরে আবার খুলে adjust করতে দেয়। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What should a student check when working with Camera Raw Smart Object?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Camera Raw Smart Object allows Camera Raw settings to be reopened and adjusted later. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Camera Raw Smart Object Camera Raw setting পরে আবার খুলে adjust করতে দেয়। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: In simple words, what does Linked Smart Object mean?
+Answer: English: Linked Smart Object can update placed content when its external source file changes.
+Bangla: Linked Smart Object external source file বদলালে placed content update করতে পারে।
+
+---
+
+Question: Why should a beginner learn Linked Smart Object?
+Answer: English: Linked Smart Object can update placed content when its external source file changes. This knowledge helps you make better decisions in this topic.
+Bangla: Linked Smart Object external source file বদলালে placed content update করতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Linked Smart Object?
+Answer: English: Use a small, safe example and observe this result: Linked Smart Object can update placed content when its external source file changes. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Linked Smart Object external source file বদলালে placed content update করতে পারে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Linked Smart Object?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Linked Smart Object can update placed content when its external source file changes. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Linked Smart Object external source file বদলালে placed content update করতে পারে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What does Embedded Smart Object do?
+Answer: English: Embedded Smart Object stores its source content inside the Photoshop document.
+Bangla: Embedded Smart Object source content Photoshop document-এর ভেতরে সংরক্ষণ করে।
+
+---
+
+Question: When is Embedded Smart Object useful?
+Answer: English: Embedded Smart Object stores its source content inside the Photoshop document. This knowledge helps you make better decisions in this topic.
+Bangla: Embedded Smart Object source content Photoshop document-এর ভেতরে সংরক্ষণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Embedded Smart Object?
+Answer: English: Use a small, safe example and observe this result: Embedded Smart Object stores its source content inside the Photoshop document. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Embedded Smart Object source content Photoshop document-এর ভেতরে সংরক্ষণ করে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What good habit should be followed when using Embedded Smart Object?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Embedded Smart Object stores its source content inside the Photoshop document. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Embedded Smart Object source content Photoshop document-এর ভেতরে সংরক্ষণ করে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: How would you explain Edit Contents to a beginner?
+Answer: English: Edit Contents opens a Smart Object's source content for separate editing and update.
+Bangla: Edit Contents Smart Object-এর source content আলাদাভাবে edit ও update করার জন্য খোলে।
+
+---
+
+Question: What problem does Edit Contents help with?
+Answer: English: Edit Contents opens a Smart Object's source content for separate editing and update. This knowledge helps you make better decisions in this topic.
+Bangla: Edit Contents Smart Object-এর source content আলাদাভাবে edit ও update করার জন্য খোলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Edit Contents?
+Answer: English: Use a small, safe example and observe this result: Edit Contents opens a Smart Object's source content for separate editing and update. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Edit Contents Smart Object-এর source content আলাদাভাবে edit ও update করার জন্য খোলে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: How can a student confirm that Edit Contents is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Edit Contents opens a Smart Object's source content for separate editing and update. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Edit Contents Smart Object-এর source content আলাদাভাবে edit ও update করার জন্য খোলে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What is Nondestructive dodge and burn?
+Answer: English: Nondestructive dodge and burn uses a separate method such as curves masks or a neutral blend layer instead of permanently painting the source.
+Bangla: Nondestructive dodge and burn source-এ স্থায়ীভাবে paint না করে curves mask বা neutral blend layer-এর মতো আলাদা method ব্যবহার করে।
+
+---
+
+Question: Why is Nondestructive dodge and burn important in this topic?
+Answer: English: Nondestructive dodge and burn uses a separate method such as curves masks or a neutral blend layer instead of permanently painting the source. This knowledge helps you make better decisions in this topic.
+Bangla: Nondestructive dodge and burn source-এ স্থায়ীভাবে paint না করে curves mask বা neutral blend layer-এর মতো আলাদা method ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Nondestructive dodge and burn?
+Answer: English: Use a small, safe example and observe this result: Nondestructive dodge and burn uses a separate method such as curves masks or a neutral blend layer instead of permanently painting the source. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Nondestructive dodge and burn source-এ স্থায়ীভাবে paint না করে curves mask বা neutral blend layer-এর মতো আলাদা method ব্যবহার করে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What should a student check when working with Nondestructive dodge and burn?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Nondestructive dodge and burn uses a separate method such as curves masks or a neutral blend layer instead of permanently painting the source. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Nondestructive dodge and burn source-এ স্থায়ীভাবে paint না করে curves mask বা neutral blend layer-এর মতো আলাদা method ব্যবহার করে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: In simple words, what does Layer Comp mean?
+Answer: English: Layer Comp records selected layer visibility, position, and appearance states for design variations.
+Bangla: Layer Comp design variation-এর জন্য selected layer visibility, position ও appearance state ধরে রাখে।
+
+---
+
+Question: Why should a beginner learn Layer Comp?
+Answer: English: Layer Comp records selected layer visibility, position, and appearance states for design variations. This knowledge helps you make better decisions in this topic.
+Bangla: Layer Comp design variation-এর জন্য selected layer visibility, position ও appearance state ধরে রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Layer Comp?
+Answer: English: Use a small, safe example and observe this result: Layer Comp records selected layer visibility, position, and appearance states for design variations. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Layer Comp design variation-এর জন্য selected layer visibility, position ও appearance state ধরে রাখে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What beginner mistake should be avoided with Layer Comp?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Layer Comp records selected layer visibility, position, and appearance states for design variations. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Layer Comp design variation-এর জন্য selected layer visibility, position ও appearance state ধরে রাখে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What does Backup copy do?
+Answer: English: Backup copy stores a recoverable copy on separate storage or a reliable versioned service.
+Bangla: Backup copy আলাদা storage বা reliable versioned service-এ recoverable copy রাখে।
+
+---
+
+Question: When is Backup copy useful?
+Answer: English: Backup copy stores a recoverable copy on separate storage or a reliable versioned service. This knowledge helps you make better decisions in this topic.
+Bangla: Backup copy আলাদা storage বা reliable versioned service-এ recoverable copy রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Backup copy?
+Answer: English: Use a small, safe example and observe this result: Backup copy stores a recoverable copy on separate storage or a reliable versioned service. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Backup copy আলাদা storage বা reliable versioned service-এ recoverable copy রাখে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What good habit should be followed when using Backup copy?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Backup copy stores a recoverable copy on separate storage or a reliable versioned service. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Backup copy আলাদা storage বা reliable versioned service-এ recoverable copy রাখে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: How would you explain Editable master file to a beginner?
+Answer: English: Editable master file keeps the full layer structure and source quality for future changes.
+Bangla: Editable master file ভবিষ্যতের change-এর জন্য full layer structure ও source quality রেখে দেয়।
+
+---
+
+Question: What problem does Editable master file help with?
+Answer: English: Editable master file keeps the full layer structure and source quality for future changes. This knowledge helps you make better decisions in this topic.
+Bangla: Editable master file ভবিষ্যতের change-এর জন্য full layer structure ও source quality রেখে দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Editable master file?
+Answer: English: Use a small, safe example and observe this result: Editable master file keeps the full layer structure and source quality for future changes. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Editable master file ভবিষ্যতের change-এর জন্য full layer structure ও source quality রেখে দেয়। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: How can a student confirm that Editable master file is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Editable master file keeps the full layer structure and source quality for future changes. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Editable master file ভবিষ্যতের change-এর জন্য full layer structure ও source quality রেখে দেয়। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।
+
+---
+
+Question: What is Delivery copy?
+Answer: English: Delivery copy is an exported file made for a specific use while the editable master stays protected.
+Bangla: Delivery copy নির্দিষ্ট ব্যবহারের জন্য export করা file, যেখানে editable master নিরাপদ থাকে।
+
+---
+
+Question: Why is Delivery copy important in this topic?
+Answer: English: Delivery copy is an exported file made for a specific use while the editable master stays protected. This knowledge helps you make better decisions in this topic.
+Bangla: Delivery copy নির্দিষ্ট ব্যবহারের জন্য export করা file, যেখানে editable master নিরাপদ থাকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Delivery copy?
+Answer: English: Use a small, safe example and observe this result: Delivery copy is an exported file made for a specific use while the editable master stays protected. Edit a copied photo using an adjustment layer, mask, Smart Object, and Smart Filter, then change every decision again.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Delivery copy নির্দিষ্ট ব্যবহারের জন্য export করা file, যেখানে editable master নিরাপদ থাকে। copy করা photo-তে adjustment layer, mask, Smart Object ও Smart Filter ব্যবহার করুন, তারপর প্রতিটি decision আবার বদলান।
+
+---
+
+Question: What should a student check when working with Delivery copy?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Delivery copy is an exported file made for a specific use while the editable master stays protected. History is not a permanent backup; save named versions and keep the original source separately.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Delivery copy নির্দিষ্ট ব্যবহারের জন্য export করা file, যেখানে editable master নিরাপদ থাকে। History স্থায়ী backup নয়; named version save করুন এবং original source আলাদা রাখুন।

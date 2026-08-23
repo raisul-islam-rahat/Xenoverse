@@ -1,0 +1,597 @@
+Question: What is Vector graphic?
+Answer: English: Vector graphic uses points, lines, and curves so its edges can remain crisp when scaled.
+Bangla: Vector graphic point, line ও curve ব্যবহার করে, তাই scale করলেও edge crisp থাকতে পারে।
+
+---
+
+Question: Why is Vector graphic important in this topic?
+Answer: English: Vector graphic uses points, lines, and curves so its edges can remain crisp when scaled. This knowledge helps you make better decisions in this topic.
+Bangla: Vector graphic point, line ও curve ব্যবহার করে, তাই scale করলেও edge crisp থাকতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Vector graphic?
+Answer: English: Use a small, safe example and observe this result: Vector graphic uses points, lines, and curves so its edges can remain crisp when scaled. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Vector graphic point, line ও curve ব্যবহার করে, তাই scale করলেও edge crisp থাকতে পারে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What should a student check when working with Vector graphic?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Vector graphic uses points, lines, and curves so its edges can remain crisp when scaled. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Vector graphic point, line ও curve ব্যবহার করে, তাই scale করলেও edge crisp থাকতে পারে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: In simple words, what does Raster versus vector mean?
+Answer: English: Raster versus vector compares fixed pixels with mathematically described paths.
+Bangla: Raster versus vector fixed pixel-এর সঙ্গে mathematically described path-এর পার্থক্য বোঝায়।
+
+---
+
+Question: Why should a beginner learn Raster versus vector?
+Answer: English: Raster versus vector compares fixed pixels with mathematically described paths. This knowledge helps you make better decisions in this topic.
+Bangla: Raster versus vector fixed pixel-এর সঙ্গে mathematically described path-এর পার্থক্য বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Raster versus vector?
+Answer: English: Use a small, safe example and observe this result: Raster versus vector compares fixed pixels with mathematically described paths. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Raster versus vector fixed pixel-এর সঙ্গে mathematically described path-এর পার্থক্য বোঝায়। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Raster versus vector?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Raster versus vector compares fixed pixels with mathematically described paths. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Raster versus vector fixed pixel-এর সঙ্গে mathematically described path-এর পার্থক্য বোঝায়। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What does Shape layer do?
+Answer: English: Shape layer stores a vector path together with editable fill and stroke properties.
+Bangla: Shape layer editable fill ও stroke property-এর সঙ্গে vector path সংরক্ষণ করে।
+
+---
+
+Question: When is Shape layer useful?
+Answer: English: Shape layer stores a vector path together with editable fill and stroke properties. This knowledge helps you make better decisions in this topic.
+Bangla: Shape layer editable fill ও stroke property-এর সঙ্গে vector path সংরক্ষণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Shape layer?
+Answer: English: Use a small, safe example and observe this result: Shape layer stores a vector path together with editable fill and stroke properties. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Shape layer editable fill ও stroke property-এর সঙ্গে vector path সংরক্ষণ করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What good habit should be followed when using Shape layer?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Shape layer stores a vector path together with editable fill and stroke properties. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Shape layer editable fill ও stroke property-এর সঙ্গে vector path সংরক্ষণ করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: How would you explain Rectangle tool to a beginner?
+Answer: English: Rectangle tool draws rectangles, squares, and editable rounded rectangles.
+Bangla: Rectangle tool rectangle, square ও editable rounded rectangle আঁকে।
+
+---
+
+Question: What problem does Rectangle tool help with?
+Answer: English: Rectangle tool draws rectangles, squares, and editable rounded rectangles. This knowledge helps you make better decisions in this topic.
+Bangla: Rectangle tool rectangle, square ও editable rounded rectangle আঁকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Rectangle tool?
+Answer: English: Use a small, safe example and observe this result: Rectangle tool draws rectangles, squares, and editable rounded rectangles. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Rectangle tool rectangle, square ও editable rounded rectangle আঁকে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: How can a student confirm that Rectangle tool is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Rectangle tool draws rectangles, squares, and editable rounded rectangles. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Rectangle tool rectangle, square ও editable rounded rectangle আঁকে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What is Ellipse tool?
+Answer: English: Ellipse tool draws ellipse and circle shapes.
+Bangla: Ellipse tool ellipse ও circle shape আঁকে।
+
+---
+
+Question: Why is Ellipse tool important in this topic?
+Answer: English: Ellipse tool draws ellipse and circle shapes. This knowledge helps you make better decisions in this topic.
+Bangla: Ellipse tool ellipse ও circle shape আঁকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Ellipse tool?
+Answer: English: Use a small, safe example and observe this result: Ellipse tool draws ellipse and circle shapes. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Ellipse tool ellipse ও circle shape আঁকে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What should a student check when working with Ellipse tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Ellipse tool draws ellipse and circle shapes. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Ellipse tool ellipse ও circle shape আঁকে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: In simple words, what does Triangle tool mean?
+Answer: English: Triangle tool draws editable triangle shapes.
+Bangla: Triangle tool editable triangle shape আঁকে।
+
+---
+
+Question: Why should a beginner learn Triangle tool?
+Answer: English: Triangle tool draws editable triangle shapes. This knowledge helps you make better decisions in this topic.
+Bangla: Triangle tool editable triangle shape আঁকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Triangle tool?
+Answer: English: Use a small, safe example and observe this result: Triangle tool draws editable triangle shapes. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Triangle tool editable triangle shape আঁকে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Triangle tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Triangle tool draws editable triangle shapes. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Triangle tool editable triangle shape আঁকে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What does Polygon tool do?
+Answer: English: Polygon tool draws multi-sided shapes and supported star-like variations.
+Bangla: Polygon tool multi-sided shape ও supported star-like variation আঁকে।
+
+---
+
+Question: When is Polygon tool useful?
+Answer: English: Polygon tool draws multi-sided shapes and supported star-like variations. This knowledge helps you make better decisions in this topic.
+Bangla: Polygon tool multi-sided shape ও supported star-like variation আঁকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Polygon tool?
+Answer: English: Use a small, safe example and observe this result: Polygon tool draws multi-sided shapes and supported star-like variations. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Polygon tool multi-sided shape ও supported star-like variation আঁকে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What good habit should be followed when using Polygon tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Polygon tool draws multi-sided shapes and supported star-like variations. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Polygon tool multi-sided shape ও supported star-like variation আঁকে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: How would you explain Line tool to a beginner?
+Answer: English: Line tool creates editable straight line shapes with chosen weight and appearance.
+Bangla: Line tool chosen weight ও appearance-সহ editable straight line shape তৈরি করে।
+
+---
+
+Question: What problem does Line tool help with?
+Answer: English: Line tool creates editable straight line shapes with chosen weight and appearance. This knowledge helps you make better decisions in this topic.
+Bangla: Line tool chosen weight ও appearance-সহ editable straight line shape তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Line tool?
+Answer: English: Use a small, safe example and observe this result: Line tool creates editable straight line shapes with chosen weight and appearance. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Line tool chosen weight ও appearance-সহ editable straight line shape তৈরি করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: How can a student confirm that Line tool is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Line tool creates editable straight line shapes with chosen weight and appearance. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Line tool chosen weight ও appearance-সহ editable straight line shape তৈরি করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What is Custom Shape tool?
+Answer: English: Custom Shape tool draws from installed or saved vector shape presets.
+Bangla: Custom Shape tool installed বা saved vector shape preset থেকে আঁকে।
+
+---
+
+Question: Why is Custom Shape tool important in this topic?
+Answer: English: Custom Shape tool draws from installed or saved vector shape presets. This knowledge helps you make better decisions in this topic.
+Bangla: Custom Shape tool installed বা saved vector shape preset থেকে আঁকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Custom Shape tool?
+Answer: English: Use a small, safe example and observe this result: Custom Shape tool draws from installed or saved vector shape presets. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Custom Shape tool installed বা saved vector shape preset থেকে আঁকে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What should a student check when working with Custom Shape tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Custom Shape tool draws from installed or saved vector shape presets. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Custom Shape tool installed বা saved vector shape preset থেকে আঁকে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: In simple words, what does Shape fill mean?
+Answer: English: Shape fill controls the color, gradient, pattern, or no-fill appearance inside a shape.
+Bangla: Shape fill shape-এর ভেতরে color, gradient, pattern বা no-fill appearance নিয়ন্ত্রণ করে।
+
+---
+
+Question: Why should a beginner learn Shape fill?
+Answer: English: Shape fill controls the color, gradient, pattern, or no-fill appearance inside a shape. This knowledge helps you make better decisions in this topic.
+Bangla: Shape fill shape-এর ভেতরে color, gradient, pattern বা no-fill appearance নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Shape fill?
+Answer: English: Use a small, safe example and observe this result: Shape fill controls the color, gradient, pattern, or no-fill appearance inside a shape. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Shape fill shape-এর ভেতরে color, gradient, pattern বা no-fill appearance নিয়ন্ত্রণ করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Shape fill?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Shape fill controls the color, gradient, pattern, or no-fill appearance inside a shape. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Shape fill shape-এর ভেতরে color, gradient, pattern বা no-fill appearance নিয়ন্ত্রণ করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What does Shape stroke do?
+Answer: English: Shape stroke controls the outline color, width, and style of a shape.
+Bangla: Shape stroke shape-এর outline color, width ও style নিয়ন্ত্রণ করে।
+
+---
+
+Question: When is Shape stroke useful?
+Answer: English: Shape stroke controls the outline color, width, and style of a shape. This knowledge helps you make better decisions in this topic.
+Bangla: Shape stroke shape-এর outline color, width ও style নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Shape stroke?
+Answer: English: Use a small, safe example and observe this result: Shape stroke controls the outline color, width, and style of a shape. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Shape stroke shape-এর outline color, width ও style নিয়ন্ত্রণ করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What good habit should be followed when using Shape stroke?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Shape stroke controls the outline color, width, and style of a shape. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Shape stroke shape-এর outline color, width ও style নিয়ন্ত্রণ করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: How would you explain Corner radius to a beginner?
+Answer: English: Corner radius controls how rounded supported live-shape corners appear.
+Bangla: Corner radius supported live-shape corner কত rounded দেখাবে তা নিয়ন্ত্রণ করে।
+
+---
+
+Question: What problem does Corner radius help with?
+Answer: English: Corner radius controls how rounded supported live-shape corners appear. This knowledge helps you make better decisions in this topic.
+Bangla: Corner radius supported live-shape corner কত rounded দেখাবে তা নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Corner radius?
+Answer: English: Use a small, safe example and observe this result: Corner radius controls how rounded supported live-shape corners appear. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Corner radius supported live-shape corner কত rounded দেখাবে তা নিয়ন্ত্রণ করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: How can a student confirm that Corner radius is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Corner radius controls how rounded supported live-shape corners appear. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Corner radius supported live-shape corner কত rounded দেখাবে তা নিয়ন্ত্রণ করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What is Live Shape properties?
+Answer: English: Live Shape properties keep dimensions, corners, and other supported shape values editable in Properties.
+Bangla: Live Shape properties dimension, corner ও অন্যান্য supported shape value Properties-এ editable রাখে।
+
+---
+
+Question: Why is Live Shape properties important in this topic?
+Answer: English: Live Shape properties keep dimensions, corners, and other supported shape values editable in Properties. This knowledge helps you make better decisions in this topic.
+Bangla: Live Shape properties dimension, corner ও অন্যান্য supported shape value Properties-এ editable রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Live Shape properties?
+Answer: English: Use a small, safe example and observe this result: Live Shape properties keep dimensions, corners, and other supported shape values editable in Properties. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Live Shape properties dimension, corner ও অন্যান্য supported shape value Properties-এ editable রাখে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What should a student check when working with Live Shape properties?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Live Shape properties keep dimensions, corners, and other supported shape values editable in Properties. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Live Shape properties dimension, corner ও অন্যান্য supported shape value Properties-এ editable রাখে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: In simple words, what does Combine Shapes mean?
+Answer: English: Combine Shapes adds vector components into one combined shape area.
+Bangla: Combine Shapes vector component এক combined shape area-তে যোগ করে।
+
+---
+
+Question: Why should a beginner learn Combine Shapes?
+Answer: English: Combine Shapes adds vector components into one combined shape area. This knowledge helps you make better decisions in this topic.
+Bangla: Combine Shapes vector component এক combined shape area-তে যোগ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Combine Shapes?
+Answer: English: Use a small, safe example and observe this result: Combine Shapes adds vector components into one combined shape area. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Combine Shapes vector component এক combined shape area-তে যোগ করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Combine Shapes?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Combine Shapes adds vector components into one combined shape area. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Combine Shapes vector component এক combined shape area-তে যোগ করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What does Subtract Front Shape do?
+Answer: English: Subtract Front Shape cuts the front vector component out of the shape behind it.
+Bangla: Subtract Front Shape সামনের vector component দিয়ে পেছনের shape কেটে বাদ দেয়।
+
+---
+
+Question: When is Subtract Front Shape useful?
+Answer: English: Subtract Front Shape cuts the front vector component out of the shape behind it. This knowledge helps you make better decisions in this topic.
+Bangla: Subtract Front Shape সামনের vector component দিয়ে পেছনের shape কেটে বাদ দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Subtract Front Shape?
+Answer: English: Use a small, safe example and observe this result: Subtract Front Shape cuts the front vector component out of the shape behind it. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Subtract Front Shape সামনের vector component দিয়ে পেছনের shape কেটে বাদ দেয়। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What good habit should be followed when using Subtract Front Shape?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Subtract Front Shape cuts the front vector component out of the shape behind it. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Subtract Front Shape সামনের vector component দিয়ে পেছনের shape কেটে বাদ দেয়। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: How would you explain Intersect Shape Areas to a beginner?
+Answer: English: Intersect Shape Areas keeps only the overlap between vector components.
+Bangla: Intersect Shape Areas vector component-এর শুধু overlap রাখে।
+
+---
+
+Question: What problem does Intersect Shape Areas help with?
+Answer: English: Intersect Shape Areas keeps only the overlap between vector components. This knowledge helps you make better decisions in this topic.
+Bangla: Intersect Shape Areas vector component-এর শুধু overlap রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Intersect Shape Areas?
+Answer: English: Use a small, safe example and observe this result: Intersect Shape Areas keeps only the overlap between vector components. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Intersect Shape Areas vector component-এর শুধু overlap রাখে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: How can a student confirm that Intersect Shape Areas is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Intersect Shape Areas keeps only the overlap between vector components. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Intersect Shape Areas vector component-এর শুধু overlap রাখে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What is Exclude Overlapping Shapes?
+Answer: English: Exclude Overlapping Shapes removes overlapping regions while keeping non-overlapping vector areas.
+Bangla: Exclude Overlapping Shapes overlapping region সরিয়ে non-overlapping vector area রাখে।
+
+---
+
+Question: Why is Exclude Overlapping Shapes important in this topic?
+Answer: English: Exclude Overlapping Shapes removes overlapping regions while keeping non-overlapping vector areas. This knowledge helps you make better decisions in this topic.
+Bangla: Exclude Overlapping Shapes overlapping region সরিয়ে non-overlapping vector area রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Exclude Overlapping Shapes?
+Answer: English: Use a small, safe example and observe this result: Exclude Overlapping Shapes removes overlapping regions while keeping non-overlapping vector areas. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Exclude Overlapping Shapes overlapping region সরিয়ে non-overlapping vector area রাখে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What should a student check when working with Exclude Overlapping Shapes?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Exclude Overlapping Shapes removes overlapping regions while keeping non-overlapping vector areas. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Exclude Overlapping Shapes overlapping region সরিয়ে non-overlapping vector area রাখে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: In simple words, what does Path alignment mean?
+Answer: English: Path alignment aligns selected vector components to a reference.
+Bangla: Path alignment selected vector component-কে reference অনুযায়ী align করে।
+
+---
+
+Question: Why should a beginner learn Path alignment?
+Answer: English: Path alignment aligns selected vector components to a reference. This knowledge helps you make better decisions in this topic.
+Bangla: Path alignment selected vector component-কে reference অনুযায়ী align করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Path alignment?
+Answer: English: Use a small, safe example and observe this result: Path alignment aligns selected vector components to a reference. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Path alignment selected vector component-কে reference অনুযায়ী align করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Path alignment?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Path alignment aligns selected vector components to a reference. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Path alignment selected vector component-কে reference অনুযায়ী align করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What does Path distribution do?
+Answer: English: Path distribution spaces selected vector components consistently.
+Bangla: Path distribution selected vector component-কে consistentভাবে space করে।
+
+---
+
+Question: When is Path distribution useful?
+Answer: English: Path distribution spaces selected vector components consistently. This knowledge helps you make better decisions in this topic.
+Bangla: Path distribution selected vector component-কে consistentভাবে space করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Path distribution?
+Answer: English: Use a small, safe example and observe this result: Path distribution spaces selected vector components consistently. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Path distribution selected vector component-কে consistentভাবে space করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What good habit should be followed when using Path distribution?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Path distribution spaces selected vector components consistently. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Path distribution selected vector component-কে consistentভাবে space করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: How would you explain Path arrangement to a beginner?
+Answer: English: Path arrangement changes which vector component is in front within a combined shape.
+Bangla: Path arrangement combined shape-এর ভেতরে কোন vector component সামনে থাকবে তা বদলায়।
+
+---
+
+Question: What problem does Path arrangement help with?
+Answer: English: Path arrangement changes which vector component is in front within a combined shape. This knowledge helps you make better decisions in this topic.
+Bangla: Path arrangement combined shape-এর ভেতরে কোন vector component সামনে থাকবে তা বদলায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Path arrangement?
+Answer: English: Use a small, safe example and observe this result: Path arrangement changes which vector component is in front within a combined shape. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Path arrangement combined shape-এর ভেতরে কোন vector component সামনে থাকবে তা বদলায়। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: How can a student confirm that Path arrangement is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Path arrangement changes which vector component is in front within a combined shape. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Path arrangement combined shape-এর ভেতরে কোন vector component সামনে থাকবে তা বদলায়। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What is Transform shape?
+Answer: English: Transform shape scales, rotates, skews, distorts, or warps selected vector content.
+Bangla: Transform shape selected vector content scale, rotate, skew, distort বা warp করে।
+
+---
+
+Question: Why is Transform shape important in this topic?
+Answer: English: Transform shape scales, rotates, skews, distorts, or warps selected vector content. This knowledge helps you make better decisions in this topic.
+Bangla: Transform shape selected vector content scale, rotate, skew, distort বা warp করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Transform shape?
+Answer: English: Use a small, safe example and observe this result: Transform shape scales, rotates, skews, distorts, or warps selected vector content. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Transform shape selected vector content scale, rotate, skew, distort বা warp করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What should a student check when working with Transform shape?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Transform shape scales, rotates, skews, distorts, or warps selected vector content. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Transform shape selected vector content scale, rotate, skew, distort বা warp করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: In simple words, what does Direct Selection editing mean?
+Answer: English: Direct Selection editing moves individual anchor points and segments to reshape a vector shape.
+Bangla: Direct Selection editing individual anchor point ও segment সরিয়ে vector shape reshape করে।
+
+---
+
+Question: Why should a beginner learn Direct Selection editing?
+Answer: English: Direct Selection editing moves individual anchor points and segments to reshape a vector shape. This knowledge helps you make better decisions in this topic.
+Bangla: Direct Selection editing individual anchor point ও segment সরিয়ে vector shape reshape করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Direct Selection editing?
+Answer: English: Use a small, safe example and observe this result: Direct Selection editing moves individual anchor points and segments to reshape a vector shape. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Direct Selection editing individual anchor point ও segment সরিয়ে vector shape reshape করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Direct Selection editing?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Direct Selection editing moves individual anchor points and segments to reshape a vector shape. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Direct Selection editing individual anchor point ও segment সরিয়ে vector shape reshape করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What does Custom shape preset do?
+Answer: English: Custom shape preset saves a reusable vector path form for later drawing.
+Bangla: Custom shape preset পরে drawing-এর জন্য reusable vector path form save করে।
+
+---
+
+Question: When is Custom shape preset useful?
+Answer: English: Custom shape preset saves a reusable vector path form for later drawing. This knowledge helps you make better decisions in this topic.
+Bangla: Custom shape preset পরে drawing-এর জন্য reusable vector path form save করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Custom shape preset?
+Answer: English: Use a small, safe example and observe this result: Custom shape preset saves a reusable vector path form for later drawing. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Custom shape preset পরে drawing-এর জন্য reusable vector path form save করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What good habit should be followed when using Custom shape preset?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Custom shape preset saves a reusable vector path form for later drawing. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Custom shape preset পরে drawing-এর জন্য reusable vector path form save করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: How would you explain Vector mask to a beginner?
+Answer: English: Vector mask uses a path to show or hide layer content with clean editable edges.
+Bangla: Vector mask clean editable edge-সহ layer content show বা hide করতে path ব্যবহার করে।
+
+---
+
+Question: What problem does Vector mask help with?
+Answer: English: Vector mask uses a path to show or hide layer content with clean editable edges. This knowledge helps you make better decisions in this topic.
+Bangla: Vector mask clean editable edge-সহ layer content show বা hide করতে path ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Vector mask?
+Answer: English: Use a small, safe example and observe this result: Vector mask uses a path to show or hide layer content with clean editable edges. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Vector mask clean editable edge-সহ layer content show বা hide করতে path ব্যবহার করে। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: How can a student confirm that Vector mask is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Vector mask uses a path to show or hide layer content with clean editable edges. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Vector mask clean editable edge-সহ layer content show বা hide করতে path ব্যবহার করে। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।
+
+---
+
+Question: What is Vector master handoff?
+Answer: English: Vector master handoff moves approved logo geometry to Illustrator, Affinity Designer, or Inkscape for robust vector formats and production.
+Bangla: Vector master handoff robust vector format ও production-এর জন্য approved logo geometry Illustrator, Affinity Designer বা Inkscape-এ নেয়।
+
+---
+
+Question: Why is Vector master handoff important in this topic?
+Answer: English: Vector master handoff moves approved logo geometry to Illustrator, Affinity Designer, or Inkscape for robust vector formats and production. This knowledge helps you make better decisions in this topic.
+Bangla: Vector master handoff robust vector format ও production-এর জন্য approved logo geometry Illustrator, Affinity Designer বা Inkscape-এ নেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Vector master handoff?
+Answer: English: Use a small, safe example and observe this result: Vector master handoff moves approved logo geometry to Illustrator, Affinity Designer, or Inkscape for robust vector formats and production. Build an icon from simple shape layers, edit its fill and stroke, combine paths, and resize it several times.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Vector master handoff robust vector format ও production-এর জন্য approved logo geometry Illustrator, Affinity Designer বা Inkscape-এ নেয়। simple shape layer দিয়ে icon বানান, fill ও stroke edit করুন, path combine করুন এবং কয়েকবার resize করুন।
+
+---
+
+Question: What should a student check when working with Vector master handoff?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Vector master handoff moves approved logo geometry to Illustrator, Affinity Designer, or Inkscape for robust vector formats and production. Keep shapes as editable vector layers and move final logo masters to a dedicated vector application when full vector delivery is required.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Vector master handoff robust vector format ও production-এর জন্য approved logo geometry Illustrator, Affinity Designer বা Inkscape-এ নেয়। shape editable vector layer হিসেবে রাখুন এবং full vector delivery প্রয়োজন হলে final logo master dedicated vector application-এ নিন।

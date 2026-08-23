@@ -1,0 +1,597 @@
+Question: What is Selection?
+Answer: English: Selection isolates an image area so edits can be limited to that area.
+Bangla: Selection image-এর area আলাদা করে, যাতে edit ওই জায়গায় সীমিত রাখা যায়।
+
+---
+
+Question: Why is Selection important in this topic?
+Answer: English: Selection isolates an image area so edits can be limited to that area. This knowledge helps you make better decisions in this topic.
+Bangla: Selection image-এর area আলাদা করে, যাতে edit ওই জায়গায় সীমিত রাখা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Selection?
+Answer: English: Use a small, safe example and observe this result: Selection isolates an image area so edits can be limited to that area. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Selection image-এর area আলাদা করে, যাতে edit ওই জায়গায় সীমিত রাখা যায়। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What should a student check when working with Selection?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Selection isolates an image area so edits can be limited to that area. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Selection image-এর area আলাদা করে, যাতে edit ওই জায়গায় সীমিত রাখা যায়। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: In simple words, what does Rectangular Marquee tool mean?
+Answer: English: Rectangular Marquee tool makes rectangular selections and constrained square selections.
+Bangla: Rectangular Marquee tool rectangular selection ও constrained square selection তৈরি করে।
+
+---
+
+Question: Why should a beginner learn Rectangular Marquee tool?
+Answer: English: Rectangular Marquee tool makes rectangular selections and constrained square selections. This knowledge helps you make better decisions in this topic.
+Bangla: Rectangular Marquee tool rectangular selection ও constrained square selection তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Rectangular Marquee tool?
+Answer: English: Use a small, safe example and observe this result: Rectangular Marquee tool makes rectangular selections and constrained square selections. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Rectangular Marquee tool rectangular selection ও constrained square selection তৈরি করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What beginner mistake should be avoided with Rectangular Marquee tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Rectangular Marquee tool makes rectangular selections and constrained square selections. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Rectangular Marquee tool rectangular selection ও constrained square selection তৈরি করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What does Elliptical Marquee tool do?
+Answer: English: Elliptical Marquee tool makes elliptical selections and constrained circular selections.
+Bangla: Elliptical Marquee tool elliptical selection ও constrained circular selection তৈরি করে।
+
+---
+
+Question: When is Elliptical Marquee tool useful?
+Answer: English: Elliptical Marquee tool makes elliptical selections and constrained circular selections. This knowledge helps you make better decisions in this topic.
+Bangla: Elliptical Marquee tool elliptical selection ও constrained circular selection তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Elliptical Marquee tool?
+Answer: English: Use a small, safe example and observe this result: Elliptical Marquee tool makes elliptical selections and constrained circular selections. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Elliptical Marquee tool elliptical selection ও constrained circular selection তৈরি করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What good habit should be followed when using Elliptical Marquee tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Elliptical Marquee tool makes elliptical selections and constrained circular selections. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Elliptical Marquee tool elliptical selection ও constrained circular selection তৈরি করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: How would you explain Single Row Marquee tool to a beginner?
+Answer: English: Single Row Marquee tool selects a horizontal row that is one pixel high.
+Bangla: Single Row Marquee tool এক pixel height-এর horizontal row select করে।
+
+---
+
+Question: What problem does Single Row Marquee tool help with?
+Answer: English: Single Row Marquee tool selects a horizontal row that is one pixel high. This knowledge helps you make better decisions in this topic.
+Bangla: Single Row Marquee tool এক pixel height-এর horizontal row select করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Single Row Marquee tool?
+Answer: English: Use a small, safe example and observe this result: Single Row Marquee tool selects a horizontal row that is one pixel high. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Single Row Marquee tool এক pixel height-এর horizontal row select করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: How can a student confirm that Single Row Marquee tool is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Single Row Marquee tool selects a horizontal row that is one pixel high. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Single Row Marquee tool এক pixel height-এর horizontal row select করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What is Single Column Marquee tool?
+Answer: English: Single Column Marquee tool selects a vertical column that is one pixel wide.
+Bangla: Single Column Marquee tool এক pixel width-এর vertical column select করে।
+
+---
+
+Question: Why is Single Column Marquee tool important in this topic?
+Answer: English: Single Column Marquee tool selects a vertical column that is one pixel wide. This knowledge helps you make better decisions in this topic.
+Bangla: Single Column Marquee tool এক pixel width-এর vertical column select করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Single Column Marquee tool?
+Answer: English: Use a small, safe example and observe this result: Single Column Marquee tool selects a vertical column that is one pixel wide. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Single Column Marquee tool এক pixel width-এর vertical column select করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What should a student check when working with Single Column Marquee tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Single Column Marquee tool selects a vertical column that is one pixel wide. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Single Column Marquee tool এক pixel width-এর vertical column select করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: In simple words, what does Lasso tool mean?
+Answer: English: Lasso tool draws a freehand selection boundary.
+Bangla: Lasso tool freehand selection boundary আঁকে।
+
+---
+
+Question: Why should a beginner learn Lasso tool?
+Answer: English: Lasso tool draws a freehand selection boundary. This knowledge helps you make better decisions in this topic.
+Bangla: Lasso tool freehand selection boundary আঁকে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Lasso tool?
+Answer: English: Use a small, safe example and observe this result: Lasso tool draws a freehand selection boundary. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Lasso tool freehand selection boundary আঁকে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What beginner mistake should be avoided with Lasso tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Lasso tool draws a freehand selection boundary. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Lasso tool freehand selection boundary আঁকে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What does Polygonal Lasso tool do?
+Answer: English: Polygonal Lasso tool builds a straight-edged selection by placing connected points.
+Bangla: Polygonal Lasso tool connected point বসিয়ে straight-edged selection তৈরি করে।
+
+---
+
+Question: When is Polygonal Lasso tool useful?
+Answer: English: Polygonal Lasso tool builds a straight-edged selection by placing connected points. This knowledge helps you make better decisions in this topic.
+Bangla: Polygonal Lasso tool connected point বসিয়ে straight-edged selection তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Polygonal Lasso tool?
+Answer: English: Use a small, safe example and observe this result: Polygonal Lasso tool builds a straight-edged selection by placing connected points. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Polygonal Lasso tool connected point বসিয়ে straight-edged selection তৈরি করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What good habit should be followed when using Polygonal Lasso tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Polygonal Lasso tool builds a straight-edged selection by placing connected points. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Polygonal Lasso tool connected point বসিয়ে straight-edged selection তৈরি করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: How would you explain Magnetic Lasso tool to a beginner?
+Answer: English: Magnetic Lasso tool tries to snap a selection boundary to visible high-contrast edges.
+Bangla: Magnetic Lasso tool selection boundary-কে visible high-contrast edge-এর সঙ্গে snap করার চেষ্টা করে।
+
+---
+
+Question: What problem does Magnetic Lasso tool help with?
+Answer: English: Magnetic Lasso tool tries to snap a selection boundary to visible high-contrast edges. This knowledge helps you make better decisions in this topic.
+Bangla: Magnetic Lasso tool selection boundary-কে visible high-contrast edge-এর সঙ্গে snap করার চেষ্টা করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Magnetic Lasso tool?
+Answer: English: Use a small, safe example and observe this result: Magnetic Lasso tool tries to snap a selection boundary to visible high-contrast edges. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Magnetic Lasso tool selection boundary-কে visible high-contrast edge-এর সঙ্গে snap করার চেষ্টা করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: How can a student confirm that Magnetic Lasso tool is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Magnetic Lasso tool tries to snap a selection boundary to visible high-contrast edges. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Magnetic Lasso tool selection boundary-কে visible high-contrast edge-এর সঙ্গে snap করার চেষ্টা করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What is Object Selection tool?
+Answer: English: Object Selection tool uses object detection to help select a drawn or hovered object area.
+Bangla: Object Selection tool object detection ব্যবহার করে drawn বা hovered object area select করতে সাহায্য করে।
+
+---
+
+Question: Why is Object Selection tool important in this topic?
+Answer: English: Object Selection tool uses object detection to help select a drawn or hovered object area. This knowledge helps you make better decisions in this topic.
+Bangla: Object Selection tool object detection ব্যবহার করে drawn বা hovered object area select করতে সাহায্য করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Object Selection tool?
+Answer: English: Use a small, safe example and observe this result: Object Selection tool uses object detection to help select a drawn or hovered object area. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Object Selection tool object detection ব্যবহার করে drawn বা hovered object area select করতে সাহায্য করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What should a student check when working with Object Selection tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Object Selection tool uses object detection to help select a drawn or hovered object area. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Object Selection tool object detection ব্যবহার করে drawn বা hovered object area select করতে সাহায্য করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: In simple words, what does Quick Selection tool mean?
+Answer: English: Quick Selection tool grows a selection as you brush across similar image detail.
+Bangla: Quick Selection tool similar image detail-এর ওপর brush করলে selection বাড়ায়।
+
+---
+
+Question: Why should a beginner learn Quick Selection tool?
+Answer: English: Quick Selection tool grows a selection as you brush across similar image detail. This knowledge helps you make better decisions in this topic.
+Bangla: Quick Selection tool similar image detail-এর ওপর brush করলে selection বাড়ায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Quick Selection tool?
+Answer: English: Use a small, safe example and observe this result: Quick Selection tool grows a selection as you brush across similar image detail. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Quick Selection tool similar image detail-এর ওপর brush করলে selection বাড়ায়। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What beginner mistake should be avoided with Quick Selection tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Quick Selection tool grows a selection as you brush across similar image detail. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Quick Selection tool similar image detail-এর ওপর brush করলে selection বাড়ায়। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What does Magic Wand tool do?
+Answer: English: Magic Wand tool selects pixels with similar color or tone based on tolerance and other settings.
+Bangla: Magic Wand tool tolerance ও অন্যান্য setting অনুযায়ী similar color বা tone-এর pixel select করে।
+
+---
+
+Question: When is Magic Wand tool useful?
+Answer: English: Magic Wand tool selects pixels with similar color or tone based on tolerance and other settings. This knowledge helps you make better decisions in this topic.
+Bangla: Magic Wand tool tolerance ও অন্যান্য setting অনুযায়ী similar color বা tone-এর pixel select করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Magic Wand tool?
+Answer: English: Use a small, safe example and observe this result: Magic Wand tool selects pixels with similar color or tone based on tolerance and other settings. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Magic Wand tool tolerance ও অন্যান্য setting অনুযায়ী similar color বা tone-এর pixel select করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What good habit should be followed when using Magic Wand tool?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Magic Wand tool selects pixels with similar color or tone based on tolerance and other settings. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Magic Wand tool tolerance ও অন্যান্য setting অনুযায়ী similar color বা tone-এর pixel select করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: How would you explain Select Subject to a beginner?
+Answer: English: Select Subject automatically finds and selects the main subject as a starting point.
+Bangla: Select Subject starting point হিসেবে main subject automatically খুঁজে select করে।
+
+---
+
+Question: What problem does Select Subject help with?
+Answer: English: Select Subject automatically finds and selects the main subject as a starting point. This knowledge helps you make better decisions in this topic.
+Bangla: Select Subject starting point হিসেবে main subject automatically খুঁজে select করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Select Subject?
+Answer: English: Use a small, safe example and observe this result: Select Subject automatically finds and selects the main subject as a starting point. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Select Subject starting point হিসেবে main subject automatically খুঁজে select করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: How can a student confirm that Select Subject is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Select Subject automatically finds and selects the main subject as a starting point. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Select Subject starting point হিসেবে main subject automatically খুঁজে select করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What is Select and Mask?
+Answer: English: Select and Mask provides a workspace for viewing and refining selection or mask edges.
+Bangla: Select and Mask selection বা mask edge দেখা ও refine করার workspace দেয়।
+
+---
+
+Question: Why is Select and Mask important in this topic?
+Answer: English: Select and Mask provides a workspace for viewing and refining selection or mask edges. This knowledge helps you make better decisions in this topic.
+Bangla: Select and Mask selection বা mask edge দেখা ও refine করার workspace দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Select and Mask?
+Answer: English: Use a small, safe example and observe this result: Select and Mask provides a workspace for viewing and refining selection or mask edges. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Select and Mask selection বা mask edge দেখা ও refine করার workspace দেয়। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What should a student check when working with Select and Mask?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Select and Mask provides a workspace for viewing and refining selection or mask edges. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Select and Mask selection বা mask edge দেখা ও refine করার workspace দেয়। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: In simple words, what does Add to selection mean?
+Answer: English: Add to selection includes another area in the current selection.
+Bangla: Add to selection বর্তমান selection-এ আরেকটি area যোগ করে।
+
+---
+
+Question: Why should a beginner learn Add to selection?
+Answer: English: Add to selection includes another area in the current selection. This knowledge helps you make better decisions in this topic.
+Bangla: Add to selection বর্তমান selection-এ আরেকটি area যোগ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Add to selection?
+Answer: English: Use a small, safe example and observe this result: Add to selection includes another area in the current selection. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Add to selection বর্তমান selection-এ আরেকটি area যোগ করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What beginner mistake should be avoided with Add to selection?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Add to selection includes another area in the current selection. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Add to selection বর্তমান selection-এ আরেকটি area যোগ করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What does Subtract from selection do?
+Answer: English: Subtract from selection removes an area from the current selection.
+Bangla: Subtract from selection বর্তমান selection থেকে area বাদ দেয়।
+
+---
+
+Question: When is Subtract from selection useful?
+Answer: English: Subtract from selection removes an area from the current selection. This knowledge helps you make better decisions in this topic.
+Bangla: Subtract from selection বর্তমান selection থেকে area বাদ দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Subtract from selection?
+Answer: English: Use a small, safe example and observe this result: Subtract from selection removes an area from the current selection. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Subtract from selection বর্তমান selection থেকে area বাদ দেয়। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What good habit should be followed when using Subtract from selection?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Subtract from selection removes an area from the current selection. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Subtract from selection বর্তমান selection থেকে area বাদ দেয়। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: How would you explain Intersect selection to a beginner?
+Answer: English: Intersect selection keeps only the overlapping area between selection shapes.
+Bangla: Intersect selection selection shape-এর শুধু overlapping area রাখে।
+
+---
+
+Question: What problem does Intersect selection help with?
+Answer: English: Intersect selection keeps only the overlapping area between selection shapes. This knowledge helps you make better decisions in this topic.
+Bangla: Intersect selection selection shape-এর শুধু overlapping area রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Intersect selection?
+Answer: English: Use a small, safe example and observe this result: Intersect selection keeps only the overlapping area between selection shapes. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Intersect selection selection shape-এর শুধু overlapping area রাখে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: How can a student confirm that Intersect selection is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Intersect selection keeps only the overlapping area between selection shapes. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Intersect selection selection shape-এর শুধু overlapping area রাখে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What is Feather?
+Answer: English: Feather softens a selection boundary over a chosen distance.
+Bangla: Feather নির্দিষ্ট distance জুড়ে selection boundary নরম করে।
+
+---
+
+Question: Why is Feather important in this topic?
+Answer: English: Feather softens a selection boundary over a chosen distance. This knowledge helps you make better decisions in this topic.
+Bangla: Feather নির্দিষ্ট distance জুড়ে selection boundary নরম করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Feather?
+Answer: English: Use a small, safe example and observe this result: Feather softens a selection boundary over a chosen distance. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Feather নির্দিষ্ট distance জুড়ে selection boundary নরম করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What should a student check when working with Feather?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Feather softens a selection boundary over a chosen distance. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Feather নির্দিষ্ট distance জুড়ে selection boundary নরম করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: In simple words, what does Anti-alias mean?
+Answer: English: Anti-alias smooths jagged-looking curved or diagonal selection edges with partly selected pixels.
+Bangla: Anti-alias partly selected pixel দিয়ে jagged curved বা diagonal selection edge smooth করে।
+
+---
+
+Question: Why should a beginner learn Anti-alias?
+Answer: English: Anti-alias smooths jagged-looking curved or diagonal selection edges with partly selected pixels. This knowledge helps you make better decisions in this topic.
+Bangla: Anti-alias partly selected pixel দিয়ে jagged curved বা diagonal selection edge smooth করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Anti-alias?
+Answer: English: Use a small, safe example and observe this result: Anti-alias smooths jagged-looking curved or diagonal selection edges with partly selected pixels. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Anti-alias partly selected pixel দিয়ে jagged curved বা diagonal selection edge smooth করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What beginner mistake should be avoided with Anti-alias?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Anti-alias smooths jagged-looking curved or diagonal selection edges with partly selected pixels. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Anti-alias partly selected pixel দিয়ে jagged curved বা diagonal selection edge smooth করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What does Tolerance do?
+Answer: English: Tolerance controls how similar Magic Wand pixels must be to the sampled color.
+Bangla: Tolerance Magic Wand-এর pixel sampled color-এর কতটা similar হতে হবে তা নিয়ন্ত্রণ করে।
+
+---
+
+Question: When is Tolerance useful?
+Answer: English: Tolerance controls how similar Magic Wand pixels must be to the sampled color. This knowledge helps you make better decisions in this topic.
+Bangla: Tolerance Magic Wand-এর pixel sampled color-এর কতটা similar হতে হবে তা নিয়ন্ত্রণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Tolerance?
+Answer: English: Use a small, safe example and observe this result: Tolerance controls how similar Magic Wand pixels must be to the sampled color. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Tolerance Magic Wand-এর pixel sampled color-এর কতটা similar হতে হবে তা নিয়ন্ত্রণ করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What good habit should be followed when using Tolerance?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Tolerance controls how similar Magic Wand pixels must be to the sampled color. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Tolerance Magic Wand-এর pixel sampled color-এর কতটা similar হতে হবে তা নিয়ন্ত্রণ করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: How would you explain Contiguous to a beginner?
+Answer: English: Contiguous limits a color selection to connected pixels when enabled.
+Bangla: Contiguous চালু থাকলে color selection-কে connected pixel-এর মধ্যে সীমিত রাখে।
+
+---
+
+Question: What problem does Contiguous help with?
+Answer: English: Contiguous limits a color selection to connected pixels when enabled. This knowledge helps you make better decisions in this topic.
+Bangla: Contiguous চালু থাকলে color selection-কে connected pixel-এর মধ্যে সীমিত রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Contiguous?
+Answer: English: Use a small, safe example and observe this result: Contiguous limits a color selection to connected pixels when enabled. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Contiguous চালু থাকলে color selection-কে connected pixel-এর মধ্যে সীমিত রাখে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: How can a student confirm that Contiguous is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Contiguous limits a color selection to connected pixels when enabled. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Contiguous চালু থাকলে color selection-কে connected pixel-এর মধ্যে সীমিত রাখে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What is Sample All Layers?
+Answer: English: Sample All Layers uses visible information from multiple layers while creating some tool selections.
+Bangla: Sample All Layers কিছু tool selection তৈরির সময় একাধিক layer-এর visible তথ্য ব্যবহার করে।
+
+---
+
+Question: Why is Sample All Layers important in this topic?
+Answer: English: Sample All Layers uses visible information from multiple layers while creating some tool selections. This knowledge helps you make better decisions in this topic.
+Bangla: Sample All Layers কিছু tool selection তৈরির সময় একাধিক layer-এর visible তথ্য ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Sample All Layers?
+Answer: English: Use a small, safe example and observe this result: Sample All Layers uses visible information from multiple layers while creating some tool selections. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Sample All Layers কিছু tool selection তৈরির সময় একাধিক layer-এর visible তথ্য ব্যবহার করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What should a student check when working with Sample All Layers?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Sample All Layers uses visible information from multiple layers while creating some tool selections. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Sample All Layers কিছু tool selection তৈরির সময় একাধিক layer-এর visible তথ্য ব্যবহার করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: In simple words, what does Inverse selection mean?
+Answer: English: Inverse selection switches selected and unselected areas.
+Bangla: Inverse selection selected ও unselected area অদলবদল করে।
+
+---
+
+Question: Why should a beginner learn Inverse selection?
+Answer: English: Inverse selection switches selected and unselected areas. This knowledge helps you make better decisions in this topic.
+Bangla: Inverse selection selected ও unselected area অদলবদল করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Inverse selection?
+Answer: English: Use a small, safe example and observe this result: Inverse selection switches selected and unselected areas. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Inverse selection selected ও unselected area অদলবদল করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What beginner mistake should be avoided with Inverse selection?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Inverse selection switches selected and unselected areas. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Inverse selection selected ও unselected area অদলবদল করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What does Deselect and Reselect do?
+Answer: English: Deselect and Reselect removes the active selection boundary or restores the most recent selection when available.
+Bangla: Deselect and Reselect active selection boundary সরায় অথবা available থাকলে সর্বশেষ selection ফিরিয়ে আনে।
+
+---
+
+Question: When is Deselect and Reselect useful?
+Answer: English: Deselect and Reselect removes the active selection boundary or restores the most recent selection when available. This knowledge helps you make better decisions in this topic.
+Bangla: Deselect and Reselect active selection boundary সরায় অথবা available থাকলে সর্বশেষ selection ফিরিয়ে আনে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Deselect and Reselect?
+Answer: English: Use a small, safe example and observe this result: Deselect and Reselect removes the active selection boundary or restores the most recent selection when available. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Deselect and Reselect active selection boundary সরায় অথবা available থাকলে সর্বশেষ selection ফিরিয়ে আনে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What good habit should be followed when using Deselect and Reselect?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Deselect and Reselect removes the active selection boundary or restores the most recent selection when available. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Deselect and Reselect active selection boundary সরায় অথবা available থাকলে সর্বশেষ selection ফিরিয়ে আনে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: How would you explain Save and Load Selection to a beginner?
+Answer: English: Save and Load Selection stores a selection as an alpha channel and brings it back later.
+Bangla: Save and Load Selection selection-কে alpha channel হিসেবে save করে এবং পরে ফিরিয়ে আনে।
+
+---
+
+Question: What problem does Save and Load Selection help with?
+Answer: English: Save and Load Selection stores a selection as an alpha channel and brings it back later. This knowledge helps you make better decisions in this topic.
+Bangla: Save and Load Selection selection-কে alpha channel হিসেবে save করে এবং পরে ফিরিয়ে আনে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Save and Load Selection?
+Answer: English: Use a small, safe example and observe this result: Save and Load Selection stores a selection as an alpha channel and brings it back later. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Save and Load Selection selection-কে alpha channel হিসেবে save করে এবং পরে ফিরিয়ে আনে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: How can a student confirm that Save and Load Selection is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Save and Load Selection stores a selection as an alpha channel and brings it back later. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Save and Load Selection selection-কে alpha channel হিসেবে save করে এবং পরে ফিরিয়ে আনে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।
+
+---
+
+Question: What is Refine Hair?
+Answer: English: Refine Hair uses automated edge analysis in Select and Mask to improve many hair selections.
+Bangla: Refine Hair Select and Mask-এ automated edge analysis ব্যবহার করে অনেক hair selection উন্নত করে।
+
+---
+
+Question: Why is Refine Hair important in this topic?
+Answer: English: Refine Hair uses automated edge analysis in Select and Mask to improve many hair selections. This knowledge helps you make better decisions in this topic.
+Bangla: Refine Hair Select and Mask-এ automated edge analysis ব্যবহার করে অনেক hair selection উন্নত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Refine Hair?
+Answer: English: Use a small, safe example and observe this result: Refine Hair uses automated edge analysis in Select and Mask to improve many hair selections. Select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Refine Hair Select and Mask-এ automated edge analysis ব্যবহার করে অনেক hair selection উন্নত করে। আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: What should a student check when working with Refine Hair?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Refine Hair uses automated edge analysis in Select and Mask to improve many hair selections. Inspect selection edges against both light and dark backgrounds before accepting the result.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Refine Hair Select and Mask-এ automated edge analysis ব্যবহার করে অনেক hair selection উন্নত করে। result accept করার আগে light ও dark—দুই background-এর ওপর selection edge পরীক্ষা করুন।

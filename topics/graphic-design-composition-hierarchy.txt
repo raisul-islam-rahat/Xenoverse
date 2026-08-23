@@ -1,0 +1,597 @@
+Question: What is Design brief?
+Answer: English: Design brief states the problem, goal, audience, required content, deliverables, limits, and deadline.
+Bangla: Design brief problem, goal, audience, required content, deliverable, limit ও deadline জানায়।
+
+---
+
+Question: Why is Design brief important in this topic?
+Answer: English: Design brief states the problem, goal, audience, required content, deliverables, limits, and deadline. This knowledge helps you make better decisions in this topic.
+Bangla: Design brief problem, goal, audience, required content, deliverable, limit ও deadline জানায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Design brief?
+Answer: English: Use a small, safe example and observe this result: Design brief states the problem, goal, audience, required content, deliverables, limits, and deadline. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Design brief problem, goal, audience, required content, deliverable, limit ও deadline জানায়। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What should a student check when working with Design brief?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Design brief states the problem, goal, audience, required content, deliverables, limits, and deadline. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Design brief problem, goal, audience, required content, deliverable, limit ও deadline জানায়। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: In simple words, what does Target audience mean?
+Answer: English: Target audience is the specific group of people the design needs to reach.
+Bangla: Target audience যে নির্দিষ্ট মানুষের group-এর কাছে design পৌঁছাতে হবে।
+
+---
+
+Question: Why should a beginner learn Target audience?
+Answer: English: Target audience is the specific group of people the design needs to reach. This knowledge helps you make better decisions in this topic.
+Bangla: Target audience যে নির্দিষ্ট মানুষের group-এর কাছে design পৌঁছাতে হবে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Target audience?
+Answer: English: Use a small, safe example and observe this result: Target audience is the specific group of people the design needs to reach. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Target audience যে নির্দিষ্ট মানুষের group-এর কাছে design পৌঁছাতে হবে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Target audience?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Target audience is the specific group of people the design needs to reach. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Target audience যে নির্দিষ্ট মানুষের group-এর কাছে design পৌঁছাতে হবে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What does Design purpose do?
+Answer: English: Design purpose defines the action, understanding, or feeling the work should create.
+Bangla: Design purpose কাজটি কী action, understanding বা feeling তৈরি করবে তা নির্ধারণ করে।
+
+---
+
+Question: When is Design purpose useful?
+Answer: English: Design purpose defines the action, understanding, or feeling the work should create. This knowledge helps you make better decisions in this topic.
+Bangla: Design purpose কাজটি কী action, understanding বা feeling তৈরি করবে তা নির্ধারণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Design purpose?
+Answer: English: Use a small, safe example and observe this result: Design purpose defines the action, understanding, or feeling the work should create. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Design purpose কাজটি কী action, understanding বা feeling তৈরি করবে তা নির্ধারণ করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What good habit should be followed when using Design purpose?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Design purpose defines the action, understanding, or feeling the work should create. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Design purpose কাজটি কী action, understanding বা feeling তৈরি করবে তা নির্ধারণ করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: How would you explain Core message to a beginner?
+Answer: English: Core message is the most important idea the viewer should understand.
+Bangla: Core message viewer-এর বোঝার সবচেয়ে গুরুত্বপূর্ণ idea।
+
+---
+
+Question: What problem does Core message help with?
+Answer: English: Core message is the most important idea the viewer should understand. This knowledge helps you make better decisions in this topic.
+Bangla: Core message viewer-এর বোঝার সবচেয়ে গুরুত্বপূর্ণ idea। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Core message?
+Answer: English: Use a small, safe example and observe this result: Core message is the most important idea the viewer should understand. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Core message viewer-এর বোঝার সবচেয়ে গুরুত্বপূর্ণ idea। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: How can a student confirm that Core message is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Core message is the most important idea the viewer should understand. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Core message viewer-এর বোঝার সবচেয়ে গুরুত্বপূর্ণ idea। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What is Line?
+Answer: English: Line can divide space, guide the eye, show direction, or create style.
+Bangla: Line space divide, eye guide, direction show বা style তৈরি করতে পারে।
+
+---
+
+Question: Why is Line important in this topic?
+Answer: English: Line can divide space, guide the eye, show direction, or create style. This knowledge helps you make better decisions in this topic.
+Bangla: Line space divide, eye guide, direction show বা style তৈরি করতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Line?
+Answer: English: Use a small, safe example and observe this result: Line can divide space, guide the eye, show direction, or create style. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Line space divide, eye guide, direction show বা style তৈরি করতে পারে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What should a student check when working with Line?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Line can divide space, guide the eye, show direction, or create style. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Line space divide, eye guide, direction show বা style তৈরি করতে পারে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: In simple words, what does Shape mean?
+Answer: English: Shape is a flat enclosed visual area that can organize or symbolize information.
+Bangla: Shape flat enclosed visual area, যা information organize বা symbolize করতে পারে।
+
+---
+
+Question: Why should a beginner learn Shape?
+Answer: English: Shape is a flat enclosed visual area that can organize or symbolize information. This knowledge helps you make better decisions in this topic.
+Bangla: Shape flat enclosed visual area, যা information organize বা symbolize করতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Shape?
+Answer: English: Use a small, safe example and observe this result: Shape is a flat enclosed visual area that can organize or symbolize information. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Shape flat enclosed visual area, যা information organize বা symbolize করতে পারে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Shape?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Shape is a flat enclosed visual area that can organize or symbolize information. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Shape flat enclosed visual area, যা information organize বা symbolize করতে পারে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What does Texture do?
+Answer: English: Texture suggests how a surface looks or might feel.
+Bangla: Texture surface দেখতে বা অনুভব করতে কেমন হতে পারে তা বোঝায়।
+
+---
+
+Question: When is Texture useful?
+Answer: English: Texture suggests how a surface looks or might feel. This knowledge helps you make better decisions in this topic.
+Bangla: Texture surface দেখতে বা অনুভব করতে কেমন হতে পারে তা বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Texture?
+Answer: English: Use a small, safe example and observe this result: Texture suggests how a surface looks or might feel. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Texture surface দেখতে বা অনুভব করতে কেমন হতে পারে তা বোঝায়। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What good habit should be followed when using Texture?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Texture suggests how a surface looks or might feel. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Texture surface দেখতে বা অনুভব করতে কেমন হতে পারে তা বোঝায়। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: How would you explain Value to a beginner?
+Answer: English: Value describes how light or dark a visual element is.
+Bangla: Value visual element কত light বা dark তা বোঝায়।
+
+---
+
+Question: What problem does Value help with?
+Answer: English: Value describes how light or dark a visual element is. This knowledge helps you make better decisions in this topic.
+Bangla: Value visual element কত light বা dark তা বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Value?
+Answer: English: Use a small, safe example and observe this result: Value describes how light or dark a visual element is. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Value visual element কত light বা dark তা বোঝায়। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: How can a student confirm that Value is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Value describes how light or dark a visual element is. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Value visual element কত light বা dark তা বোঝায়। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What is Scale?
+Answer: English: Scale uses relative size to show importance, distance, or relationship.
+Bangla: Scale relative size দিয়ে importance, distance বা relationship দেখায়।
+
+---
+
+Question: Why is Scale important in this topic?
+Answer: English: Scale uses relative size to show importance, distance, or relationship. This knowledge helps you make better decisions in this topic.
+Bangla: Scale relative size দিয়ে importance, distance বা relationship দেখায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Scale?
+Answer: English: Use a small, safe example and observe this result: Scale uses relative size to show importance, distance, or relationship. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Scale relative size দিয়ে importance, distance বা relationship দেখায়। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What should a student check when working with Scale?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Scale uses relative size to show importance, distance, or relationship. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Scale relative size দিয়ে importance, distance বা relationship দেখায়। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: In simple words, what does Visual balance mean?
+Answer: English: Visual balance distributes visual weight so the composition feels stable or intentionally dynamic.
+Bangla: Visual balance visual weight distribute করে, যাতে composition stable বা intentionally dynamic লাগে।
+
+---
+
+Question: Why should a beginner learn Visual balance?
+Answer: English: Visual balance distributes visual weight so the composition feels stable or intentionally dynamic. This knowledge helps you make better decisions in this topic.
+Bangla: Visual balance visual weight distribute করে, যাতে composition stable বা intentionally dynamic লাগে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Visual balance?
+Answer: English: Use a small, safe example and observe this result: Visual balance distributes visual weight so the composition feels stable or intentionally dynamic. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Visual balance visual weight distribute করে, যাতে composition stable বা intentionally dynamic লাগে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Visual balance?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Visual balance distributes visual weight so the composition feels stable or intentionally dynamic. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Visual balance visual weight distribute করে, যাতে composition stable বা intentionally dynamic লাগে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What does Symmetrical balance do?
+Answer: English: Symmetrical balance places similar visual weight on matching sides of an axis.
+Bangla: Symmetrical balance একটি axis-এর matching side-এ similar visual weight বসায়।
+
+---
+
+Question: When is Symmetrical balance useful?
+Answer: English: Symmetrical balance places similar visual weight on matching sides of an axis. This knowledge helps you make better decisions in this topic.
+Bangla: Symmetrical balance একটি axis-এর matching side-এ similar visual weight বসায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Symmetrical balance?
+Answer: English: Use a small, safe example and observe this result: Symmetrical balance places similar visual weight on matching sides of an axis. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Symmetrical balance একটি axis-এর matching side-এ similar visual weight বসায়। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What good habit should be followed when using Symmetrical balance?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Symmetrical balance places similar visual weight on matching sides of an axis. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Symmetrical balance একটি axis-এর matching side-এ similar visual weight বসায়। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: How would you explain Asymmetrical balance to a beginner?
+Answer: English: Asymmetrical balance balances different elements through size, color, position, or contrast.
+Bangla: Asymmetrical balance size, color, position বা contrast দিয়ে different element balance করে।
+
+---
+
+Question: What problem does Asymmetrical balance help with?
+Answer: English: Asymmetrical balance balances different elements through size, color, position, or contrast. This knowledge helps you make better decisions in this topic.
+Bangla: Asymmetrical balance size, color, position বা contrast দিয়ে different element balance করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Asymmetrical balance?
+Answer: English: Use a small, safe example and observe this result: Asymmetrical balance balances different elements through size, color, position, or contrast. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Asymmetrical balance size, color, position বা contrast দিয়ে different element balance করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: How can a student confirm that Asymmetrical balance is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Asymmetrical balance balances different elements through size, color, position, or contrast. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Asymmetrical balance size, color, position বা contrast দিয়ে different element balance করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What is Contrast?
+Answer: English: Contrast makes differences clear so information is easier to notice and read.
+Bangla: Contrast difference clear করে, যাতে information সহজে notice ও read করা যায়।
+
+---
+
+Question: Why is Contrast important in this topic?
+Answer: English: Contrast makes differences clear so information is easier to notice and read. This knowledge helps you make better decisions in this topic.
+Bangla: Contrast difference clear করে, যাতে information সহজে notice ও read করা যায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Contrast?
+Answer: English: Use a small, safe example and observe this result: Contrast makes differences clear so information is easier to notice and read. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Contrast difference clear করে, যাতে information সহজে notice ও read করা যায়। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What should a student check when working with Contrast?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Contrast makes differences clear so information is easier to notice and read. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Contrast difference clear করে, যাতে information সহজে notice ও read করা যায়। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: In simple words, what does Emphasis mean?
+Answer: English: Emphasis makes one element attract attention before less important elements.
+Bangla: Emphasis কম গুরুত্বপূর্ণ element-এর আগে একটি element-এ attention আনে।
+
+---
+
+Question: Why should a beginner learn Emphasis?
+Answer: English: Emphasis makes one element attract attention before less important elements. This knowledge helps you make better decisions in this topic.
+Bangla: Emphasis কম গুরুত্বপূর্ণ element-এর আগে একটি element-এ attention আনে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Emphasis?
+Answer: English: Use a small, safe example and observe this result: Emphasis makes one element attract attention before less important elements. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Emphasis কম গুরুত্বপূর্ণ element-এর আগে একটি element-এ attention আনে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Emphasis?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Emphasis makes one element attract attention before less important elements. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Emphasis কম গুরুত্বপূর্ণ element-এর আগে একটি element-এ attention আনে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What does Visual hierarchy do?
+Answer: English: Visual hierarchy sets the order in which viewers notice and understand information.
+Bangla: Visual hierarchy viewer কোন order-এ information notice ও understand করবে তা নির্ধারণ করে।
+
+---
+
+Question: When is Visual hierarchy useful?
+Answer: English: Visual hierarchy sets the order in which viewers notice and understand information. This knowledge helps you make better decisions in this topic.
+Bangla: Visual hierarchy viewer কোন order-এ information notice ও understand করবে তা নির্ধারণ করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Visual hierarchy?
+Answer: English: Use a small, safe example and observe this result: Visual hierarchy sets the order in which viewers notice and understand information. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Visual hierarchy viewer কোন order-এ information notice ও understand করবে তা নির্ধারণ করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What good habit should be followed when using Visual hierarchy?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Visual hierarchy sets the order in which viewers notice and understand information. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Visual hierarchy viewer কোন order-এ information notice ও understand করবে তা নির্ধারণ করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: How would you explain Alignment to a beginner?
+Answer: English: Alignment creates visible relationships by lining elements up to shared edges or centers.
+Bangla: Alignment shared edge বা center অনুযায়ী element বসিয়ে visible relationship তৈরি করে।
+
+---
+
+Question: What problem does Alignment help with?
+Answer: English: Alignment creates visible relationships by lining elements up to shared edges or centers. This knowledge helps you make better decisions in this topic.
+Bangla: Alignment shared edge বা center অনুযায়ী element বসিয়ে visible relationship তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Alignment?
+Answer: English: Use a small, safe example and observe this result: Alignment creates visible relationships by lining elements up to shared edges or centers. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Alignment shared edge বা center অনুযায়ী element বসিয়ে visible relationship তৈরি করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: How can a student confirm that Alignment is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Alignment creates visible relationships by lining elements up to shared edges or centers. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Alignment shared edge বা center অনুযায়ী element বসিয়ে visible relationship তৈরি করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What is Proximity?
+Answer: English: Proximity groups related items by placing them closer together.
+Bangla: Proximity related item কাছাকাছি বসিয়ে group করে।
+
+---
+
+Question: Why is Proximity important in this topic?
+Answer: English: Proximity groups related items by placing them closer together. This knowledge helps you make better decisions in this topic.
+Bangla: Proximity related item কাছাকাছি বসিয়ে group করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Proximity?
+Answer: English: Use a small, safe example and observe this result: Proximity groups related items by placing them closer together. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Proximity related item কাছাকাছি বসিয়ে group করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What should a student check when working with Proximity?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Proximity groups related items by placing them closer together. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Proximity related item কাছাকাছি বসিয়ে group করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: In simple words, what does Repetition mean?
+Answer: English: Repetition reuses visual choices to build consistency and recognition.
+Bangla: Repetition consistency ও recognition তৈরির জন্য visual choice আবার ব্যবহার করে।
+
+---
+
+Question: Why should a beginner learn Repetition?
+Answer: English: Repetition reuses visual choices to build consistency and recognition. This knowledge helps you make better decisions in this topic.
+Bangla: Repetition consistency ও recognition তৈরির জন্য visual choice আবার ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Repetition?
+Answer: English: Use a small, safe example and observe this result: Repetition reuses visual choices to build consistency and recognition. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Repetition consistency ও recognition তৈরির জন্য visual choice আবার ব্যবহার করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Repetition?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Repetition reuses visual choices to build consistency and recognition. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Repetition consistency ও recognition তৈরির জন্য visual choice আবার ব্যবহার করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What does Rhythm do?
+Answer: English: Rhythm creates a visual beat through repeated elements and changing intervals.
+Bangla: Rhythm repeated element ও changing interval দিয়ে visual beat তৈরি করে।
+
+---
+
+Question: When is Rhythm useful?
+Answer: English: Rhythm creates a visual beat through repeated elements and changing intervals. This knowledge helps you make better decisions in this topic.
+Bangla: Rhythm repeated element ও changing interval দিয়ে visual beat তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Rhythm?
+Answer: English: Use a small, safe example and observe this result: Rhythm creates a visual beat through repeated elements and changing intervals. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Rhythm repeated element ও changing interval দিয়ে visual beat তৈরি করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What good habit should be followed when using Rhythm?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Rhythm creates a visual beat through repeated elements and changing intervals. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Rhythm repeated element ও changing interval দিয়ে visual beat তৈরি করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: How would you explain Movement to a beginner?
+Answer: English: Movement guides the viewer's eye through the composition.
+Bangla: Movement composition-এর ভেতর viewer-এর eye guide করে।
+
+---
+
+Question: What problem does Movement help with?
+Answer: English: Movement guides the viewer's eye through the composition. This knowledge helps you make better decisions in this topic.
+Bangla: Movement composition-এর ভেতর viewer-এর eye guide করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Movement?
+Answer: English: Use a small, safe example and observe this result: Movement guides the viewer's eye through the composition. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Movement composition-এর ভেতর viewer-এর eye guide করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: How can a student confirm that Movement is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Movement guides the viewer's eye through the composition. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Movement composition-এর ভেতর viewer-এর eye guide করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What is Unity?
+Answer: English: Unity makes different elements feel as if they belong to one complete design.
+Bangla: Unity different element-কে একটি complete design-এর অংশ মনে করায়।
+
+---
+
+Question: Why is Unity important in this topic?
+Answer: English: Unity makes different elements feel as if they belong to one complete design. This knowledge helps you make better decisions in this topic.
+Bangla: Unity different element-কে একটি complete design-এর অংশ মনে করায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Unity?
+Answer: English: Use a small, safe example and observe this result: Unity makes different elements feel as if they belong to one complete design. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Unity different element-কে একটি complete design-এর অংশ মনে করায়। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What should a student check when working with Unity?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Unity makes different elements feel as if they belong to one complete design. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Unity different element-কে একটি complete design-এর অংশ মনে করায়। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: In simple words, what does Negative space mean?
+Answer: English: Negative space is intentionally empty space that separates, frames, or gives breathing room to content.
+Bangla: Negative space intentionally empty space, যা content separate, frame বা breathing room দেয়।
+
+---
+
+Question: Why should a beginner learn Negative space?
+Answer: English: Negative space is intentionally empty space that separates, frames, or gives breathing room to content. This knowledge helps you make better decisions in this topic.
+Bangla: Negative space intentionally empty space, যা content separate, frame বা breathing room দেয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Negative space?
+Answer: English: Use a small, safe example and observe this result: Negative space is intentionally empty space that separates, frames, or gives breathing room to content. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Negative space intentionally empty space, যা content separate, frame বা breathing room দেয়। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Negative space?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Negative space is intentionally empty space that separates, frames, or gives breathing room to content. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Negative space intentionally empty space, যা content separate, frame বা breathing room দেয়। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What does Focal point do?
+Answer: English: Focal point is the first or strongest area of attention in a composition.
+Bangla: Focal point composition-এর প্রথম বা strongest attention area।
+
+---
+
+Question: When is Focal point useful?
+Answer: English: Focal point is the first or strongest area of attention in a composition. This knowledge helps you make better decisions in this topic.
+Bangla: Focal point composition-এর প্রথম বা strongest attention area। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Focal point?
+Answer: English: Use a small, safe example and observe this result: Focal point is the first or strongest area of attention in a composition. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Focal point composition-এর প্রথম বা strongest attention area। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What good habit should be followed when using Focal point?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Focal point is the first or strongest area of attention in a composition. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Focal point composition-এর প্রথম বা strongest attention area। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: How would you explain Composition to a beginner?
+Answer: English: Composition is the deliberate arrangement of all visual elements inside the design area.
+Bangla: Composition design area-এর ভেতরে সব visual element-এর deliberate arrangement।
+
+---
+
+Question: What problem does Composition help with?
+Answer: English: Composition is the deliberate arrangement of all visual elements inside the design area. This knowledge helps you make better decisions in this topic.
+Bangla: Composition design area-এর ভেতরে সব visual element-এর deliberate arrangement। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Composition?
+Answer: English: Use a small, safe example and observe this result: Composition is the deliberate arrangement of all visual elements inside the design area. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Composition design area-এর ভেতরে সব visual element-এর deliberate arrangement। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: How can a student confirm that Composition is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Composition is the deliberate arrangement of all visual elements inside the design area. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Composition design area-এর ভেতরে সব visual element-এর deliberate arrangement। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: What is Design iteration?
+Answer: English: Design iteration improves a concept through multiple versions, comparison, feedback, and revision.
+Bangla: Design iteration multiple version, comparison, feedback ও revision-এর মাধ্যমে concept উন্নত করে।
+
+---
+
+Question: Why is Design iteration important in this topic?
+Answer: English: Design iteration improves a concept through multiple versions, comparison, feedback, and revision. This knowledge helps you make better decisions in this topic.
+Bangla: Design iteration multiple version, comparison, feedback ও revision-এর মাধ্যমে concept উন্নত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Design iteration?
+Answer: English: Use a small, safe example and observe this result: Design iteration improves a concept through multiple versions, comparison, feedback, and revision. Redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Design iteration multiple version, comparison, feedback ও revision-এর মাধ্যমে concept উন্নত করে। একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: What should a student check when working with Design iteration?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Design iteration improves a concept through multiple versions, comparison, feedback, and revision. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Design iteration multiple version, comparison, feedback ও revision-এর মাধ্যমে concept উন্নত করে। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।

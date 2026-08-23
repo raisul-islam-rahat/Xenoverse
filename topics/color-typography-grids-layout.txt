@@ -1,0 +1,597 @@
+Question: What is Hue?
+Answer: English: Hue is the basic color family, such as red, blue, green, or yellow.
+Bangla: Hue red, blue, green বা yellow-এর মতো basic color family।
+
+---
+
+Question: Why is Hue important in this topic?
+Answer: English: Hue is the basic color family, such as red, blue, green, or yellow. This knowledge helps you make better decisions in this topic.
+Bangla: Hue red, blue, green বা yellow-এর মতো basic color family। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Hue?
+Answer: English: Use a small, safe example and observe this result: Hue is the basic color family, such as red, blue, green, or yellow. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Hue red, blue, green বা yellow-এর মতো basic color family। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What should a student check when working with Hue?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Hue is the basic color family, such as red, blue, green, or yellow. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Hue red, blue, green বা yellow-এর মতো basic color family। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: In simple words, what does Saturation mean?
+Answer: English: Saturation describes how strong or gray a color appears.
+Bangla: Saturation color কত strong বা gray দেখায় তা বোঝায়।
+
+---
+
+Question: Why should a beginner learn Saturation?
+Answer: English: Saturation describes how strong or gray a color appears. This knowledge helps you make better decisions in this topic.
+Bangla: Saturation color কত strong বা gray দেখায় তা বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Saturation?
+Answer: English: Use a small, safe example and observe this result: Saturation describes how strong or gray a color appears. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Saturation color কত strong বা gray দেখায় তা বোঝায়। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Saturation?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Saturation describes how strong or gray a color appears. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Saturation color কত strong বা gray দেখায় তা বোঝায়। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What does Brightness or value do?
+Answer: English: Brightness or value describes how light or dark a color appears.
+Bangla: Brightness or value color কত light বা dark দেখায় তা বোঝায়।
+
+---
+
+Question: When is Brightness or value useful?
+Answer: English: Brightness or value describes how light or dark a color appears. This knowledge helps you make better decisions in this topic.
+Bangla: Brightness or value color কত light বা dark দেখায় তা বোঝায়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Brightness or value?
+Answer: English: Use a small, safe example and observe this result: Brightness or value describes how light or dark a color appears. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Brightness or value color কত light বা dark দেখায় তা বোঝায়। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What good habit should be followed when using Brightness or value?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Brightness or value describes how light or dark a color appears. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Brightness or value color কত light বা dark দেখায় তা বোঝায়। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: How would you explain Color wheel to a beginner?
+Answer: English: Color wheel arranges hues in a circle to show useful color relationships.
+Bangla: Color wheel useful color relationship দেখাতে hue-কে circle-এ arrange করে।
+
+---
+
+Question: What problem does Color wheel help with?
+Answer: English: Color wheel arranges hues in a circle to show useful color relationships. This knowledge helps you make better decisions in this topic.
+Bangla: Color wheel useful color relationship দেখাতে hue-কে circle-এ arrange করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Color wheel?
+Answer: English: Use a small, safe example and observe this result: Color wheel arranges hues in a circle to show useful color relationships. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Color wheel useful color relationship দেখাতে hue-কে circle-এ arrange করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: How can a student confirm that Color wheel is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Color wheel arranges hues in a circle to show useful color relationships. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Color wheel useful color relationship দেখাতে hue-কে circle-এ arrange করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What is Primary colors?
+Answer: English: Primary colors are base colors used by a chosen color model to build other colors.
+Bangla: Primary colors chosen color model-এ অন্য color তৈরির base color।
+
+---
+
+Question: Why is Primary colors important in this topic?
+Answer: English: Primary colors are base colors used by a chosen color model to build other colors. This knowledge helps you make better decisions in this topic.
+Bangla: Primary colors chosen color model-এ অন্য color তৈরির base color। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Primary colors?
+Answer: English: Use a small, safe example and observe this result: Primary colors are base colors used by a chosen color model to build other colors. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Primary colors chosen color model-এ অন্য color তৈরির base color। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What should a student check when working with Primary colors?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Primary colors are base colors used by a chosen color model to build other colors. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Primary colors chosen color model-এ অন্য color তৈরির base color। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: In simple words, what does Secondary colors mean?
+Answer: English: Secondary colors are formed by mixing pairs of primary colors in a given color model.
+Bangla: Secondary colors একটি color model-এ primary color-এর pair mix করে তৈরি হয়।
+
+---
+
+Question: Why should a beginner learn Secondary colors?
+Answer: English: Secondary colors are formed by mixing pairs of primary colors in a given color model. This knowledge helps you make better decisions in this topic.
+Bangla: Secondary colors একটি color model-এ primary color-এর pair mix করে তৈরি হয়। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Secondary colors?
+Answer: English: Use a small, safe example and observe this result: Secondary colors are formed by mixing pairs of primary colors in a given color model. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Secondary colors একটি color model-এ primary color-এর pair mix করে তৈরি হয়। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Secondary colors?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Secondary colors are formed by mixing pairs of primary colors in a given color model. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Secondary colors একটি color model-এ primary color-এর pair mix করে তৈরি হয়। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What does Complementary colors do?
+Answer: English: Complementary colors sit opposite each other on a color wheel and create strong contrast.
+Bangla: Complementary colors color wheel-এ একে অন্যের opposite-এ থাকে এবং strong contrast তৈরি করে।
+
+---
+
+Question: When is Complementary colors useful?
+Answer: English: Complementary colors sit opposite each other on a color wheel and create strong contrast. This knowledge helps you make better decisions in this topic.
+Bangla: Complementary colors color wheel-এ একে অন্যের opposite-এ থাকে এবং strong contrast তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Complementary colors?
+Answer: English: Use a small, safe example and observe this result: Complementary colors sit opposite each other on a color wheel and create strong contrast. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Complementary colors color wheel-এ একে অন্যের opposite-এ থাকে এবং strong contrast তৈরি করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What good habit should be followed when using Complementary colors?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Complementary colors sit opposite each other on a color wheel and create strong contrast. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Complementary colors color wheel-এ একে অন্যের opposite-এ থাকে এবং strong contrast তৈরি করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: How would you explain Analogous colors to a beginner?
+Answer: English: Analogous colors sit near each other on a color wheel and often feel related and calm.
+Bangla: Analogous colors color wheel-এ কাছাকাছি থাকে এবং সাধারণত related ও calm লাগে।
+
+---
+
+Question: What problem does Analogous colors help with?
+Answer: English: Analogous colors sit near each other on a color wheel and often feel related and calm. This knowledge helps you make better decisions in this topic.
+Bangla: Analogous colors color wheel-এ কাছাকাছি থাকে এবং সাধারণত related ও calm লাগে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Analogous colors?
+Answer: English: Use a small, safe example and observe this result: Analogous colors sit near each other on a color wheel and often feel related and calm. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Analogous colors color wheel-এ কাছাকাছি থাকে এবং সাধারণত related ও calm লাগে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: How can a student confirm that Analogous colors is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Analogous colors sit near each other on a color wheel and often feel related and calm. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Analogous colors color wheel-এ কাছাকাছি থাকে এবং সাধারণত related ও calm লাগে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What is Triadic colors?
+Answer: English: Triadic colors use three hues spaced around a color wheel for a balanced colorful scheme.
+Bangla: Triadic colors balanced colorful scheme-এর জন্য color wheel-এ দূরত্ব রেখে তিন hue ব্যবহার করে।
+
+---
+
+Question: Why is Triadic colors important in this topic?
+Answer: English: Triadic colors use three hues spaced around a color wheel for a balanced colorful scheme. This knowledge helps you make better decisions in this topic.
+Bangla: Triadic colors balanced colorful scheme-এর জন্য color wheel-এ দূরত্ব রেখে তিন hue ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Triadic colors?
+Answer: English: Use a small, safe example and observe this result: Triadic colors use three hues spaced around a color wheel for a balanced colorful scheme. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Triadic colors balanced colorful scheme-এর জন্য color wheel-এ দূরত্ব রেখে তিন hue ব্যবহার করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What should a student check when working with Triadic colors?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Triadic colors use three hues spaced around a color wheel for a balanced colorful scheme. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Triadic colors balanced colorful scheme-এর জন্য color wheel-এ দূরত্ব রেখে তিন hue ব্যবহার করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: In simple words, what does Warm colors mean?
+Answer: English: Warm colors often include reds, oranges, and yellows and can feel energetic or close.
+Bangla: Warm colors সাধারণত red, orange ও yellow অন্তর্ভুক্ত করে এবং energetic বা close লাগতে পারে।
+
+---
+
+Question: Why should a beginner learn Warm colors?
+Answer: English: Warm colors often include reds, oranges, and yellows and can feel energetic or close. This knowledge helps you make better decisions in this topic.
+Bangla: Warm colors সাধারণত red, orange ও yellow অন্তর্ভুক্ত করে এবং energetic বা close লাগতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Warm colors?
+Answer: English: Use a small, safe example and observe this result: Warm colors often include reds, oranges, and yellows and can feel energetic or close. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Warm colors সাধারণত red, orange ও yellow অন্তর্ভুক্ত করে এবং energetic বা close লাগতে পারে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Warm colors?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Warm colors often include reds, oranges, and yellows and can feel energetic or close. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Warm colors সাধারণত red, orange ও yellow অন্তর্ভুক্ত করে এবং energetic বা close লাগতে পারে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What does Cool colors do?
+Answer: English: Cool colors often include blues, greens, and violets and can feel calm or distant.
+Bangla: Cool colors সাধারণত blue, green ও violet অন্তর্ভুক্ত করে এবং calm বা distant লাগতে পারে।
+
+---
+
+Question: When is Cool colors useful?
+Answer: English: Cool colors often include blues, greens, and violets and can feel calm or distant. This knowledge helps you make better decisions in this topic.
+Bangla: Cool colors সাধারণত blue, green ও violet অন্তর্ভুক্ত করে এবং calm বা distant লাগতে পারে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Cool colors?
+Answer: English: Use a small, safe example and observe this result: Cool colors often include blues, greens, and violets and can feel calm or distant. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Cool colors সাধারণত blue, green ও violet অন্তর্ভুক্ত করে এবং calm বা distant লাগতে পারে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What good habit should be followed when using Cool colors?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Cool colors often include blues, greens, and violets and can feel calm or distant. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Cool colors সাধারণত blue, green ও violet অন্তর্ভুক্ত করে এবং calm বা distant লাগতে পারে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: How would you explain Color palette to a beginner?
+Answer: English: Color palette is a controlled set of colors chosen for one design or brand system.
+Bangla: Color palette এক design বা brand system-এর জন্য selected controlled color set।
+
+---
+
+Question: What problem does Color palette help with?
+Answer: English: Color palette is a controlled set of colors chosen for one design or brand system. This knowledge helps you make better decisions in this topic.
+Bangla: Color palette এক design বা brand system-এর জন্য selected controlled color set। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Color palette?
+Answer: English: Use a small, safe example and observe this result: Color palette is a controlled set of colors chosen for one design or brand system. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Color palette এক design বা brand system-এর জন্য selected controlled color set। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: How can a student confirm that Color palette is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Color palette is a controlled set of colors chosen for one design or brand system. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Color palette এক design বা brand system-এর জন্য selected controlled color set। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What is Color contrast?
+Answer: English: Color contrast creates visible separation and affects readability and accessibility.
+Bangla: Color contrast visible separation তৈরি করে এবং readability ও accessibility-তে প্রভাব ফেলে।
+
+---
+
+Question: Why is Color contrast important in this topic?
+Answer: English: Color contrast creates visible separation and affects readability and accessibility. This knowledge helps you make better decisions in this topic.
+Bangla: Color contrast visible separation তৈরি করে এবং readability ও accessibility-তে প্রভাব ফেলে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Color contrast?
+Answer: English: Use a small, safe example and observe this result: Color contrast creates visible separation and affects readability and accessibility. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Color contrast visible separation তৈরি করে এবং readability ও accessibility-তে প্রভাব ফেলে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What should a student check when working with Color contrast?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Color contrast creates visible separation and affects readability and accessibility. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Color contrast visible separation তৈরি করে এবং readability ও accessibility-তে প্রভাব ফেলে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: In simple words, what does Typeface mean?
+Answer: English: Typeface is the designed family of letterforms, while a font is a specific usable style or file within it.
+Bangla: Typeface designed letterform family; আর font হলো এর ভেতরের নির্দিষ্ট usable style বা file।
+
+---
+
+Question: Why should a beginner learn Typeface?
+Answer: English: Typeface is the designed family of letterforms, while a font is a specific usable style or file within it. This knowledge helps you make better decisions in this topic.
+Bangla: Typeface designed letterform family; আর font হলো এর ভেতরের নির্দিষ্ট usable style বা file। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Typeface?
+Answer: English: Use a small, safe example and observe this result: Typeface is the designed family of letterforms, while a font is a specific usable style or file within it. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Typeface designed letterform family; আর font হলো এর ভেতরের নির্দিষ্ট usable style বা file। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Typeface?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Typeface is the designed family of letterforms, while a font is a specific usable style or file within it. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Typeface designed letterform family; আর font হলো এর ভেতরের নির্দিষ্ট usable style বা file। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What does Serif typeface do?
+Answer: English: Serif typeface uses small finishing strokes on many letterforms.
+Bangla: Serif typeface অনেক letterform-এ small finishing stroke ব্যবহার করে।
+
+---
+
+Question: When is Serif typeface useful?
+Answer: English: Serif typeface uses small finishing strokes on many letterforms. This knowledge helps you make better decisions in this topic.
+Bangla: Serif typeface অনেক letterform-এ small finishing stroke ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Serif typeface?
+Answer: English: Use a small, safe example and observe this result: Serif typeface uses small finishing strokes on many letterforms. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Serif typeface অনেক letterform-এ small finishing stroke ব্যবহার করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What good habit should be followed when using Serif typeface?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Serif typeface uses small finishing strokes on many letterforms. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Serif typeface অনেক letterform-এ small finishing stroke ব্যবহার করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: How would you explain Sans serif typeface to a beginner?
+Answer: English: Sans serif typeface uses letterforms without traditional finishing serifs.
+Bangla: Sans serif typeface traditional finishing serif ছাড়া letterform ব্যবহার করে।
+
+---
+
+Question: What problem does Sans serif typeface help with?
+Answer: English: Sans serif typeface uses letterforms without traditional finishing serifs. This knowledge helps you make better decisions in this topic.
+Bangla: Sans serif typeface traditional finishing serif ছাড়া letterform ব্যবহার করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Sans serif typeface?
+Answer: English: Use a small, safe example and observe this result: Sans serif typeface uses letterforms without traditional finishing serifs. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Sans serif typeface traditional finishing serif ছাড়া letterform ব্যবহার করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: How can a student confirm that Sans serif typeface is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Sans serif typeface uses letterforms without traditional finishing serifs. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Sans serif typeface traditional finishing serif ছাড়া letterform ব্যবহার করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What is Display typeface?
+Answer: English: Display typeface is designed mainly for attention at larger sizes rather than long body text.
+Bangla: Display typeface long body text-এর বদলে বড় size-এ attention পাওয়ার জন্য design করা।
+
+---
+
+Question: Why is Display typeface important in this topic?
+Answer: English: Display typeface is designed mainly for attention at larger sizes rather than long body text. This knowledge helps you make better decisions in this topic.
+Bangla: Display typeface long body text-এর বদলে বড় size-এ attention পাওয়ার জন্য design করা। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Display typeface?
+Answer: English: Use a small, safe example and observe this result: Display typeface is designed mainly for attention at larger sizes rather than long body text. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Display typeface long body text-এর বদলে বড় size-এ attention পাওয়ার জন্য design করা। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What should a student check when working with Display typeface?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Display typeface is designed mainly for attention at larger sizes rather than long body text. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Display typeface long body text-এর বদলে বড় size-এ attention পাওয়ার জন্য design করা। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: In simple words, what does Type pairing mean?
+Answer: English: Type pairing combines typefaces that support the same message while providing useful contrast.
+Bangla: Type pairing useful contrast দিয়ে একই message support করা typeface combine করে।
+
+---
+
+Question: Why should a beginner learn Type pairing?
+Answer: English: Type pairing combines typefaces that support the same message while providing useful contrast. This knowledge helps you make better decisions in this topic.
+Bangla: Type pairing useful contrast দিয়ে একই message support করা typeface combine করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Type pairing?
+Answer: English: Use a small, safe example and observe this result: Type pairing combines typefaces that support the same message while providing useful contrast. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Type pairing useful contrast দিয়ে একই message support করা typeface combine করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Type pairing?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Type pairing combines typefaces that support the same message while providing useful contrast. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Type pairing useful contrast দিয়ে একই message support করা typeface combine করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What does Typographic hierarchy do?
+Answer: English: Typographic hierarchy uses size, weight, spacing, position, and color to order text importance.
+Bangla: Typographic hierarchy size, weight, spacing, position ও color দিয়ে text importance order করে।
+
+---
+
+Question: When is Typographic hierarchy useful?
+Answer: English: Typographic hierarchy uses size, weight, spacing, position, and color to order text importance. This knowledge helps you make better decisions in this topic.
+Bangla: Typographic hierarchy size, weight, spacing, position ও color দিয়ে text importance order করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Typographic hierarchy?
+Answer: English: Use a small, safe example and observe this result: Typographic hierarchy uses size, weight, spacing, position, and color to order text importance. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Typographic hierarchy size, weight, spacing, position ও color দিয়ে text importance order করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What good habit should be followed when using Typographic hierarchy?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Typographic hierarchy uses size, weight, spacing, position, and color to order text importance. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Typographic hierarchy size, weight, spacing, position ও color দিয়ে text importance order করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: How would you explain Readable line length to a beginner?
+Answer: English: Readable line length keeps body-text lines at a comfortable width for repeated reading.
+Bangla: Readable line length বারবার পড়ার জন্য body-text line comfortable width-এ রাখে।
+
+---
+
+Question: What problem does Readable line length help with?
+Answer: English: Readable line length keeps body-text lines at a comfortable width for repeated reading. This knowledge helps you make better decisions in this topic.
+Bangla: Readable line length বারবার পড়ার জন্য body-text line comfortable width-এ রাখে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Readable line length?
+Answer: English: Use a small, safe example and observe this result: Readable line length keeps body-text lines at a comfortable width for repeated reading. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Readable line length বারবার পড়ার জন্য body-text line comfortable width-এ রাখে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: How can a student confirm that Readable line length is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Readable line length keeps body-text lines at a comfortable width for repeated reading. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Readable line length বারবার পড়ার জন্য body-text line comfortable width-এ রাখে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What is Column grid?
+Answer: English: Column grid divides a layout into vertical areas for consistent placement.
+Bangla: Column grid consistent placement-এর জন্য layout-কে vertical area-তে divide করে।
+
+---
+
+Question: Why is Column grid important in this topic?
+Answer: English: Column grid divides a layout into vertical areas for consistent placement. This knowledge helps you make better decisions in this topic.
+Bangla: Column grid consistent placement-এর জন্য layout-কে vertical area-তে divide করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Column grid?
+Answer: English: Use a small, safe example and observe this result: Column grid divides a layout into vertical areas for consistent placement. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Column grid consistent placement-এর জন্য layout-কে vertical area-তে divide করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What should a student check when working with Column grid?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Column grid divides a layout into vertical areas for consistent placement. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Column grid consistent placement-এর জন্য layout-কে vertical area-তে divide করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: In simple words, what does Margin mean?
+Answer: English: Margin creates space between content and the outer edge or trim.
+Bangla: Margin content ও outer edge বা trim-এর মধ্যে space তৈরি করে।
+
+---
+
+Question: Why should a beginner learn Margin?
+Answer: English: Margin creates space between content and the outer edge or trim. This knowledge helps you make better decisions in this topic.
+Bangla: Margin content ও outer edge বা trim-এর মধ্যে space তৈরি করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: What is a simple exercise for learning Margin?
+Answer: English: Use a small, safe example and observe this result: Margin creates space between content and the outer edge or trim. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Margin content ও outer edge বা trim-এর মধ্যে space তৈরি করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What beginner mistake should be avoided with Margin?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Margin creates space between content and the outer edge or trim. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Margin content ও outer edge বা trim-এর মধ্যে space তৈরি করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What does Gutter do?
+Answer: English: Gutter is the space between columns or facing-page content areas.
+Bangla: Gutter column বা facing-page content area-এর মাঝের space।
+
+---
+
+Question: When is Gutter useful?
+Answer: English: Gutter is the space between columns or facing-page content areas. This knowledge helps you make better decisions in this topic.
+Bangla: Gutter column বা facing-page content area-এর মাঝের space। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How should a student test Gutter?
+Answer: English: Use a small, safe example and observe this result: Gutter is the space between columns or facing-page content areas. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Gutter column বা facing-page content area-এর মাঝের space। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What good habit should be followed when using Gutter?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Gutter is the space between columns or facing-page content areas. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Gutter column বা facing-page content area-এর মাঝের space। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: How would you explain Baseline grid to a beginner?
+Answer: English: Baseline grid aligns repeated lines of text to a shared vertical rhythm.
+Bangla: Baseline grid repeated text line-কে shared vertical rhythm-এ align করে।
+
+---
+
+Question: What problem does Baseline grid help with?
+Answer: English: Baseline grid aligns repeated lines of text to a shared vertical rhythm. This knowledge helps you make better decisions in this topic.
+Bangla: Baseline grid repeated text line-কে shared vertical rhythm-এ align করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a student become comfortable with Baseline grid?
+Answer: English: Use a small, safe example and observe this result: Baseline grid aligns repeated lines of text to a shared vertical rhythm. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Baseline grid repeated text line-কে shared vertical rhythm-এ align করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: How can a student confirm that Baseline grid is understood correctly?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Baseline grid aligns repeated lines of text to a shared vertical rhythm. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Baseline grid repeated text line-কে shared vertical rhythm-এ align করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: What is Whitespace?
+Answer: English: Whitespace uses unfilled space to improve grouping, focus, readability, and visual calm.
+Bangla: Whitespace unfilled space দিয়ে grouping, focus, readability ও visual calm উন্নত করে।
+
+---
+
+Question: Why is Whitespace important in this topic?
+Answer: English: Whitespace uses unfilled space to improve grouping, focus, readability, and visual calm. This knowledge helps you make better decisions in this topic.
+Bangla: Whitespace unfilled space দিয়ে grouping, focus, readability ও visual calm উন্নত করে। এটি জানলে এই topic-এ সঠিক সিদ্ধান্ত নেওয়া সহজ হয়।
+
+---
+
+Question: How can a beginner practise Whitespace?
+Answer: English: Use a small, safe example and observe this result: Whitespace uses unfilled space to improve grouping, focus, readability, and visual calm. Build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: ছোট ও নিরাপদ example-এ এই ফলটি দেখুন: Whitespace unfilled space দিয়ে grouping, focus, readability ও visual calm উন্নত করে। small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: What should a student check when working with Whitespace?
+Answer: English: Do not memorize only the name. Check that you can explain and recognize this: Whitespace uses unfilled space to improve grouping, focus, readability, and visual calm. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: শুধু নাম মুখস্থ করবেন না। বিষয়টি ব্যাখ্যা ও চিনতে পারছেন কি না দেখুন: Whitespace unfilled space দিয়ে grouping, focus, readability ও visual calm উন্নত করে। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
