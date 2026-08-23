@@ -1,0 +1,93 @@
+Question: What is the difference between hue, saturation, and brightness or value?
+Answer: English: Hue is the basic color family, such as red, blue, green, or yellow. Saturation describes how strong or gray a color appears. Brightness or value describes how light or dark a color appears.
+Apply it through the chapter project: build a small brand palette, pair two typefaces, and arrange the same content on a simple column grid with clear spacing.
+Bangla: Hue red, blue, green বা yellow-এর মতো basic color family। Saturation color কত strong বা gray দেখায় তা বোঝায়। Brightness or value color কত light বা dark দেখায় তা বোঝায়।
+chapter project-এর মাধ্যমে এটি apply করুন: small brand palette বানান, দুইটি typeface pair করুন এবং clear spacing-সহ simple column grid-এ একই content arrange করুন।
+
+---
+
+Question: How do the color wheel, primary colors, and secondary colors show color relationships?
+Answer: English: Color wheel arranges hues in a circle to show useful color relationships. Primary colors are base colors used by a chosen color model to build other colors. Secondary colors are formed by mixing pairs of primary colors in a given color model.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Color wheel useful color relationship দেখাতে hue-কে circle-এ arrange করে। Primary colors chosen color model-এ অন্য color তৈরির base color। Secondary colors একটি color model-এ primary color-এর pair mix করে তৈরি হয়।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: When should I use complementary, analogous, or triadic color schemes?
+Answer: English: Complementary colors sit opposite each other on a color wheel and create strong contrast. Analogous colors sit near each other on a color wheel and often feel related and calm. Triadic colors use three hues spaced around a color wheel for a balanced colorful scheme.
+Choose the option from the real use case, output size, brand rules, and production limits—not from personal taste alone.
+Bangla: Complementary colors color wheel-এ একে অন্যের opposite-এ থাকে এবং strong contrast তৈরি করে। Analogous colors color wheel-এ কাছাকাছি থাকে এবং সাধারণত related ও calm লাগে। Triadic colors balanced colorful scheme-এর জন্য color wheel-এ দূরত্ব রেখে তিন hue ব্যবহার করে।
+শুধু personal taste থেকে নয়; real use case, output size, brand rule ও production limit অনুযায়ী option choose করুন।
+
+---
+
+Question: How do warm and cool colors affect the feeling of a design?
+Answer: English: Warm colors often include reds, oranges, and yellows and can feel energetic or close. Cool colors often include blues, greens, and violets and can feel calm or distant.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Warm colors সাধারণত red, orange ও yellow অন্তর্ভুক্ত করে এবং energetic বা close লাগতে পারে। Cool colors সাধারণত blue, green ও violet অন্তর্ভুক্ত করে এবং calm বা distant লাগতে পারে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How do I build a controlled palette with enough color contrast?
+Answer: English: Color palette is a controlled set of colors chosen for one design or brand system. Color contrast creates visible separation and affects readability and accessibility.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Color palette এক design বা brand system-এর জন্য selected controlled color set। Color contrast visible separation তৈরি করে এবং readability ও accessibility-তে প্রভাব ফেলে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: What is the difference between a typeface and a font?
+Answer: English: Typeface is the designed family of letterforms, while a font is a specific usable style or file within it.
+Place both versions side by side at the real viewing size and choose according to the brief, audience, message, and production requirement.
+Bangla: Typeface designed letterform family; আর font হলো এর ভেতরের নির্দিষ্ট usable style বা file।
+real viewing size-এ দুইটি version পাশাপাশি রাখুন এবং brief, audience, message ও production requirement অনুযায়ী choose করুন।
+
+---
+
+Question: When should I choose serif, sans serif, or display type?
+Answer: English: Serif typeface uses small finishing strokes on many letterforms. Sans serif typeface uses letterforms without traditional finishing serifs. Display typeface is designed mainly for attention at larger sizes rather than long body text.
+Choose the option from the real use case, output size, brand rules, and production limits—not from personal taste alone.
+Bangla: Serif typeface অনেক letterform-এ small finishing stroke ব্যবহার করে। Sans serif typeface traditional finishing serif ছাড়া letterform ব্যবহার করে। Display typeface long body text-এর বদলে বড় size-এ attention পাওয়ার জন্য design করা।
+শুধু personal taste থেকে নয়; real use case, output size, brand rule ও production limit অনুযায়ী option choose করুন।
+
+---
+
+Question: How do I pair two typefaces without making the design look inconsistent?
+Answer: English: Type pairing combines typefaces that support the same message while providing useful contrast.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Type pairing useful contrast দিয়ে একই message support করা typeface combine করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How does typographic hierarchy show which text should be read first?
+Answer: English: Typographic hierarchy uses size, weight, spacing, position, and color to order text importance.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Typographic hierarchy size, weight, spacing, position ও color দিয়ে text importance order করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: Why does line length affect the readability of body text?
+Answer: English: Readable line length keeps body-text lines at a comfortable width for repeated reading.
+Record it as a design or production requirement and verify it before approval. Check color contrast and text readability on the real output size, and use grids as guides rather than automatic design solutions.
+Bangla: Readable line length বারবার পড়ার জন্য body-text line comfortable width-এ রাখে।
+এটিকে design বা production requirement হিসেবে record করুন এবং approval-এর আগে verify করুন। real output size-এ color contrast ও text readability দেখুন এবং grid-কে automatic design solution নয়, guide হিসেবে ব্যবহার করুন।
+
+---
+
+Question: How do columns, margins, gutters, and a baseline grid organize a layout?
+Answer: English: Column grid divides a layout into vertical areas for consistent placement. Margin creates space between content and the outer edge or trim. Gutter is the space between columns or facing-page content areas. Baseline grid aligns repeated lines of text to a shared vertical rhythm.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Column grid consistent placement-এর জন্য layout-কে vertical area-তে divide করে। Margin content ও outer edge বা trim-এর মধ্যে space তৈরি করে। Gutter column বা facing-page content area-এর মাঝের space। Baseline grid repeated text line-কে shared vertical rhythm-এ align করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How does whitespace improve readability and focus?
+Answer: English: Whitespace uses unfilled space to improve grouping, focus, readability, and visual calm.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Whitespace unfilled space দিয়ে grouping, focus, readability ও visual calm উন্নত করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।

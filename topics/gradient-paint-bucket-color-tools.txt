@@ -1,0 +1,85 @@
+Question: How do foreground color, background color, and the Color Picker work together?
+Answer: English: Foreground color is the main color used by painting, filling, and many drawing actions. Background color is the secondary working color used by some fills, erasing actions, and gradients. Color Picker chooses a color using a visual field and numeric color values.
+Practise it through the chapter task: sample colors from a photo, save useful swatches, build five gradient types, and fill controlled selections on new layers.
+Bangla: Foreground color painting, filling ও অনেক drawing action-এর main color। Background color কিছু fill, erasing action ও gradient-এ ব্যবহৃত secondary working color। Color Picker visual field ও numeric color value দিয়ে color বেছে নেয়।
+chapter task-এর মাধ্যমে এটি practise করুন: photo থেকে color sample করুন, useful swatch save করুন, পাঁচ ধরনের gradient বানান এবং new layer-এ controlled selection fill করুন।
+
+---
+
+Question: How do Eyedropper sample size and Sample All Layers affect the sampled color?
+Answer: English: Eyedropper tool samples a color from the image or supported on-screen source. Eyedropper sample size averages color from one pixel or a larger area to reduce accidental noise. Eyedropper Sample All Layers samples the visible composite instead of only the active layer.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Eyedropper tool image বা supported on-screen source থেকে color sample করে। Eyedropper sample size এক pixel বা বড় area থেকে average color নেয়, যাতে accidental noise কমে। Eyedropper Sample All Layers শুধু active layer-এর বদলে visible composite sample করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: How do Color Sampler points and the Info panel help check exact values?
+Answer: English: Color Sampler tool places persistent sample points whose values can be monitored in the Info panel. Info panel shows numeric color and measurement information for the pointer and sampler points.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Color Sampler tool persistent sample point বসায়, যার value Info panel-এ দেখা যায়। Info panel pointer ও sampler point-এর numeric color ও measurement information দেখায়।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: How do I save and reuse colors in the Swatches panel?
+Answer: English: Swatches panel stores colors for quick and consistent reuse. Saved swatch records a chosen color value for later use in the project.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Swatches panel দ্রুত ও consistentভাবে আবার ব্যবহারের জন্য color রাখে। Saved swatch project-এ পরে ব্যবহারের জন্য chosen color value সংরক্ষণ করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What do the Gradient tool and Gradient Editor control?
+Answer: English: Gradient tool draws a gradual transition between colors, transparency values, or both. Gradient Editor edits gradient color stops, opacity stops, locations, midpoints, and smoothness.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Gradient tool color, transparency value বা দুটির মধ্যে gradual transition আঁকে। Gradient Editor gradient color stop, opacity stop, location, midpoint ও smoothness edit করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: When should I use Linear, Radial, Angular, Reflected, or Diamond gradients?
+Answer: English: Linear gradient changes color along a straight line. Radial gradient changes color outward from a center point in a circular form. Angular gradient sweeps color around a center point. Reflected gradient mirrors a linear gradient on both sides of its starting point. Diamond gradient expands color outward in a diamond-shaped pattern.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: Linear gradient straight line বরাবর color পরিবর্তন করে। Radial gradient center point থেকে circular form-এ বাইরে color পরিবর্তন করে। Angular gradient center point-এর চারপাশে color sweep করে। Reflected gradient starting point-এর দুই পাশে linear gradient mirror করে। Diamond gradient diamond-shaped pattern-এ color বাইরে expand করে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: What is the difference between a gradient color stop and opacity stop?
+Answer: English: Color stop sets a color and position within a gradient. Opacity stop sets transparency at a position within a gradient.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Color stop gradient-এর ভেতরে color ও position নির্ধারণ করে। Opacity stop gradient-এর একটি position-এ transparency নির্ধারণ করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How do Paint Bucket tolerance and Contiguous control a fill?
+Answer: English: Paint Bucket tool fills connected or similar-colored pixels with a foreground color or pattern. Paint Bucket tolerance controls the range of colors included in the fill. Paint Bucket Contiguous limits a fill to connected matching pixels when enabled.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Paint Bucket tool connected বা similar-colored pixel-কে foreground color বা pattern দিয়ে fill করে। Paint Bucket tolerance fill-এর মধ্যে included color range নিয়ন্ত্রণ করে। Paint Bucket Contiguous চালু থাকলে fill-কে connected matching pixel-এর মধ্যে সীমিত রাখে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: When is the Fill command more useful than Paint Bucket?
+Answer: English: Fill command fills a selection or layer with a chosen color, pattern, history state, or supported content option.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: Fill command selection বা layer-কে chosen color, pattern, history state বা supported content option দিয়ে fill করে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: Why should I record Hex and RGB values for screen colors?
+Answer: English: Hex and RGB values give numeric ways to record and repeat screen-oriented colors.
+Use this as a workflow checkpoint before committing the edit. Check color mode and profile, use a new layer or fill layer when possible, and do not trust an uncalibrated screen for exact print color.
+Bangla: Hex and RGB values screen-oriented color record ও repeat করার numeric method দেয়।
+edit commit করার আগে এটিকে workflow checkpoint হিসেবে ব্যবহার করুন। color mode ও profile দেখুন, সম্ভব হলে new layer বা fill layer ব্যবহার করুন এবং exact print color-এর জন্য uncalibrated screen বিশ্বাস করবেন না।
+
+---
+
+Question: What does a gamut warning tell me about an output color?
+Answer: English: Gamut warning indicates colors that may not fit the currently targeted output color space.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Gamut warning currently targeted output color space-এর বাইরে থাকতে পারে এমন color নির্দেশ করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।

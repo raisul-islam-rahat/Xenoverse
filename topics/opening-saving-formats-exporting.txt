@@ -1,0 +1,109 @@
+Question: How do Open and Open Recent help me access an existing file?
+Answer: English: Open loads a supported existing file as a Photoshop document. Open Recent shows recently opened documents for quicker access.
+Practise it through the chapter task: save one editable master and export separate web and print copies with clear filenames.
+Bangla: Open সমর্থিত existing file-কে Photoshop document হিসেবে খোলে। Open Recent দ্রুত access-এর জন্য সম্প্রতি খোলা document দেখায়।
+chapter task-এর মাধ্যমে এটি practise করুন: একটি editable master save করুন এবং পরিষ্কার filename দিয়ে আলাদা web ও print copy export করুন।
+
+---
+
+Question: What is the difference between Place Embedded and Place Linked?
+Answer: English: Place Embedded adds another file inside the document as a self-contained Smart Object. Place Linked adds a Smart Object that refers to an external source file.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Place Embedded অন্য file-কে self-contained Smart Object হিসেবে document-এর ভেতরে যোগ করে। Place Linked external source file-এর সঙ্গে যুক্ত Smart Object যোগ করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: What is the difference between Save, Save As, and Save a Copy?
+Answer: English: Save writes current changes to the active document file. Save As saves the document with a chosen name, location, and available editable format. Save a Copy creates a separate copy in another supported format without changing the active master document.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Save active document file-এ বর্তমান change সংরক্ষণ করে। Save As নির্বাচিত name, location ও available editable format-এ document save করে। Save a Copy active master document না বদলে অন্য supported format-এ আলাদা copy তৈরি করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: When should I use PSD, and when is the larger PSB format needed?
+Answer: English: PSD format preserves many Photoshop features and is the normal editable master format. PSB format supports very large Photoshop documents beyond normal PSD limits.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: PSD format অনেক Photoshop feature ধরে রাখে এবং সাধারণ editable master format। PSB format সাধারণ PSD limit-এর চেয়ে বড় Photoshop document সমর্থন করে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: When should I export JPEG or PNG?
+Answer: English: JPEG format creates a widely supported compressed image but does not preserve normal transparency or editable layers. PNG format supports lossless compression and transparency for many screen graphics.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: JPEG format widely supported compressed image তৈরি করে, কিন্তু সাধারণ transparency বা editable layer রাখে না। PNG format অনেক screen graphic-এর জন্য lossless compression ও transparency সমর্থন করে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: What are TIFF and Photoshop PDF commonly used for?
+Answer: English: TIFF format supports high-quality image storage and is common in some print, scan, and archive workflows. Photoshop PDF can carry image and some editable Photoshop information while fitting PDF delivery workflows.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: TIFF format high-quality image storage সমর্থন করে এবং কিছু print, scan ও archive workflow-তে প্রচলিত। Photoshop PDF PDF delivery workflow-এর সঙ্গে মানিয়ে image ও কিছু editable Photoshop তথ্য রাখতে পারে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What are the strengths and limits of GIF and WebP?
+Answer: English: GIF format supports indexed color, simple transparency, and basic frame animation but has limited color. WebP format offers modern web compression and can support transparency depending on the chosen settings.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: GIF format indexed color, simple transparency ও basic frame animation সমর্থন করে, তবে color সীমিত। WebP format modern web compression দেয় এবং selected setting অনুযায়ী transparency সমর্থন করতে পারে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is a camera raw file, and why is it normally opened through Camera Raw?
+Answer: English: Camera raw file contains minimally processed camera sensor data and is normally adjusted through Adobe Camera Raw.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Camera raw file কম process করা camera sensor data রাখে এবং সাধারণত Adobe Camera Raw দিয়ে adjust করা হয়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is the difference between Export As, Quick Export, and Save for Web Legacy?
+Answer: English: Export As creates delivery assets with control over format, size, scale, transparency, and related options. Quick Export exports quickly with a format and settings chosen in preferences. Save for Web Legacy provides an older preview-based workflow for optimizing web images.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Export As format, size, scale, transparency ও related option নিয়ন্ত্রণ করে delivery asset তৈরি করে। Quick Export Preferences-এ বেছে রাখা format ও setting দিয়ে দ্রুত export করে। Save for Web Legacy web image optimize করার পুরোনো preview-based workflow দেয়।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How do compression and quality settings affect an exported image?
+Answer: English: Compression reduces file size by storing image data more efficiently, sometimes by discarding detail. Quality setting balances visible image detail against delivery file size in formats such as JPEG.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Compression image data আরও efficientভাবে রেখে file size কমায় এবং কখনও detail বাদ দেয়। Quality setting JPEG-এর মতো format-এ visible detail ও delivery file size-এর মধ্যে ভারসাম্য রাখে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: Which formats can keep a transparent background?
+Answer: English: Transparency allows fully or partly clear areas when the chosen format supports an alpha channel.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Transparency chosen format alpha channel সমর্থন করলে সম্পূর্ণ বা আংশিক স্বচ্ছ area রাখতে দেয়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is image metadata, and when should I keep or remove it?
+Answer: English: Metadata stores extra information such as author, copyright, camera details, keywords, or dates.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Metadata author, copyright, camera detail, keyword বা date-এর মতো অতিরিক্ত তথ্য রাখে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: Why should I embed a color profile when the workflow supports it?
+Answer: English: Embed color profile includes color-space information so other color-managed systems can interpret colors more consistently.
+Use this as a workflow checkpoint before committing the edit. Never replace the only editable master with a flattened or heavily compressed delivery file.
+Bangla: Embed color profile color-space তথ্য যুক্ত করে, যাতে অন্য color-managed system আরও consistentভাবে color বুঝতে পারে।
+edit commit করার আগে এটিকে workflow checkpoint হিসেবে ব্যবহার করুন। একমাত্র editable master-কে flattened বা বেশি compressed delivery file দিয়ে replace করবেন না।
+
+---
+
+Question: How do versioned filenames protect a project from accidental overwriting?
+Answer: English: Versioned filename uses clear names such as project_v01 and project_v02 so stages are not accidentally overwritten.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Versioned filename project_v01 ও project_v02-এর মতো পরিষ্কার name দিয়ে stage আলাদা রাখে, যাতে ভুলে overwrite না হয়।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।

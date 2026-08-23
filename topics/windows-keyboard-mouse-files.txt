@@ -1,0 +1,101 @@
+Question: How do the Windows desktop, Start menu, and taskbar help me open and switch work?
+Answer: English: Windows desktop is the main work area that appears after you sign in. Start menu opens applications, settings, search, and power options. Taskbar shows pinned apps, open windows, notifications, and system controls.
+Use this as the starting point for the chapter exercise: practise inside a temporary folder so you can click, rename, copy, move, and delete without risking important files.
+Bangla: Windows desktop sign in করার পর দেখা প্রধান কাজের জায়গা। Start menu application, settings, search ও power option খোলে। Taskbar pinned app, খোলা window, notification ও system control দেখায়।
+chapter exercise-এর starting point হিসেবে এটি ব্যবহার করুন: একটি temporary folder-এর ভেতরে click, rename, copy, move ও delete অনুশীলন করুন, যাতে গুরুত্বপূর্ণ file-এর ঝুঁকি না থাকে।
+
+---
+
+Question: What are an application window and an icon?
+Answer: English: Application window is the on-screen area where one program is displayed and controlled. Icon is a small picture that represents an app, file, folder, or command.
+Find one real example on your own computer and explain its purpose in your own words instead of memorizing only the name.
+Bangla: Application window screen-এর যে জায়গায় একটি program দেখা ও নিয়ন্ত্রণ করা হয়। Icon app, file, folder বা command বোঝানো ছোট ছবি।
+নিজের computer-এ একটি real example খুঁজুন এবং শুধু name মুখস্থ না করে নিজের ভাষায় purpose explain করুন।
+
+---
+
+Question: When should I single-click, double-click, or right-click an item?
+Answer: English: Single-click selects an item or activates a button. Double-click usually opens a file, folder, or desktop application. Right-click opens a menu of actions related to the selected place or item.
+Find one real example on your own computer and explain its purpose in your own words instead of memorizing only the name.
+Bangla: Single-click কোনো item select করে বা button চালু করে। Double-click সাধারণত file, folder বা desktop application খোলে। Right-click নির্বাচিত জায়গা বা item-সংক্রান্ত কাজের menu খোলে।
+নিজের computer-এ একটি real example খুঁজুন এবং শুধু name মুখস্থ না করে নিজের ভাষায় purpose explain করুন।
+
+---
+
+Question: How do drag-and-drop and scrolling work with a mouse?
+Answer: English: Drag and drop moves or places an item by holding the mouse button while moving the pointer. Scroll moves the visible page or list up, down, or sideways.
+Practise the task on a safe example, watch what changes, and repeat it until you can complete it without risking an important file.
+Bangla: Drag and drop mouse button ধরে pointer সরিয়ে কোনো item move বা place করে। Scroll দেখা page বা list-কে ওপর, নিচ বা পাশে সরায়।
+safe example-এ task practise করুন, কী change হয় দেখুন এবং important file-এর risk ছাড়া করতে পারা পর্যন্ত repeat করুন।
+
+---
+
+Question: What is a keyboard shortcut, and why is it useful in design work?
+Answer: English: Keyboard shortcut runs a command by pressing a planned key combination.
+Find one real example on your own computer and explain its purpose in your own words instead of memorizing only the name.
+Bangla: Keyboard shortcut নির্দিষ্ট key combination চেপে command চালায়।
+নিজের computer-এ একটি real example খুঁজুন এবং শুধু name মুখস্থ না করে নিজের ভাষায় purpose explain করুন।
+
+---
+
+Question: How do copy, cut, paste, and undo shortcuts work?
+Answer: English: Ctrl+C and Ctrl+V copy the selected item and paste a copy into another place. Ctrl+X cuts the selected item so it can be moved with Paste. Ctrl+Z undoes the most recent supported action.
+Practise the task on a safe example, watch what changes, and repeat it until you can complete it without risking an important file.
+Bangla: Ctrl+C and Ctrl+V selected item copy করে অন্য জায়গায় তার copy paste করে। Ctrl+X selected item cut করে, যাতে Paste দিয়ে অন্য জায়গায় move করা যায়। Ctrl+Z সর্বশেষ সমর্থিত কাজটি undo করে।
+safe example-এ task practise করুন, কী change হয় দেখুন এবং important file-এর risk ছাড়া করতে পারা পর্যন্ত repeat করুন।
+
+---
+
+Question: How do File Explorer, drives, and file paths show where my work is stored?
+Answer: English: File Explorer browses drives, folders, and files in Windows. Drive is a storage location shown with a name and usually a letter such as C. File path shows the exact drive and folders where an item is stored.
+Practise the task on a safe example, watch what changes, and repeat it until you can complete it without risking an important file.
+Bangla: File Explorer Windows-এর drive, folder ও file দেখতে ও পরিচালনা করতে দেয়। Drive name এবং সাধারণত C-এর মতো letter দিয়ে দেখানো storage location। File path কোন drive ও folder-এর ভেতরে item রাখা আছে তার সঠিক ঠিকানা দেখায়।
+safe example-এ task practise করুন, কী change হয় দেখুন এবং important file-এর risk ছাড়া করতে পারা পর্যন্ত repeat করুন।
+
+---
+
+Question: What is the difference between renaming, copying, and moving a file?
+Answer: English: Rename changes an item's name without changing its contents. Copy creates another version of the selected file or folder. Move changes the storage location of a file or folder.
+Compare the items on a real computer, note the job of each one, and explain which one you would choose in a simple daily situation.
+Bangla: Rename item-এর ভেতরের content না বদলে তার name পরিবর্তন করে। Copy selected file বা folder-এর আরেকটি copy তৈরি করে। Move file বা folder-এর storage location পরিবর্তন করে।
+real computer-এ itemগুলো compare করুন, প্রতিটির কাজ লিখুন এবং simple daily situation-এ কোনটি choose করবেন তা explain করুন।
+
+---
+
+Question: What happens when I delete a file to the Recycle Bin?
+Answer: English: Recycle Bin temporarily holds many deleted local items so they may be restored.
+Find one real example on your own computer and explain its purpose in your own words instead of memorizing only the name.
+Bangla: Recycle Bin অনেক deleted local item সাময়িকভাবে রাখে, যাতে প্রয়োজন হলে restore করা যায়।
+নিজের computer-এ একটি real example খুঁজুন এবং শুধু name মুখস্থ না করে নিজের ভাষায় purpose explain করুন।
+
+---
+
+Question: What is a file extension, and why should I display it?
+Answer: English: File extension is the ending such as PSD, JPG, PNG, or TXT that helps identify a file type.
+Find one real example on your own computer and explain its purpose in your own words instead of memorizing only the name.
+Bangla: File extension PSD, JPG, PNG বা TXT-এর মতো শেষ অংশ, যা file type চিনতে সাহায্য করে।
+নিজের computer-এ একটি real example খুঁজুন এবং শুধু name মুখস্থ না করে নিজের ভাষায় purpose explain করুন।
+
+---
+
+Question: How can Windows Search help me find a file or application quickly?
+Answer: English: Windows Search finds apps, settings, and indexed files by name or keyword.
+Practise the task on a safe example, watch what changes, and repeat it until you can complete it without risking an important file.
+Bangla: Windows Search name বা keyword দিয়ে app, setting ও indexed file খুঁজে দেয়।
+safe example-এ task practise করুন, কী change হয় দেখুন এবং important file-এর risk ছাড়া করতে পারা পর্যন্ত repeat করুন।
+
+---
+
+Question: What is the safe way to install or uninstall software?
+Answer: English: Install and uninstall add an application to Windows or remove it through the proper system process.
+Find one real example on your own computer and explain its purpose in your own words instead of memorizing only the name.
+Bangla: Install and uninstall সঠিক system process দিয়ে Windows-এ application যোগ করে বা সরিয়ে দেয়।
+নিজের computer-এ একটি real example খুঁজুন এবং শুধু name মুখস্থ না করে নিজের ভাষায় purpose explain করুন।
+
+---
+
+Question: What is a screenshot, and when is it useful?
+Answer: English: Screenshot captures what is visible on all or part of the screen as an image.
+Find one real example on your own computer and explain its purpose in your own words instead of memorizing only the name.
+Bangla: Screenshot screen-এর পুরো বা নির্দিষ্ট অংশ image হিসেবে ধরে রাখে।
+নিজের computer-এ একটি real example খুঁজুন এবং শুধু name মুখস্থ না করে নিজের ভাষায় purpose explain করুন।

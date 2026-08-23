@@ -1,0 +1,85 @@
+Question: What do the Menu bar, Options bar, and Tools panel control?
+Answer: English: Menu bar organizes major Photoshop commands under menus such as File, Edit, Image, Layer, Select, Filter, View, and Window. Options bar shows settings for the tool that is currently selected. Tools panel holds tools for selecting, moving, painting, retouching, drawing, typing, and viewing.
+Practise it through the chapter task: open one image and deliberately locate, move, hide, and restore the main panels before editing.
+Bangla: Menu bar File, Edit, Image, Layer, Select, Filter, View ও Window-এর মতো menu-তে প্রধান Photoshop command সাজায়। Options bar বর্তমানে selected tool-এর setting দেখায়। Tools panel select, move, paint, retouch, draw, type ও view করার tool রাখে।
+chapter task-এর মাধ্যমে এটি practise করুন: একটি image খুলে edit করার আগে প্রধান panel খুঁজুন, সরান, hide করুন এবং আবার restore করুন।
+
+---
+
+Question: What are the document window and document tabs?
+Answer: English: Document window displays the canvas and the artwork being edited. Document tab identifies an open file and lets you switch between open documents.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Document window canvas ও edit করা artwork দেখায়। Document tab খোলা file চিনিয়ে দেয় এবং open document-এর মধ্যে switch করতে দেয়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is a Photoshop panel, and what do the Layers and Properties panels show?
+Answer: English: Panel groups controls for a task, such as layers, properties, color, or history. Layers panel shows the document's layer stack and provides common layer controls. Properties panel shows editable properties for the selected layer, mask, adjustment, or object.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Panel layer, property, color বা history-এর মতো কাজের control একসঙ্গে রাখে। Layers panel document-এর layer stack ও সাধারণ layer control দেখায়। Properties panel selected layer, mask, adjustment বা object-এর editable property দেখায়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How are the Color and Swatches panels different?
+Answer: English: Color panel lets you choose and adjust working colors. Swatches panel stores ready-to-use color samples.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Color panel কাজের color বেছে নিতে ও adjust করতে দেয়। Swatches panel ব্যবহারের জন্য প্রস্তুত color sample রাখে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How do the History and Navigator panels help while editing?
+Answer: English: History panel lists recent document states that can be revisited during the current session. Navigator panel shows a thumbnail view and helps move around a zoomed image.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: History panel বর্তমান session-এর সাম্প্রতিক document state দেখায়, যেগুলোতে ফিরে যাওয়া যায়। Navigator panel thumbnail view দেখায় এবং zoom করা image-এর ভেতরে চলতে সাহায্য করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What is a workspace, and how do I restore the Essentials workspace?
+Answer: English: Workspace saves an arrangement of panels, menus, and some shortcuts for a type of work. Essentials workspace provides Adobe's general-purpose starting panel arrangement. Reset workspace returns the selected workspace to its saved arrangement.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Workspace নির্দিষ্ট কাজের জন্য panel, menu ও কিছু shortcut-এর arrangement সংরক্ষণ করে। Essentials workspace Adobe-এর সাধারণ কাজের starting panel arrangement দেয়। Reset workspace selected workspace-কে saved arrangement-এ ফিরিয়ে নেয়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is the difference between a docked panel and a floating panel?
+Answer: English: Docked panel stays attached to the side of the application for organized access. Floating panel can be moved independently over the interface.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Docked panel গুছিয়ে ব্যবহারের জন্য application-এর পাশে যুক্ত থাকে। Floating panel interface-এর ওপর স্বাধীনভাবে সরানো যায়।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How do rulers, guides, and the grid improve alignment?
+Answer: English: Ruler shows measurement along the document edges and helps place guides. Guide is a non-printing alignment line used to place design elements accurately. Grid shows repeating non-printing lines for alignment and spacing.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Ruler document edge বরাবর measurement দেখায় এবং guide বসাতে সাহায্য করে। Guide design element সঠিকভাবে বসাতে ব্যবহৃত non-printing alignment line। Grid alignment ও spacing-এর জন্য বারবার থাকা non-printing line দেখায়।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: How do the Zoom, Hand, and Rotate View tools help me inspect an image?
+Answer: English: Zoom tool changes how large the document appears on screen without changing its actual pixels. Hand tool pans the view when the document is larger than the visible window. Rotate View tool temporarily rotates the canvas view without rotating the image data.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Zoom tool actual pixel না বদলে document screen-এ কত বড় দেখাবে তা পরিবর্তন করে। Hand tool document visible window-এর চেয়ে বড় হলে view সরায়। Rotate View tool image data না ঘুরিয়ে সাময়িকভাবে canvas view ঘোরায়।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What does changing the screen mode do?
+Answer: English: Screen mode changes how much interface and canvas area is visible.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Screen mode interface ও canvas-এর কতটুকু দেখা যাবে তা পরিবর্তন করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What are Photoshop Preferences, and why should a beginner change them carefully?
+Answer: English: Preferences hold application-wide settings for behavior, interface, tools, performance, files, and more.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Preferences behavior, interface, tool, performance ও file-সহ application-wide setting রাখে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।

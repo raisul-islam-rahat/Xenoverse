@@ -1,0 +1,117 @@
+Question: What is the difference between the Blur and Sharpen tools?
+Answer: English: Blur tool softens local detail by reducing contrast between nearby pixels as you brush. Sharpen tool increases local edge contrast to make brushed detail appear crisper.
+Practise it through the chapter task: use each tool lightly on a copy or separate layer, then compare the result at 100 percent and normal viewing size.
+Bangla: Blur tool brush করার সময় nearby pixel-এর contrast কমিয়ে local detail soft করে। Sharpen tool local edge contrast বাড়িয়ে brushed detail আরও crisp দেখায়।
+chapter task-এর মাধ্যমে এটি practise করুন: প্রতিটি tool copy বা separate layer-এ অল্প করে ব্যবহার করুন, তারপর 100 percent ও normal viewing size-এ result compare করুন।
+
+---
+
+Question: What does the Smudge tool do to existing pixels?
+Answer: English: Smudge tool pushes and mixes existing pixels as if dragging wet paint.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Smudge tool wet paint টানার মতো existing pixel push ও mix করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How are Dodge and Burn used to shape local light and shadow?
+Answer: English: Dodge tool lightens brushed image areas. Burn tool darkens brushed image areas.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Dodge tool brushed image area light করে। Burn tool brushed image area dark করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How does the Sponge tool change local color intensity?
+Answer: English: Sponge tool locally increases or decreases color saturation.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Sponge tool localভাবে color saturation বাড়ায় বা কমায়।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: How do brush size, hardness, and Strength control these local tools?
+Answer: English: Tool brush size controls the width of the local blur, sharpen, smudge, dodge, burn, or sponge effect. Tool hardness controls how sharply the local effect ends at its brush edge. Strength controls how strongly Blur, Sharpen, or Smudge changes pixels during a stroke.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Tool brush size local blur, sharpen, smudge, dodge, burn বা sponge effect-এর width নিয়ন্ত্রণ করে। Tool hardness local effect brush edge-এ কত sharply শেষ হবে তা নিয়ন্ত্রণ করে। Strength stroke-এর সময় Blur, Sharpen বা Smudge pixel কত strongly বদলাবে তা নিয়ন্ত্রণ করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: When can Sample All Layers keep local corrections on a separate layer?
+Answer: English: Sample All Layers lets supported local tools read visible detail from multiple layers while output is placed separately.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: Sample All Layers supported local tool-কে multiple layer-এর visible detail পড়তে দেয় এবং output আলাদাভাবে রাখা যায়।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: What does Protect Detail do during Dodge and Burn?
+Answer: English: Protect Detail helps Dodge and Burn reduce unwanted color shifts and clipping.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Protect Detail Dodge ও Burn-এ unwanted color shift ও clipping কমাতে সাহায্য করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How do Shadows, Midtones, and Highlights ranges target Dodge and Burn?
+Answer: English: Dodge and Burn Shadows range targets mainly darker tonal areas. Dodge and Burn Midtones range targets mainly middle tonal areas. Dodge and Burn Highlights range targets mainly brighter tonal areas.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Dodge and Burn Shadows range মূলত darker tonal area target করে। Dodge and Burn Midtones range মূলত middle tonal area target করে। Dodge and Burn Highlights range মূলত brighter tonal area target করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What does Dodge and Burn Exposure control?
+Answer: English: Dodge and Burn Exposure controls how strongly lightening or darkening builds with each stroke.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Dodge and Burn Exposure প্রতিটি stroke-এ lightening বা darkening কত strongly build হবে তা নিয়ন্ত্রণ করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How are Sponge Saturate, Desaturate, and Vibrance options different?
+Answer: English: Sponge Saturate mode makes brushed colors more intense. Sponge Desaturate mode reduces color intensity in brushed areas. Sponge Vibrance tries to protect already strong colors and some skin tones while changing saturation.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Sponge Saturate mode brushed color আরও intense করে। Sponge Desaturate mode brushed area-এর color intensity কমায়। Sponge Vibrance saturation বদলানোর সময় already strong color ও কিছু skin tone রক্ষা করার চেষ্টা করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How do neutral-gray layers and Curves masks make dodge and burn reversible?
+Answer: English: Neutral gray dodge-and-burn layer uses soft-light-style blending on a separate gray layer for reversible local light and dark painting. Curves mask dodge and burn uses separate lightening and darkening Curves adjustments painted through masks.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Neutral gray dodge-and-burn layer reversible local light ও dark painting-এর জন্য separate gray layer-এ soft-light-style blending ব্যবহার করে। Curves mask dodge and burn mask দিয়ে paint করা separate lightening ও darkening Curves adjustment ব্যবহার করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: When should I use a blur tool instead of a blur filter?
+Answer: English: Blur tool versus blur filter means the tool brushes locally while a filter can apply a controlled effect to a layer or selection.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: Blur tool versus blur filter tool localভাবে brush করে, আর filter layer বা selection-এ controlled effect apply করতে পারে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: What is a sharpening halo, and how can I avoid it?
+Answer: English: Sharpening halo is an unwanted bright or dark outline caused by excessive edge sharpening.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Sharpening halo অতিরিক্ত edge sharpening-এর কারণে হওয়া unwanted bright বা dark outline।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What does Finger Painting add to the Smudge tool?
+Answer: English: Smudge Finger Painting adds foreground color at the start of a smudge stroke.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Smudge Finger Painting smudge stroke-এর শুরুতে foreground color যোগ করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: Why should sharpening be checked at 100 percent view and applied subtly?
+Answer: English: 100 percent view shows one image pixel per screen pixel and is useful for judging many sharpening artifacts. Subtle local correction uses several low-strength passes instead of one heavy stroke for a natural result.
+Use this as a workflow checkpoint before committing the edit. Build effects slowly; too much blur, sharpening, saturation, or dodge and burn quickly makes an image look damaged.
+Bangla: 100 percent view এক image pixel-কে এক screen pixel হিসেবে দেখায় এবং অনেক sharpening artifact বিচার করতে useful। Subtle local correction natural result-এর জন্য এক heavy stroke-এর বদলে কয়েকটি low-strength pass ব্যবহার করে।
+edit commit করার আগে এটিকে workflow checkpoint হিসেবে ব্যবহার করুন। effect ধীরে build করুন; অতিরিক্ত blur, sharpening, saturation বা dodge and burn image দ্রুত damaged দেখায়।

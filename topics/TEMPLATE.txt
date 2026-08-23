@@ -1,0 +1,13 @@
+Question: Write one clear learner-focused question here.
+Answer: English: Write the first detailed English line here.
+Write the second practical English line here.
+Bangla: প্রথম পরিষ্কার বাংলা ব্যাখ্যা এখানে লিখুন।
+দ্বিতীয় ব্যবহারিক বাংলা ব্যাখ্যা এখানে লিখুন।
+
+---
+
+Question: Write the next meaningful question here.
+Answer: English: Continue in the same four-line answer format.
+Keep each answer clear, practical, and easy to understand.
+Bangla: একই চার লাইনের answer format অনুসরণ করুন।
+উত্তর পরিষ্কার, ব্যবহারিক ও সহজ রাখুন।

@@ -1,0 +1,101 @@
+Question: What is a selection, and why should I select an area before editing it?
+Answer: English: Selection isolates an image area so edits can be limited to that area.
+Practise it through the chapter task: select simple shapes, a person, hair, and an object on separate practice images, then turn each selection into a mask.
+Bangla: Selection image-এর area আলাদা করে, যাতে edit ওই জায়গায় সীমিত রাখা যায়।
+chapter task-এর মাধ্যমে এটি practise করুন: আলাদা practice image-এ simple shape, person, hair ও object select করুন, তারপর প্রতিটি selection-কে mask বানান।
+
+---
+
+Question: How do the four Marquee tools differ?
+Answer: English: Rectangular Marquee tool makes rectangular selections and constrained square selections. Elliptical Marquee tool makes elliptical selections and constrained circular selections. Single Row Marquee tool selects a horizontal row that is one pixel high. Single Column Marquee tool selects a vertical column that is one pixel wide.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Rectangular Marquee tool rectangular selection ও constrained square selection তৈরি করে। Elliptical Marquee tool elliptical selection ও constrained circular selection তৈরি করে। Single Row Marquee tool এক pixel height-এর horizontal row select করে। Single Column Marquee tool এক pixel width-এর vertical column select করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: When should I use the Lasso, Polygonal Lasso, or Magnetic Lasso?
+Answer: English: Lasso tool draws a freehand selection boundary. Polygonal Lasso tool builds a straight-edged selection by placing connected points. Magnetic Lasso tool tries to snap a selection boundary to visible high-contrast edges.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: Lasso tool freehand selection boundary আঁকে। Polygonal Lasso tool connected point বসিয়ে straight-edged selection তৈরি করে। Magnetic Lasso tool selection boundary-কে visible high-contrast edge-এর সঙ্গে snap করার চেষ্টা করে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: How do Object Selection, Quick Selection, and Magic Wand choose pixels differently?
+Answer: English: Object Selection tool uses object detection to help select a drawn or hovered object area. Quick Selection tool grows a selection as you brush across similar image detail. Magic Wand tool selects pixels with similar color or tone based on tolerance and other settings.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Object Selection tool object detection ব্যবহার করে drawn বা hovered object area select করতে সাহায্য করে। Quick Selection tool similar image detail-এর ওপর brush করলে selection বাড়ায়। Magic Wand tool tolerance ও অন্যান্য setting অনুযায়ী similar color বা tone-এর pixel select করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: What does Select Subject provide, and why is it only a starting point?
+Answer: English: Select Subject automatically finds and selects the main subject as a starting point.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Select Subject starting point হিসেবে main subject automatically খুঁজে select করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How do Select and Mask and Refine Hair improve difficult edges?
+Answer: English: Select and Mask provides a workspace for viewing and refining selection or mask edges. Refine Hair uses automated edge analysis in Select and Mask to improve many hair selections.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Select and Mask selection বা mask edge দেখা ও refine করার workspace দেয়। Refine Hair Select and Mask-এ automated edge analysis ব্যবহার করে অনেক hair selection উন্নত করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: How do I add to, subtract from, or intersect a selection?
+Answer: English: Add to selection includes another area in the current selection. Subtract from selection removes an area from the current selection. Intersect selection keeps only the overlapping area between selection shapes.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Add to selection বর্তমান selection-এ আরেকটি area যোগ করে। Subtract from selection বর্তমান selection থেকে area বাদ দেয়। Intersect selection selection shape-এর শুধু overlapping area রাখে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What is the difference between Feather and Anti-alias?
+Answer: English: Feather softens a selection boundary over a chosen distance. Anti-alias smooths jagged-looking curved or diagonal selection edges with partly selected pixels.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Feather নির্দিষ্ট distance জুড়ে selection boundary নরম করে। Anti-alias partly selected pixel দিয়ে jagged curved বা diagonal selection edge smooth করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How do Tolerance and Contiguous change a Magic Wand selection?
+Answer: English: Tolerance controls how similar Magic Wand pixels must be to the sampled color. Contiguous limits a color selection to connected pixels when enabled.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Tolerance Magic Wand-এর pixel sampled color-এর কতটা similar হতে হবে তা নিয়ন্ত্রণ করে। Contiguous চালু থাকলে color selection-কে connected pixel-এর মধ্যে সীমিত রাখে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: When should Sample All Layers be enabled while selecting?
+Answer: English: Sample All Layers uses visible information from multiple layers while creating some tool selections.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: Sample All Layers কিছু tool selection তৈরির সময় একাধিক layer-এর visible তথ্য ব্যবহার করে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: What does Inverse Selection do?
+Answer: English: Inverse selection switches selected and unselected areas.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Inverse selection selected ও unselected area অদলবদল করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How do Deselect and Reselect help during selection work?
+Answer: English: Deselect and Reselect removes the active selection boundary or restores the most recent selection when available.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Deselect and Reselect active selection boundary সরায় অথবা available থাকলে সর্বশেষ selection ফিরিয়ে আনে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: How can I save a difficult selection and load it again later?
+Answer: English: Save and Load Selection stores a selection as an alpha channel and brings it back later.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Save and Load Selection selection-কে alpha channel হিসেবে save করে এবং পরে ফিরিয়ে আনে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।

@@ -1,0 +1,93 @@
+Question: When should I use Pen, Curvature Pen, or Freeform Pen?
+Answer: English: Pen tool creates precise straight and curved path segments using anchor points and direction handles. Curvature Pen tool creates and edits curves by placing points with simpler automatic curve handling. Freeform Pen tool draws a path by following a hand-drawn pointer movement.
+Practise it through the chapter task: trace simple straight objects, curves, and a logo-like silhouette using as few anchor points as practical.
+Bangla: Pen tool anchor point ও direction handle দিয়ে precise straight ও curved path segment তৈরি করে। Curvature Pen tool সহজ automatic curve handling-সহ point বসিয়ে curve তৈরি ও edit করে। Freeform Pen tool hand-drawn pointer movement অনুসরণ করে path আঁকে।
+chapter task-এর মাধ্যমে এটি practise করুন: যত কম practical anchor point সম্ভব ব্যবহার করে simple straight object, curve ও logo-like silhouette trace করুন।
+
+---
+
+Question: What are anchor points, corner points, and smooth points?
+Answer: English: Anchor point marks a position where path segments start, end, or change direction. Corner point joins path segments with a sharp direction change or independent handles. Smooth point joins curved segments in a continuous smooth direction.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Anchor point path segment কোথায় শুরু, শেষ বা direction change করবে তা চিহ্নিত করে। Corner point sharp direction change বা independent handle দিয়ে path segment যুক্ত করে। Smooth point curved segment-কে continuous smooth direction-এ যুক্ত করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How do direction handles control a path segment?
+Answer: English: Direction handle controls the direction and strength of curvature leaving an anchor point. Path segment is the straight or curved line between two anchor points.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Direction handle anchor point থেকে বের হওয়া curve-এর direction ও strength নিয়ন্ত্রণ করে। Path segment দুই anchor point-এর মাঝের straight বা curved line।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What is the difference between an open path and a closed path?
+Answer: English: Open path has separate starting and ending anchor points. Closed path connects its final segment back to the starting point.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Open path আলাদা starting ও ending anchor point থাকে। Closed path final segment-কে starting point-এর সঙ্গে যুক্ত করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: What is the difference between Shape mode and Path mode?
+Answer: English: Shape mode creates a filled or stroked vector shape layer from Pen or Shape tool drawing. Path mode creates path information without automatically creating visible filled pixels.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Shape mode Pen বা Shape tool drawing থেকে filled বা stroked vector shape layer তৈরি করে। Path mode automatically visible filled pixel তৈরি না করে path information তৈরি করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: What are a Work Path and the Paths panel?
+Answer: English: Work Path is a temporary path that should be saved if it must be kept. Paths panel stores, names, selects, duplicates, fills, strokes, and manages paths.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Work Path temporary path, যা ধরে রাখতে হলে save করা উচিত। Paths panel path store, name, select, duplicate, fill, stroke ও manage করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How do Path Selection and Direct Selection edit paths differently?
+Answer: English: Path Selection tool selects and moves whole path components. Direct Selection tool selects individual anchor points or path segments for precise editing.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Path Selection tool পুরো path component select ও move করে। Direct Selection tool precise editing-এর জন্য individual anchor point বা path segment select করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How do Add, Delete, and Convert Point tools change anchor points?
+Answer: English: Add Anchor Point tool adds a point to an existing path segment. Delete Anchor Point tool removes a point while keeping the path connected when possible. Convert Point tool changes a smooth point to a corner or adjusts independent direction handles.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Add Anchor Point tool existing path segment-এ point যোগ করে। Delete Anchor Point tool সম্ভব হলে path connected রেখে point সরায়। Convert Point tool smooth point-কে corner-এ বদলায় বা independent direction handle adjust করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What do path operations do when vector components overlap?
+Answer: English: Path operation controls whether new components combine, subtract, intersect, or exclude overlap.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Path operation new component combine, subtract, intersect নাকি overlap exclude করবে তা নিয়ন্ত্রণ করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is the difference between filling and stroking a path?
+Answer: English: Fill Path fills the inside of a closed path with color, pattern, or another supported source. Stroke Path draws along a path using a chosen painting tool and settings.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Fill Path closed path-এর ভেতর color, pattern বা supported অন্য source দিয়ে fill করে। Stroke Path chosen painting tool ও setting দিয়ে path বরাবর আঁকে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How can a path become a selection, or a selection become a work path?
+Answer: English: Path to selection converts a path outline into a pixel selection boundary. Selection to work path converts a selection boundary into an editable path with a chosen tolerance.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Path to selection path outline-কে pixel selection boundary-তে convert করে। Selection to work path selection boundary-কে chosen tolerance-সহ editable path-এ convert করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: How does a path create a clean vector mask?
+Answer: English: Vector mask from path uses a path to control a layer's visibility with crisp scalable edges.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Vector mask from path crisp scalable edge-সহ layer visibility নিয়ন্ত্রণ করতে path ব্যবহার করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।

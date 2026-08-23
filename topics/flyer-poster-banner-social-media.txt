@@ -1,0 +1,117 @@
+Question: What should a campaign brief define about the objective, offer, and call to action?
+Answer: English: Campaign brief defines the goal, audience, offer, message, formats, channels, deadline, and approval owner. Campaign objective states what the audience should know, feel, or do after seeing the design. Offer states the product, service, event, benefit, or promotion being presented. Call to action tells the viewer the next step, such as buy, register, visit, call, or learn more.
+Apply it through the chapter project: turn one campaign brief into a flyer, poster, web banner, square social post, and vertical story while keeping one clear visual system.
+Bangla: Campaign brief goal, audience, offer, message, format, channel, deadline ও approval owner নির্ধারণ করে। Campaign objective design দেখার পর audience কী জানবে, feel করবে বা করবে তা জানায়। Offer present করা product, service, event, benefit বা promotion জানায়। Call to action viewer-কে buy, register, visit, call বা learn more-এর মতো next step জানায়।
+chapter project-এর মাধ্যমে এটি apply করুন: এক campaign brief-কে flyer, poster, web banner, square social post ও vertical story-তে বদলান এবং এক clear visual system রাখুন।
+
+---
+
+Question: How do hierarchy, headline, and supporting copy control the reading order?
+Answer: English: Advertising hierarchy orders the headline, offer, evidence, details, and action by importance. Headline delivers the strongest attention-getting message quickly. Supporting copy explains essential details after the headline earns attention.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Advertising hierarchy headline, offer, evidence, detail ও action-কে importance অনুযায়ী order করে। Headline দ্রুত strongest attention-getting message দেয়। Supporting copy headline attention পাওয়ার পর essential detail explain করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: What makes a hero image support the message instead of becoming decoration?
+Answer: English: Hero image provides the main visual focus that supports the message.
+Add this point to the project brief or production checklist, apply it in context, and review the result with the relevant client, printer, or approver.
+Bangla: Hero image message support করা main visual focus দেয়।
+এই point project brief বা production checklist-এ যোগ করুন, context-এ apply করুন এবং relevant client, printer বা approver-এর সঙ্গে result review করুন।
+
+---
+
+Question: How do I keep one campaign visually consistent across several formats?
+Answer: English: Brand consistency in ads uses approved logo, color, type, imagery, and tone across campaign formats.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Brand consistency in ads campaign format জুড়ে approved logo, color, type, imagery ও tone ব্যবহার করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How should information density differ between a flyer and a poster?
+Answer: English: Flyer communicates an offer or event on a compact handout or digital page. Poster communicates a message from a viewing distance with strong hierarchy and limited detail.
+Place both versions side by side at the real viewing size and choose according to the brief, audience, message, and production requirement.
+Bangla: Flyer compact handout বা digital page-এ offer বা event communicate করে। Poster strong hierarchy ও limited detail দিয়ে viewing distance থেকে message communicate করে।
+real viewing size-এ দুইটি version পাশাপাশি রাখুন এবং brief, audience, message ও production requirement অনুযায়ী choose করুন।
+
+---
+
+Question: How are web banners, feed posts, and vertical stories designed differently?
+Answer: English: Web banner fits a message and action into a wide or compact screen placement. Social media post uses platform-appropriate dimensions and mobile-readable content for a feed. Vertical story design places key content inside safe zones for a tall mobile screen and interface overlays.
+Place both versions side by side at the real viewing size and choose according to the brief, audience, message, and production requirement.
+Bangla: Web banner wide বা compact screen placement-এর মধ্যে message ও action fit করে। Social media post feed-এর জন্য platform-appropriate dimension ও mobile-readable content ব্যবহার করে। Vertical story design tall mobile screen ও interface overlay-এর safe zone-এর মধ্যে key content বসায়।
+real viewing size-এ দুইটি version পাশাপাশি রাখুন এবং brief, audience, message ও production requirement অনুযায়ী choose করুন।
+
+---
+
+Question: Which current platform specifications must I confirm before designing?
+Answer: English: Platform specification defines the current pixel size, aspect ratio, file type, duration, safe zone, and size limit.
+Read the platform's current specification before layout, record the required size and safe zones, and test the exported asset on an actual mobile screen.
+Bangla: Platform specification current pixel size, aspect ratio, file type, duration, safe zone ও size limit নির্ধারণ করে।
+layout-এর আগে platform-এর current specification পড়ুন, required size ও safe zone লিখুন এবং exported asset actual mobile screen-এ test করুন।
+
+---
+
+Question: Why should I rearrange a campaign for each format instead of only resizing it?
+Answer: English: Responsive campaign adaptation rearranges the hierarchy for each shape instead of simply shrinking one layout.
+Record it as a design or production requirement and verify it before approval. Confirm the current platform or printer specifications, use licensed assets, and proof every claim, price, date, link, and contact detail.
+Bangla: Responsive campaign adaptation এক layout শুধু shrink না করে প্রতিটি shape-এর জন্য hierarchy rearrange করে।
+এটিকে design বা production requirement হিসেবে record করুন এবং approval-এর আগে verify করুন। current platform বা printer specification নিশ্চিত করুন, licensed asset ব্যবহার করুন এবং প্রতিটি claim, price, date, link ও contact detail proof করুন।
+
+---
+
+Question: How do mobile readability and safe zones protect important content?
+Answer: English: Mobile readability keeps essential words large, short, and clear on a small screen. Safe zone keeps important content away from cropping, folds, trim, or interface controls.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Mobile readability small screen-এ essential word বড়, short ও clear রাখে। Safe zone important content-কে cropping, fold, trim বা interface control থেকে দূরে রাখে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: Why must every advertising image have a suitable licence?
+Answer: English: Image licence confirms legal permission for commercial, editorial, personal, or modified use as applicable.
+Record it as a design or production requirement and verify it before approval. Confirm the current platform or printer specifications, use licensed assets, and proof every claim, price, date, link, and contact detail.
+Bangla: Image licence প্রয়োজন অনুযায়ী commercial, editorial, personal বা modified use-এর legal permission নিশ্চিত করে।
+এটিকে design বা production requirement হিসেবে record করুন এবং approval-এর আগে verify করুন। current platform বা printer specification নিশ্চিত করুন, licensed asset ব্যবহার করুন এবং প্রতিটি claim, price, date, link ও contact detail proof করুন।
+
+---
+
+Question: Which prices, dates, discounts, and claims must be checked before publishing?
+Answer: English: Advertising claim check verifies prices, discounts, results, dates, conditions, and legal wording before publication.
+Turn the answer into a project checklist, assign who must verify each item, and do not release the work until the required approvals are recorded.
+Bangla: Advertising claim check publication-এর আগে price, discount, result, date, condition ও legal wording verify করে।
+answer-টিকে project checklist বানান, প্রতিটি item কে verify করবে ঠিক করুন এবং required approval record না হওয়া পর্যন্ত work release করবেন না।
+
+---
+
+Question: How can A and B versions test one design decision fairly?
+Answer: English: A and B design versions test one controlled difference such as headline, image, color, or call to action.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: A and B design versions headline, image, color বা call to action-এর মতো একটি controlled difference test করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How should a QR code be placed and tested?
+Answer: English: QR code placement keeps a tested code large, clear, high-contrast, and separated from busy artwork.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: QR code placement tested code-কে বড়, clear, high-contrast ও busy artwork থেকে আলাদা রাখে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How are digital and print advertisement exports different?
+Answer: English: Digital ad export uses the requested color space, dimensions, format, compression, and file-size limit. Print ad export uses confirmed physical size, bleed, profile, resolution, and PDF requirements.
+Place both versions side by side at the real viewing size and choose according to the brief, audience, message, and production requirement.
+Bangla: Digital ad export requested color space, dimension, format, compression ও file-size limit ব্যবহার করে। Print ad export confirmed physical size, bleed, profile, resolution ও PDF requirement ব্যবহার করে।
+real viewing size-এ দুইটি version পাশাপাশি রাখুন এবং brief, audience, message ও production requirement অনুযায়ী choose করুন।
+
+---
+
+Question: What should be checked during final campaign proofing?
+Answer: English: Campaign proofing checks spelling, facts, logo use, alignment, contrast, image quality, sizes, and links on every version.
+Turn the answer into a project checklist, assign who must verify each item, and do not release the work until the required approvals are recorded.
+Bangla: Campaign proofing প্রতিটি version-এর spelling, fact, logo use, alignment, contrast, image quality, size ও link check করে।
+answer-টিকে project checklist বানান, প্রতিটি item কে verify করবে ঠিক করুন এবং required approval record না হওয়া পর্যন্ত work release করবেন না।

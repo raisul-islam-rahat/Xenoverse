@@ -1,0 +1,109 @@
+Question: What should a design brief tell me before I open Photoshop?
+Answer: English: Design brief states the problem, goal, audience, required content, deliverables, limits, and deadline.
+Apply it through the chapter project: redesign one simple message three ways, changing hierarchy, alignment, spacing, and focal point while keeping the same content.
+Bangla: Design brief problem, goal, audience, required content, deliverable, limit ও deadline জানায়।
+chapter project-এর মাধ্যমে এটি apply করুন: একই content রেখে hierarchy, alignment, spacing ও focal point বদলে একটি simple message তিনভাবে redesign করুন।
+
+---
+
+Question: How do target audience, purpose, and core message guide a design?
+Answer: English: Target audience is the specific group of people the design needs to reach. Design purpose defines the action, understanding, or feeling the work should create. Core message is the most important idea the viewer should understand.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Target audience যে নির্দিষ্ট মানুষের group-এর কাছে design পৌঁছাতে হবে। Design purpose কাজটি কী action, understanding বা feeling তৈরি করবে তা নির্ধারণ করে। Core message viewer-এর বোঝার সবচেয়ে গুরুত্বপূর্ণ idea।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How can line and shape organize or communicate information?
+Answer: English: Line can divide space, guide the eye, show direction, or create style. Shape is a flat enclosed visual area that can organize or symbolize information.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Line space divide, eye guide, direction show বা style তৈরি করতে পারে। Shape flat enclosed visual area, যা information organize বা symbolize করতে পারে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How do texture and value change the feeling and clarity of artwork?
+Answer: English: Texture suggests how a surface looks or might feel. Value describes how light or dark a visual element is.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Texture surface দেখতে বা অনুভব করতে কেমন হতে পারে তা বোঝায়। Value visual element কত light বা dark তা বোঝায়।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How does scale show importance or distance?
+Answer: English: Scale uses relative size to show importance, distance, or relationship.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Scale relative size দিয়ে importance, distance বা relationship দেখায়।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: What is visual balance, and how are symmetrical and asymmetrical balance different?
+Answer: English: Visual balance distributes visual weight so the composition feels stable or intentionally dynamic. Symmetrical balance places similar visual weight on matching sides of an axis. Asymmetrical balance balances different elements through size, color, position, or contrast.
+Place both versions side by side at the real viewing size and choose according to the brief, audience, message, and production requirement.
+Bangla: Visual balance visual weight distribute করে, যাতে composition stable বা intentionally dynamic লাগে। Symmetrical balance একটি axis-এর matching side-এ similar visual weight বসায়। Asymmetrical balance size, color, position বা contrast দিয়ে different element balance করে।
+real viewing size-এ দুইটি version পাশাপাশি রাখুন এবং brief, audience, message ও production requirement অনুযায়ী choose করুন।
+
+---
+
+Question: How do contrast, emphasis, and hierarchy control what the viewer notices first?
+Answer: English: Contrast makes differences clear so information is easier to notice and read. Emphasis makes one element attract attention before less important elements. Visual hierarchy sets the order in which viewers notice and understand information.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Contrast difference clear করে, যাতে information সহজে notice ও read করা যায়। Emphasis কম গুরুত্বপূর্ণ element-এর আগে একটি element-এ attention আনে। Visual hierarchy viewer কোন order-এ information notice ও understand করবে তা নির্ধারণ করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How do alignment and proximity show which items belong together?
+Answer: English: Alignment creates visible relationships by lining elements up to shared edges or centers. Proximity groups related items by placing them closer together.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Alignment shared edge বা center অনুযায়ী element বসিয়ে visible relationship তৈরি করে। Proximity related item কাছাকাছি বসিয়ে group করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How do repetition and rhythm create consistency without making a layout boring?
+Answer: English: Repetition reuses visual choices to build consistency and recognition. Rhythm creates a visual beat through repeated elements and changing intervals.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Repetition consistency ও recognition তৈরির জন্য visual choice আবার ব্যবহার করে। Rhythm repeated element ও changing interval দিয়ে visual beat তৈরি করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: How does visual movement guide the viewer through a layout?
+Answer: English: Movement guides the viewer's eye through the composition.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Movement composition-এর ভেতর viewer-এর eye guide করে।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: What creates unity in a design?
+Answer: English: Unity makes different elements feel as if they belong to one complete design.
+Add this point to the project brief or production checklist, apply it in context, and review the result with the relevant client, printer, or approver.
+Bangla: Unity different element-কে একটি complete design-এর অংশ মনে করায়।
+এই point project brief বা production checklist-এ যোগ করুন, context-এ apply করুন এবং relevant client, printer বা approver-এর সঙ্গে result review করুন।
+
+---
+
+Question: Why is negative space useful instead of being wasted space?
+Answer: English: Negative space is intentionally empty space that separates, frames, or gives breathing room to content.
+Record it as a design or production requirement and verify it before approval. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: Negative space intentionally empty space, যা content separate, frame বা breathing room দেয়।
+এটিকে design বা production requirement হিসেবে record করুন এবং approval-এর আগে verify করুন। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।
+
+---
+
+Question: How do focal point and composition work together?
+Answer: English: Focal point is the first or strongest area of attention in a composition. Composition is the deliberate arrangement of all visual elements inside the design area.
+Apply the method to one real layout, explain why the decision supports the brief, and compare at least one alternative before approval.
+Bangla: Focal point composition-এর প্রথম বা strongest attention area। Composition design area-এর ভেতরে সব visual element-এর deliberate arrangement।
+একটি real layout-এ method apply করুন, decision কেন brief support করে তা explain করুন এবং approval-এর আগে অন্তত একটি alternative compare করুন।
+
+---
+
+Question: Why should I create and compare several design iterations?
+Answer: English: Design iteration improves a concept through multiple versions, comparison, feedback, and revision.
+Record it as a design or production requirement and verify it before approval. Do not decorate before the message, audience, and purpose are clear; every visual choice should support communication.
+Bangla: Design iteration multiple version, comparison, feedback ও revision-এর মাধ্যমে concept উন্নত করে।
+এটিকে design বা production requirement হিসেবে record করুন এবং approval-এর আগে verify করুন। message, audience ও purpose পরিষ্কার হওয়ার আগে decoration শুরু করবেন না; প্রতিটি visual choice communication-কে support করা উচিত।

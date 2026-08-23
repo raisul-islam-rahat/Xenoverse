@@ -1,0 +1,109 @@
+Question: How do I start a new document, and when should I use a preset?
+Answer: English: New Document creates a fresh Photoshop file from custom settings or a preset. Document preset stores common size and setup values for quick reuse.
+Practise it through the chapter task: create one small screen document and one print document, then compare their units, dimensions, resolution, and color setup.
+Bangla: New Document custom setting বা preset থেকে নতুন Photoshop file তৈরি করে। Document preset দ্রুত আবার ব্যবহারের জন্য সাধারণ size ও setup value সংরক্ষণ করে।
+chapter task-এর মাধ্যমে এটি practise করুন: একটি ছোট screen document ও একটি print document তৈরি করে unit, dimension, resolution ও color setup তুলনা করুন।
+
+---
+
+Question: How should I choose width, height, unit, and orientation?
+Answer: English: Width sets the horizontal size of a new document or image. Height sets the vertical size of a new document or image. Measurement unit decides whether dimensions are entered as pixels, inches, millimetres, centimetres, points, or another unit. Orientation describes whether a document is wider than tall, taller than wide, or square.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Width নতুন document বা image-এর horizontal size নির্ধারণ করে। Height নতুন document বা image-এর vertical size নির্ধারণ করে। Measurement unit dimension pixel, inch, millimetre, centimetre, point বা অন্য unit-এ দেওয়া হবে তা নির্ধারণ করে। Orientation document আড়াআড়ি বেশি, লম্বালম্বি বেশি নাকি square তা বোঝায়।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What is the document resolution setting, and how are PPI and DPI different?
+Answer: English: Resolution setting connects pixel dimensions with a physical print size. PPI and DPI difference means PPI describes image pixels while DPI usually describes printer ink or toner dots.
+Create one screen document in pixels and one print document in physical units; compare pixel dimensions, PPI, print size, and the printer's requested output settings.
+Bangla: Resolution setting pixel dimension-এর সঙ্গে physical print size-এর সম্পর্ক তৈরি করে। PPI and DPI difference PPI image pixel বোঝায়, আর DPI সাধারণত printer-এর ink বা toner dot বোঝায়।
+একটি screen document pixel-এ এবং একটি print document physical unit-এ তৈরি করুন; pixel dimension, PPI, print size ও printer-এর requested output setting compare করুন।
+
+---
+
+Question: When should I use RGB, and when might a printer require CMYK?
+Answer: English: RGB mode uses red, green, and blue channels and is the normal choice for screens and many digital workflows. CMYK mode uses cyan, magenta, yellow, and black channels for many commercial print workflows.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: RGB mode red, green ও blue channel ব্যবহার করে এবং screen ও অনেক digital workflow-এর সাধারণ choice। CMYK mode অনেক commercial print workflow-তে cyan, magenta, yellow ও black channel ব্যবহার করে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: What are Grayscale, Lab Color, and Bitmap modes used for?
+Answer: English: Grayscale mode stores tonal information from black through gray to white without normal color channels. Lab Color mode separates lightness from two color-opponent channels and covers a wide color range. Bitmap mode represents each pixel with only black or white and requires special conversion conditions.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Grayscale mode সাধারণ color channel ছাড়া black থেকে gray হয়ে white পর্যন্ত tone সংরক্ষণ করে। Lab Color mode lightness-কে দুইটি color-opponent channel থেকে আলাদা রাখে এবং বড় color range ধারণ করে। Bitmap mode প্রতিটি pixel শুধু black বা white দিয়ে প্রকাশ করে এবং বিশেষ conversion condition প্রয়োজন।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is bit depth, and why can a higher bit depth make a larger file?
+Answer: English: Bit depth sets how many tonal values each channel can describe, affecting flexibility and file size.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Bit depth প্রতিটি channel কত tonal value প্রকাশ করবে তা নির্ধারণ করে, ফলে flexibility ও file size বদলায়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What does Background Contents choose in a new document?
+Answer: English: Background Contents chooses an initial white, background-color, transparent, or other supported starting canvas.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Background Contents শুরুতে white, background-color, transparent বা সমর্থিত অন্য canvas বেছে নেয়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is an artboard, and when is it useful?
+Answer: English: Artboard creates a separate design area inside one document for variations or multiple screens.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Artboard এক document-এর ভেতরে variation বা একাধিক screen-এর জন্য আলাদা design area তৈরি করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is the difference between Canvas Size and Image Size?
+Answer: English: Canvas Size changes the working area around the existing image without directly resampling its pixels. Image Size changes pixel dimensions, print dimensions, resolution, or a combination of them.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Canvas Size existing image-এর pixel সরাসরি resample না করে চারপাশের working area বদলায়। Image Size pixel dimension, print dimension, resolution বা এগুলোর combination বদলায়।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: What are resampling and interpolation, and when do they affect image quality?
+Answer: English: Resampling adds or removes pixels when pixel dimensions are changed. Interpolation is the calculation method Photoshop uses when creating or removing pixels during resampling.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Resampling pixel dimension বদলানোর সময় pixel যোগ বা বাদ দেয়। Interpolation resampling-এর সময় pixel তৈরি বা বাদ দিতে Photoshop যে calculation method ব্যবহার করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What are bleed and safe margin in a print design?
+Answer: English: Bleed extends artwork beyond the final trim edge so printing and cutting do not leave unwanted white edges. Safe margin keeps important text and logos away from trim or edge areas.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Bleed final trim edge-এর বাইরে artwork বাড়ায়, যাতে print ও cut করার পর অনাকাঙ্ক্ষিত white edge না থাকে। Safe margin গুরুত্বপূর্ণ text ও logo-কে trim বা edge area থেকে নিরাপদ দূরত্বে রাখে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is pixel aspect ratio, and what should it normally be for still images?
+Answer: English: Pixel aspect ratio describes the width-to-height shape of individual pixels and is normally square for standard still images.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Pixel aspect ratio একটি pixel-এর width ও height-এর অনুপাত বোঝায় এবং সাধারণ still image-এ সাধারণত square থাকে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is a color profile, and why should it not be ignored?
+Answer: English: Color profile describes how numeric color values should appear on a device or in a color space.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Color profile numeric color value কোনো device বা color space-এ কেমন দেখাবে তা বোঝায়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How should a document setup differ for screen and print work?
+Answer: English: Screen versus print setup requires different thinking about physical size, color mode, resolution, bleed, and output profile.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Screen versus print setup physical size, color mode, resolution, bleed ও output profile নিয়ে ভিন্নভাবে ভাবতে বলে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।

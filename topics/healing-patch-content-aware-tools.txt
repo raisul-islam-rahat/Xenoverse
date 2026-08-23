@@ -1,0 +1,117 @@
+Question: When should I use Spot Healing Brush instead of Healing Brush?
+Answer: English: Spot Healing Brush tool repairs small areas by blending nearby texture, lighting, and tone without a manually chosen source. Healing Brush tool blends a manually sampled source texture with the color and tone of the destination.
+Practise it through the chapter task: retouch dust, a small spot, a larger unwanted object, and a red eye on copies while checking the result at normal viewing size.
+Bangla: Spot Healing Brush tool manually source না নিয়ে nearby texture, lighting ও tone blend করে small area repair করে। Healing Brush tool manually sampled source texture-কে destination-এর color ও tone-এর সঙ্গে blend করে।
+chapter task-এর মাধ্যমে এটি practise করুন: copy image-এ dust, small spot, বড় unwanted object ও red eye retouch করুন এবং normal viewing size-এ result দেখুন।
+
+---
+
+Question: When is the Patch tool better than brushing over a large damaged area?
+Answer: English: Patch tool repairs a selected area by blending it with a chosen source or destination region.
+Choose it only when the image and desired result match the use described above; work on a copy, mask, or separate layer when possible.
+Bangla: Patch tool selected area-কে chosen source বা destination region-এর সঙ্গে blend করে repair করে।
+image ও desired result উপরের use-এর সঙ্গে match করলেই এটি choose করুন; সম্ভব হলে copy, mask বা separate layer-এ কাজ করুন।
+
+---
+
+Question: What can the Content-Aware Move tool move or extend?
+Answer: English: Content-Aware Move tool moves or extends selected content while trying to rebuild the old and new surroundings.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Content-Aware Move tool selected content move বা extend করে এবং old ও new surrounding rebuild করার চেষ্টা করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How does the Red Eye tool correct flash-related red pupils?
+Answer: English: Red Eye tool darkens red pupils caused by direct flash while trying to keep a natural eye appearance.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Red Eye tool direct flash-এর কারণে হওয়া red pupil dark করে এবং natural eye appearance রাখার চেষ্টা করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What does the Remove tool do when I brush over a distraction?
+Answer: English: Remove tool brushes over unwanted content and uses surrounding information to generate a replacement.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Remove tool unwanted content-এর ওপর brush করে এবং surrounding information দিয়ে replacement তৈরি করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How do I set and control a sample source for Healing Brush?
+Answer: English: Sample source is the clean image area copied or analyzed to repair another area. Alt-click or Option-click sampling sets the Healing Brush source point on Windows or macOS. Aligned sampling keeps the source and destination positions moving together after the source is set.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Sample source clean image area, যা অন্য area repair করার জন্য copy বা analyze করা হয়। Alt-click or Option-click sampling Windows বা macOS-এ Healing Brush-এর source point নির্ধারণ করে। Aligned sampling source set করার পর source ও destination position একসঙ্গে move করায়।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: Why should I enable Sample All Layers and retouch on a blank layer?
+Answer: English: Sample All Layers uses visible information from multiple layers while output can be placed on a separate retouch layer. Blank retouch layer keeps healing work separate from original pixels when the tool supports the chosen sampling setup.
+Use this as a workflow checkpoint before committing the edit. Keep natural texture, avoid obvious repeats, and never change a person's identity or evidence without clear permission and purpose.
+Bangla: Sample All Layers একাধিক layer-এর visible information ব্যবহার করে এবং output আলাদা retouch layer-এ রাখা যায়। Blank retouch layer tool selected sampling setup support করলে healing work original pixel থেকে আলাদা রাখে।
+edit commit করার আগে এটিকে workflow checkpoint হিসেবে ব্যবহার করুন। natural texture রাখুন, obvious repeat এড়ান এবং স্পষ্ট permission ও purpose ছাড়া কারও identity বা evidence বদলাবেন না।
+
+---
+
+Question: How do Proximity Match, Create Texture, and Content-Aware options differ in Spot Healing?
+Answer: English: Spot Healing Proximity Match uses nearby pixels around the painted edge to build a repair. Spot Healing Create Texture uses nearby pixels to form a texture for the repaired area. Spot Healing Content-Aware analyzes surrounding content to produce a blended repair.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Spot Healing Proximity Match painted edge-এর nearby pixel ব্যবহার করে repair তৈরি করে। Spot Healing Create Texture nearby pixel দিয়ে repaired area-এর texture তৈরি করে। Spot Healing Content-Aware surrounding content analyze করে blended repair তৈরি করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: What does Healing Brush Diffusion control?
+Answer: English: Healing Brush Diffusion controls how quickly the sampled repair blends with surrounding pixels.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Healing Brush Diffusion sampled repair surrounding pixel-এর সঙ্গে কত দ্রুত blend হবে তা নিয়ন্ত্রণ করে।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: What is the difference between Patch Source and Patch Destination modes?
+Answer: English: Patch Source mode replaces the selected damaged area with the clean area to which the selection is dragged. Patch Destination mode copies the selected area to a new destination and blends it there.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Patch Source mode selected damaged area-কে drag করা clean area দিয়ে replace করে। Patch Destination mode selected area নতুন destination-এ copy করে এবং সেখানে blend করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: How do Structure and Color settings affect a Content-Aware Patch?
+Answer: English: Patch Structure controls how closely a Content-Aware patch follows the source structure. Patch Color controls how much color blending is applied in a Content-Aware patch.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Patch Structure Content-Aware patch source structure কতটা অনুসরণ করবে তা নিয়ন্ত্রণ করে। Patch Color Content-Aware patch-এ কত color blending হবে তা নিয়ন্ত্রণ করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: What is the difference between Move and Extend modes in Content-Aware Move?
+Answer: English: Content-Aware Move mode relocates a selected object and fills the original location. Content-Aware Extend mode copies and extends selected content into another area.
+Test the options on duplicate layers with the same image, then compare control, edge quality, editability, and the final visible result.
+Bangla: Content-Aware Move mode selected object relocate করে এবং original location fill করে। Content-Aware Extend mode selected content copy করে অন্য area-তে extend করে।
+একই image-এর duplicate layer-এ optionগুলো test করুন; তারপর control, edge quality, editability ও final visible result compare করুন।
+
+---
+
+Question: What control does the Content-Aware Fill workspace provide?
+Answer: English: Content-Aware Fill workspace lets you control sampling areas and preview generated fill for a selection.
+Locate the control in Photoshop, try it on a small safe file, and confirm exactly which layer, pixels, path, or output setting it changes.
+Bangla: Content-Aware Fill workspace selection-এর sampling area control ও generated fill preview করতে দেয়।
+Photoshop-এ controlটি খুঁজুন, small safe file-এ try করুন এবং এটি কোন layer, pixel, path বা output setting change করে তা confirm করুন।
+
+---
+
+Question: How does processing each Remove tool stroke separately affect the result?
+Answer: English: Remove after each stroke can process Remove tool strokes separately instead of combining many strokes before applying.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Remove after each stroke অনেক stroke একসঙ্গে apply না করে Remove tool stroke আলাদাভাবে process করতে পারে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
+
+---
+
+Question: How do I check that retouching still looks natural?
+Answer: English: Natural texture check compares pores, grain, edges, and repeated patterns so retouching does not look plastic. Before-and-after check compares the retouched result with the original at useful zoom levels.
+Start with the default settings, change one control at a time, and inspect the result at both a useful zoom and the final viewing size.
+Bangla: Natural texture check pore, grain, edge ও repeated pattern compare করে, যাতে retouch plastic না লাগে। Before-and-after check useful zoom level-এ retouched result original-এর সঙ্গে compare করে।
+default setting দিয়ে শুরু করুন, একবারে একটি control বদলান এবং useful zoom ও final viewing size—দুই জায়গায় result দেখুন।
