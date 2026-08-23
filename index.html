@@ -112,5 +112,22 @@
   </footer>
 
   <noscript>This interface requires JavaScript to load the topic manifest and text files.</noscript>
+
+  <script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker
+      .register('/Xenoverse/service-worker.js', {
+        scope: '/Xenoverse/'
+      })
+      .then(registration => {
+        console.log('Service Worker registered:', registration.scope);
+      })
+      .catch(error => {
+        console.error('Service Worker registration failed:', error);
+      });
+  });
+}
+</script>
 </body>
 </html>
