@@ -1,0 +1,22 @@
+# FORMAT: number|card title|text filename without .txt|category
+# The index builds every card from this file. Keep each slug lowercase with hyphens only.
+01|Computer Fundamentals|computer-fundamentals|Computer Basics
+02|Windows and Desktop Basics|windows-desktop-basics|Computer Basics
+03|Keyboard and Mouse Skills|keyboard-mouse-skills|Computer Basics
+04|File and Folder Management|file-folder-management|Computer Basics
+05|File Formats and Extensions|file-formats-extensions|Computer Basics
+06|Software Installation and Uninstallation|software-installation-uninstallation|Computer Basics
+07|Introduction to Adobe Photoshop|introduction-adobe-photoshop|Photoshop Basics
+08|Photoshop Interface and Workspace|photoshop-interface-workspace|Photoshop Basics
+09|Creating Documents and Canvas Settings|documents-canvas-settings|Photoshop Basics
+10|Opening, Saving and Exporting Images|opening-saving-exporting-images|Photoshop Basics
+11|Layers and Layer Management|layers-layer-management|Photoshop Basics
+12|Selection Tools|selection-tools|Image Editing
+13|Move, Crop and Transform Tools|move-crop-transform-tools|Image Editing
+14|Brush, Eraser and Painting Tools|brush-eraser-painting-tools|Image Editing
+15|Colors, Swatches and Gradients|colors-swatches-gradients|Graphic Design
+16|Text and Typography|text-typography|Graphic Design
+17|Brightness, Contrast and Color Correction|brightness-contrast-color-correction|Image Editing
+18|Photo Retouching and Background Removal|photo-retouching-background-removal|Image Editing
+19|Layer Masks and Blending Modes|layer-masks-blending-modes|Advanced Photoshop
+20|Complete Design Project and Final Export|complete-design-project-final-export|Projects

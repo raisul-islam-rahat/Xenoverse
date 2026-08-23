@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <meta name="theme-color" content="#0a111b">
+  <meta name="description" content="Text-powered IELTS speaking question and answer deck.">
+  <title>RISE//OS — Topic Deck</title>
+  <script>
+    (() => {
+      try { document.documentElement.dataset.theme = localStorage.getItem("speakos:theme") || "dark"; }
+      catch (_) { document.documentElement.dataset.theme = "dark"; }
+    })();
+  </script>
+  <link rel="stylesheet" href="assets/site.css">
+  <script src="assets/theme.js" defer></script>
+  <script src="assets/topic.js" defer></script>
+</head>
+<body class="topic-page">
+  <div class="ambient-grid" aria-hidden="true"></div>
+
+  <header class="app-bar">
+    <a class="brand" href="index.html" aria-label="Return to topic index">
+      <span class="brand-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="brand-copy"><strong>RISE<span>//</span>OS</strong><small>Knowledge Sharing workspace</small></span>
+    </a>
+
+    <div class="app-actions">
+      <a class="back-link" href="index.html">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6"></path></svg>
+        Topic index
+      </a>
+      <button class="icon-button theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme" title="Switch colour theme">
+        <svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.66 6.34l1.41-1.41"></path></svg>
+        <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5 8.5 8.5 0 1 0 20.5 14.2Z"></path></svg>
+        <span class="theme-name" data-theme-name>Dark</span>
+      </button>
+    </div>
+  </header>
+
+  <main class="app-shell topic-shell">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="index.html">Library</a><span>/</span><span id="breadcrumb-topic">Loading module</span>
+    </nav>
+
+    <section class="topic-console" aria-labelledby="topic-title">
+      <div class="topic-identity">
+        <div class="module-number" id="module-number">--</div>
+        <div>
+          <p class="overline"><span id="topic-category">MODULE</span> Text-powered practice deck</p>
+          <h1 id="topic-title">Loading topic data…</h1>
+          <p class="topic-source"><span class="source-pulse"></span><code id="topic-file">topics/—.txt</code></p>
+        </div>
+      </div>
+
+      <div class="topic-metrics" aria-label="Topic progress">
+        <article><span>Questions</span><strong id="question-total">—</strong></article>
+        <article><span>Practised</span><strong id="practised-total">0</strong></article>
+        <article><span>Total reveals</span><strong id="reveal-total">0</strong></article>
+      </div>
+    </section>
+
+    <section class="deck-workspace" aria-labelledby="deck-heading">
+      <div class="workspace-header">
+        <div>
+          <p class="overline"><span>DECK</span> Question and answer stream</p>
+          <h2 id="deck-heading">Practice cards</h2>
+        </div>
+        <p class="result-status" id="question-status" aria-live="polite">Reading text source…</p>
+      </div>
+
+      <div class="toolbar deck-toolbar" aria-label="Question controls">
+        <label class="search-control">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.6-3.6"></path></svg>
+          <span class="sr-only">Search questions and answers</span>
+          <input id="question-search" type="search" placeholder="Search this deck" autocomplete="off">
+          <kbd>/</kbd>
+        </label>
+        <div class="deck-actions">
+          <button class="button" type="button" id="expand-all">Expand all</button>
+          <button class="button" type="button" id="collapse-all">Collapse all</button>
+        </div>
+      </div>
+
+      <div class="question-list" id="question-list" aria-live="polite">
+        <div class="question-skeleton"></div><div class="question-skeleton"></div><div class="question-skeleton"></div>
+      </div>
+
+      <div class="state-panel" id="topic-state" hidden>
+        <span class="state-code" id="topic-state-code">DATA_EMPTY</span>
+        <h3 id="topic-state-title">No questions available</h3>
+        <p id="topic-state-message">Add question and answer pairs to this topic’s text file.</p>
+        <a class="button button-primary" href="index.html">Return to index</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <span>RISE//OS <b>dynamic topic renderer</b></span>
+    <span>Tap a question to reveal its answer</span>
+  </footer>
+
+  <noscript>This interface requires JavaScript to read the topic text file.</noscript>
+</body>
+</html>

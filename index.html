@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <meta name="theme-color" content="#0a111b">
+  <meta name="description" content="A text-powered IELTS speaking practice workspace.">
+  <title>RISE//OS — Topic Index</title>
+  <script>
+    (() => {
+      try { document.documentElement.dataset.theme = localStorage.getItem("speakos:theme") || "dark"; }
+      catch (_) { document.documentElement.dataset.theme = "dark"; }
+    })();
+  </script>
+  <link rel="stylesheet" href="assets/site.css">
+  <script src="assets/theme.js" defer></script>
+  <script src="assets/index.js" defer></script>
+</head>
+<body class="index-page">
+  <div class="ambient-grid" aria-hidden="true"></div>
+
+  <header class="app-bar">
+    <a class="brand" href="index.html" aria-label="SPEAK OS topic index">
+      <span class="brand-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="brand-copy"><strong>RISE<span>//</span>OS</strong><small>Knowledge Sharing workspace</small></span>
+    </a>
+
+    <div class="app-actions">
+      <span class="system-state"><i></i><span>Local progress active</span></span>
+      <button class="icon-button theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme" title="Switch colour theme">
+        <svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.66 6.34l1.41-1.41"></path></svg>
+        <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5 8.5 8.5 0 1 0 20.5 14.2Z"></path></svg>
+        <span class="theme-name" data-theme-name>Dark</span>
+      </button>
+    </div>
+  </header>
+
+  <main class="app-shell">
+    <section class="dashboard-panel" aria-labelledby="dashboard-title">
+      <div class="dashboard-copy">
+        <p class="overline"><span>SYS.01</span> Digital practice matrix</p>
+        <h1 id="dashboard-title">Your speaking<br><span>command centre.</span></h1>
+        <p>A Website Designed By RIFIRE For your Knowledge Gathering.</p>
+        <div class="source-line"><span class="source-pulse"></span><code>topics/topics.txt</code><span>connected source</span></div>
+      </div>
+
+      <div class="metric-grid" aria-label="Practice summary">
+        <article class="metric-card metric-primary">
+          <span class="metric-label">Total launches</span>
+          <strong id="total-launches">0</strong>
+          <small>topic sessions</small>
+          <span class="metric-signal" aria-hidden="true"></span>
+        </article>
+        <article class="metric-card">
+          <span class="metric-label">Active topics</span>
+          <strong id="active-topics">0</strong>
+          <small>started locally</small>
+        </article>
+        <article class="metric-card">
+          <span class="metric-label">Data modules</span>
+          <strong id="topic-total">—</strong>
+          <small>manifest entries</small>
+        </article>
+      </div>
+    </section>
+
+    <section class="workspace" aria-labelledby="topic-heading">
+      <div class="workspace-header">
+        <div>
+          <p class="overline"><span>LIBRARY</span> Data-driven modules</p>
+          <h2 id="topic-heading">Topic index</h2>
+        </div>
+        <p class="result-status" id="result-status" aria-live="polite">Connecting to manifest…</p>
+      </div>
+
+      <div class="toolbar" aria-label="Topic controls">
+        <label class="search-control">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.6-3.6"></path></svg>
+          <span class="sr-only">Search topics</span>
+          <input id="topic-search" type="search" placeholder="Search modules" autocomplete="off">
+          <kbd>/</kbd>
+        </label>
+        <div class="filter-strip" id="category-filters" aria-label="Filter by category"></div>
+      </div>
+
+      <div class="topic-grid" id="topic-grid" aria-live="polite">
+        <div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div>
+      </div>
+
+      <div class="state-panel" id="state-panel" hidden>
+        <span class="state-code" id="state-code">NO_MATCH</span>
+        <h3 id="state-title">No modules found</h3>
+        <p id="state-message">Try another search or reset the filters.</p>
+        <button class="button button-primary" type="button" id="state-action">Reset view</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <span>RISE//OS <b>v1.0 skeleton</b></span>
+    <span>Content engine: plain text</span>
+    <span>Progress engine: local browser storage</span>
+  </footer>
+
+  <noscript>This interface requires JavaScript to load the topic manifest and text files.</noscript>
+</body>
+</html>
