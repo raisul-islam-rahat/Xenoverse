@@ -1,8 +1,8 @@
 {
+  "id": "/Xenoverse/",
   "name": "RISE OS",
   "short_name": "RISE OS",
-  "id": "/Xenoverse/",
-  "start_url": "/Xenoverse/",
+  "start_url": "/Xenoverse/?source=pwa",
   "scope": "/Xenoverse/",
   "display": "standalone",
   "background_color": "#0b0f14",
