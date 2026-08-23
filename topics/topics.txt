@@ -21,3 +21,4 @@
 18|Negotiation & Closing Agreements|negotiation-closing-agreements|Professional Skills
 19|File Naming, Metadata & Collaboration|file-naming-metadata-collaboration|Professional Skills
 20|Workspace Safety & OSH|workspace-safety-osh|Professional Skills
+21|Professional Reply based on scenarios|aio|Professional Skills
